@@ -1,0 +1,17 @@
+---
+id: 68rxjy69u0ihzlbcaaq02su
+title: CACHE
+desc: null
+updated: 1685133015960
+created: 1684912751
+---
+
+
+```sql
+CREATE TABLE CACHE (ID TLLAVE NOT NULL,
+        PARAMETRO TCADENAMEDIANA,
+        VALOR TNOTA,
+        TTL TFECHAHORA,
+        ETAG TCADENAMEDIANA DEFAULT NULL,
+CONSTRAINT PK_CACHE PRIMARY KEY (ID));
+```

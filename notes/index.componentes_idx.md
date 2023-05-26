@@ -1,0 +1,12 @@
+---
+id: 4rjxv6o7it60d2mxls160l5
+title: COMPONENTES_IDX
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX COMPONENTES_IDX ON PRODUCTO_COMPONENTES (PRODUCTO_PADRE_ID);
+```

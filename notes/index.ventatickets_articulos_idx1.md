@@ -1,0 +1,12 @@
+---
+id: 1doymhja0aqkc4r5iflkl6u
+title: VENTATICKETS_ARTICULOS_IDX1
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX VENTATICKETS_ARTICULOS_IDX1 ON VENTATICKETS_ARTICULOS (TICKET_ID);
+```

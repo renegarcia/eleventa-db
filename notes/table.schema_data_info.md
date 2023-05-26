@@ -1,0 +1,12 @@
+---
+id: 8005k2wur3kjw0gh3nkv52z
+title: SCHEMA_DATA_INFO
+desc: null
+updated: 1684912753
+created: 1684912753
+---
+
+
+```sql
+CREATE TABLE SCHEMA_DATA_INFO (VERSION_MIGRACION_DATOS INTEGER);
+```

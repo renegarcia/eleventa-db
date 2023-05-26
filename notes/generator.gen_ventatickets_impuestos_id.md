@@ -1,0 +1,12 @@
+---
+id: x8a8d6x4tnxqshee00z983l
+title: GEN_VENTATICKETS_IMPUESTOS_ID
+desc: null
+updated: 1684912751
+created: 1684912751
+---
+
+
+```sql
+CREATE GENERATOR GEN_VENTATICKETS_IMPUESTOS_ID;
+```

@@ -1,0 +1,14 @@
+---
+id: 4cezz8pd1d7kmk2mmjk8vfp
+title: ALMACENES
+desc: null
+updated: 1684912751
+created: 1684912751
+---
+
+
+```sql
+CREATE TABLE ALMACENES (ID TLLAVE NOT NULL,
+        NOMBRE TCADENALARGA,
+CONSTRAINT PK_ALMACENES PRIMARY KEY (ID));
+```

@@ -1,0 +1,12 @@
+---
+id: kqgvh5hifue9mu7g4s23ra2
+title: PRODS_UPPER_COD_IDX
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX PRODS_UPPER_COD_IDX ON PRODUCTOS COMPUTED BY (UPPER(CODIGO));
+```

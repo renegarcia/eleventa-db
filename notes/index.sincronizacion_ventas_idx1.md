@@ -1,0 +1,12 @@
+---
+id: 1ddv0k5awuvylvl6hwwacbk
+title: SINCRONIZACION_VENTAS_IDX1
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX SINCRONIZACION_VENTAS_IDX1 ON SINCRONIZACION_VENTAS (VENTA_ID);
+```

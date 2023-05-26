@@ -1,0 +1,12 @@
+---
+id: yepqr5m5v754q5zp01ssqtn
+title: SINCRONIZACION_NUBE_IDX1
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX SINCRONIZACION_NUBE_IDX1 ON SINCRONIZACION_NUBE (VENTA_ID);
+```

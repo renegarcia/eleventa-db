@@ -1,0 +1,12 @@
+---
+id: 5l7o87l3u9cvon6g1vj8gxd
+title: GEN_FACTURACION_INFORMES_ID
+desc: null
+updated: 1684912751
+created: 1684912751
+---
+
+
+```sql
+CREATE GENERATOR GEN_FACTURACION_INFORMES_ID;
+```

@@ -1,0 +1,12 @@
+---
+id: 70qsy1tf6yyojv97me0drda
+title: PRODUCTOS_CFDI_IDX1
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE UNIQUE INDEX PRODUCTOS_CFDI_IDX1 ON PRODUCTOS_CFDI (PRODUCTO_CODIGO);
+```

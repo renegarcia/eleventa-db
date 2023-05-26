@@ -1,0 +1,12 @@
+---
+id: mx29ka6gcl37r30bsue6sq9
+title: IX_VT_IMPUESTOS
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX IX_VT_IMPUESTOS ON VENTATICKETS_IMPUESTOS (VENTA_ID, IMPUESTO_ID);
+```

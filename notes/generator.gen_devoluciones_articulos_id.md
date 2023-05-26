@@ -1,0 +1,12 @@
+---
+id: 3c9qs9u1aeffskc0nlppa3f
+title: GEN_DEVOLUCIONES_ARTICULOS_ID
+desc: null
+updated: 1684912751
+created: 1684912751
+---
+
+
+```sql
+CREATE GENERATOR GEN_DEVOLUCIONES_ARTICULOS_ID;
+```

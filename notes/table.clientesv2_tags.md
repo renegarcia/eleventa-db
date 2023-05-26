@@ -1,0 +1,13 @@
+---
+id: 81y5xf4gwtvlzeu5pia1jiw
+title: CLIENTESV2_TAGS
+desc: null
+updated: 1684912751
+created: 1684912751
+---
+
+
+```sql
+CREATE TABLE CLIENTESV2_TAGS (CLIENTESV2_ID INTEGER NOT NULL,
+        TAG TCADENAMEDIANA NOT NULL);
+```

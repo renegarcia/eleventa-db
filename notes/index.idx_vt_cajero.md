@@ -1,0 +1,12 @@
+---
+id: 25n8lbv439z47w18840r6or
+title: IDX_VT_CAJERO
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX IDX_VT_CAJERO ON VENTATICKETS (CAJERO_ID);
+```

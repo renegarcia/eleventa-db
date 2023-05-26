@@ -1,0 +1,12 @@
+---
+id: 48r4aqdinbbjas3iqr56epv
+title: VENTATICKETS_TURNO_ID_IDX
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX VENTATICKETS_TURNO_ID_IDX ON VENTATICKETS (TURNO_ID);
+```

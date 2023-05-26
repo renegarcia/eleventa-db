@@ -1,0 +1,12 @@
+---
+id: 91csbna2u9lu059oiq241aq
+title: IX_BUSQUEDA_DESCRIPCION
+desc: null
+updated: 1684912754
+created: 1684912754
+---
+
+
+```sql
+CREATE INDEX IX_BUSQUEDA_DESCRIPCION ON PRODUCTOS COMPUTED BY (UPPER (descripcion));
+```
