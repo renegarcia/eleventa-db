@@ -50,3 +50,6 @@ jobs:
           publish_dir: docs/
           force_orphan: true
           #cname: example.com
+
+permissions:
+  contents: write
