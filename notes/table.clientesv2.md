@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 4qmqkmsvo6skrdik76tjdeq
 title: CLIENTESV2
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE CLIENTESV2 (ID INTEGER NOT NULL,

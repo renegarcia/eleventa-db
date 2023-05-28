@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 2i5kfqs0atm63d011xi70bj
 title: CAJAS
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE CAJAS (ID TLLAVE NOT NULL,

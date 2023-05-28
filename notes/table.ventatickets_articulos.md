@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 4jfsp20f7ubx5zsux5kzkka
 title: VENTATICKETS_ARTICULOS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE VENTATICKETS_ARTICULOS (ID TLLAVE NOT NULL,

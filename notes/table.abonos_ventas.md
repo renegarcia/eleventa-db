@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 54ejaupnxona23sxf0x1gqj
 title: ABONOS_VENTAS
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE ABONOS_VENTAS (ID TLLAVE NOT NULL,

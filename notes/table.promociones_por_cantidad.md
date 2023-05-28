@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 4ratfrxzijt88lqxr1t8y8m
 title: PROMOCIONES_POR_CANTIDAD
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PROMOCIONES_POR_CANTIDAD (ID TLLAVE NOT NULL,

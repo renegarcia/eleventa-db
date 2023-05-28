@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 1cnkvai65igt6ov0hhi5ldg
 title: VENTATICKETS_IMPUESTOS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE VENTATICKETS_IMPUESTOS (ID TLLAVE NOT NULL,

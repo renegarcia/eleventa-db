@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 3d3jb1shazr84577s33ln6a
 title: TCODIGOPOSTAL
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE DOMAIN TCODIGOPOSTAL AS INTEGER;

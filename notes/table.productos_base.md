@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 1j9y6ae8kb2u8c38rynalfh
 title: PRODUCTOS_BASE
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PRODUCTOS_BASE (CODIGO TCODIGOPRODUCTO NOT NULL,

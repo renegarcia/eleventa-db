@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 6t5q4vkf5n90fe81lmoilb5
 title: MOVIMIENTOS_ID_IDX
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX MOVIMIENTOS_ID_IDX ON MOVIMIENTOS (ID, CLIENTESV2_CREDITO_ID);

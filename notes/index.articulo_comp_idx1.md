@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 4j2wkxwrgs506ihdqn7jw03
 title: ARTICULO_COMP_IDX1
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE INDEX ARTICULO_COMP_IDX1 ON ARTICULO_COMPONENTES (ARTICULO_ID);

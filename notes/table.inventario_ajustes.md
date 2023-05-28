@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 84illq5g8zl7t4xd0ccb8ic
 title: INVENTARIO_AJUSTES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE INVENTARIO_AJUSTES (ID TLLAVE NOT NULL,

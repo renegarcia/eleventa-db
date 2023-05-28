@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 58jpdobuw78cfyx9tqhei9o
 title: GEN_TRANSACCIONES_PROSEPAGO_ID
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE GENERATOR GEN_TRANSACCIONES_PROSEPAGO_ID;

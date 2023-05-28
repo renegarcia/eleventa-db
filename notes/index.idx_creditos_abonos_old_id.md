@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: vdy62n50hg5l15sxtrqcu3z
 title: IDX_CREDITOS_ABONOS_OLD_ID
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE INDEX IDX_CREDITOS_ABONOS_OLD_ID ON CREDITOS_ABONOS (OLD_ABONO_ID);

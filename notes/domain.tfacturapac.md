@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: l0j264wb58jaid0yt3izc90
 title: TFACTURAPAC
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE DOMAIN TFACTURAPAC AS VARCHAR(3);

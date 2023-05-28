@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 1ql5lwzubjfatqw1ppvgc82
 title: SINCRONIZACION_NUBE
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE SINCRONIZACION_NUBE (ID TLLAVE NOT NULL,

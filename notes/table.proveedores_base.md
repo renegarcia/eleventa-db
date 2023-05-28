@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 2nteueyfibrpju7dcqod8d5
 title: PROVEEDORES_BASE
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PROVEEDORES_BASE (ID TLLAVE NOT NULL,

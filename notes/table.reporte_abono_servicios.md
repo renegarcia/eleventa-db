@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 10z8q1l5q1n7g7hyhd8s2yw
 title: REPORTE_ABONO_SERVICIOS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE REPORTE_ABONO_SERVICIOS (ID_TRANSACCION TGUID NOT NULL,

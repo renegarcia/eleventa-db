@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 2nacgyiv91ysvmijvm03wz2
 title: TBOOLEANO
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE DOMAIN TBOOLEANO AS CHAR(1);

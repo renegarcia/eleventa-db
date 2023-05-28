@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 3kp7ohra9xepc9a167c8ote
 title: OBTEDOCUENTA
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE OR ALTER PROCEDURE OBTEDOCUENTA (PAR_CLIENTE_ID INTEGER)

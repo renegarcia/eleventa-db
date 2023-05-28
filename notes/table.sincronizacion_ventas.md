@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 4xxcpwvkoh5ybnsb7kp4eqf
 title: SINCRONIZACION_VENTAS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE SINCRONIZACION_VENTAS (VENTA_ID TLLAVE NOT NULL,

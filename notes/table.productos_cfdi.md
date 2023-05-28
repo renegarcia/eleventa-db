@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 4qvct1jyxxpstunma1l8vho
 title: PRODUCTOS_CFDI
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PRODUCTOS_CFDI (ID TLLAVE NOT NULL,

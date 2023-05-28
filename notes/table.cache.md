@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 68rxjy69u0ihzlbcaaq02su
 title: CACHE
-desc: null
-updated: 1685133015960
-created: 1684912751
+updated: 1685133015960000
 ---
-
 
 ```sql
 CREATE TABLE CACHE (ID TLLAVE NOT NULL,

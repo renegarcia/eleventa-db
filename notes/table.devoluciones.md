@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 80ntfl8nudsww5g3ji65jcu
 title: DEVOLUCIONES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE DEVOLUCIONES (ID TLLAVE NOT NULL,

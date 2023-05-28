@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 2du312iiiey07p5ha1j11ef
 title: TPORCENTAJEGANANCIA
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE DOMAIN TPORCENTAJEGANANCIA AS NUMERIC(15, 3);

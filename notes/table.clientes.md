@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 3kdfysl1al16jclti2qm4el
 title: CLIENTES
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE CLIENTES (NUMERO TLLAVE NOT NULL,

@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 19zg77xti2ckhzthubuhcb4
 title: VENTATICKETS_IDX5
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE DESCENDING INDEX VENTATICKETS_IDX5 ON VENTATICKETS (FOLIO);

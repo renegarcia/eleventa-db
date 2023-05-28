@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 4cezz8pd1d7kmk2mmjk8vfp
 title: ALMACENES
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE ALMACENES (ID TLLAVE NOT NULL,

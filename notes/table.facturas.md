@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 2022cvortmuhbos5uqyjylk
 title: FACTURAS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE FACTURAS (ID TLLAVE NOT NULL,

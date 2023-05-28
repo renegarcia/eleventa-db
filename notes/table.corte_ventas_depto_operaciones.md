@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 6bqm8jynmuciqipkedyqdvu
 title: CORTE_VENTAS_DEPTO_OPERACIONES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CORTE_VENTAS_DEPTO_OPERACIONES (ID TLLAVE NOT NULL,

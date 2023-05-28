@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 3jfe0cckjlq6z2nmy3rh9go
 title: CLIENTESV2_CREDITO
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE CLIENTESV2_CREDITO (CLIENTESV2_ID TLLAVE NOT NULL,

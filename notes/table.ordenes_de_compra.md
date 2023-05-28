@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 5gs2vv1al3pl2gge9pae96s
 title: ORDENES_DE_COMPRA
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE ORDENES_DE_COMPRA (ID TLLAVE NOT NULL,

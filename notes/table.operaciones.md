@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 36eqenuroktcf2zm83rwzp4
 title: OPERACIONES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE OPERACIONES (ID TLLAVE NOT NULL,

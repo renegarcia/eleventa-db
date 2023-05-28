@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 33vhq1gw6m9pl26rai4ll3u
 title: PAGOS_MIXTOS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PAGOS_MIXTOS (ID TLLAVE NOT NULL,

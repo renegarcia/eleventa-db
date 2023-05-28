@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 7mob4r3awsmf098ioz4kmpa
 title: DEVOLUCIONES_ARTICULOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE DEVOLUCIONES_ARTICULOS (ID TLLAVE NOT NULL,

@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 1vth83ryf4myfi4aeiaxwo7
 title: VENTATICKETS_IDV2_IDX
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX VENTATICKETS_IDV2_IDX ON VENTATICKETS (ID, CLIENTESV2_CREDITO_ID);

@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 7ru4m432bxztcaqhsve9vgb
 title: DEPARTAMENTOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE DEPARTAMENTOS (ID TLLAVE NOT NULL,

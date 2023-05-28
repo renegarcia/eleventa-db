@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 11826a2p4s8om0cy3hlsowl
 title: VENTATICKETS_IDX1
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX VENTATICKETS_IDX1 ON VENTATICKETS (CAJA_ID);

@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 5lou899mlwqsh3itnxlaw0p
 title: TMEDIDA
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE DOMAIN TMEDIDA AS VARCHAR(3);

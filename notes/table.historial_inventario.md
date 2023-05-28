@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 22m5qifn1wffhmme97wuri1
 title: HISTORIAL_INVENTARIO
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE HISTORIAL_INVENTARIO (ID TLLAVE NOT NULL,

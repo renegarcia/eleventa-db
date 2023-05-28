@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 3bx137hmhee8gofsuutroll
 title: VENTA_DE_RECARGAS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE VENTA_DE_RECARGAS (ID TLLAVE NOT NULL,

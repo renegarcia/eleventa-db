@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 5w1iby76n8l6w4d570uz2jm
 title: CONFIGURACION
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CONFIGURACION (ID TLLAVE NOT NULL,

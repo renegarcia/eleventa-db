@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 1l33qcxxpjg4hjzw3a78z1d
 title: CONCILIACION_PAGO_SERVICIOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CONCILIACION_PAGO_SERVICIOS (ID TLLAVE NOT NULL,

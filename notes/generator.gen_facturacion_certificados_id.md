@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 74vsw6l412tyyl03x07rnbo
 title: GEN_FACTURACION_CERTIFICADOS_ID
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE GENERATOR GEN_FACTURACION_CERTIFICADOS_ID;

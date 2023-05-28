@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 2zv6an24kpzq6eiej9frli8
 title: GEN_ABONOS_ARTICULOS_ID
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE GENERATOR GEN_ABONOS_ARTICULOS_ID;

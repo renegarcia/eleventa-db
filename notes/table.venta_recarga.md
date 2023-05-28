@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 6w4aunuoheysqki1ycww74d
 title: VENTA_RECARGA
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE VENTA_RECARGA (ID TLLAVE NOT NULL,

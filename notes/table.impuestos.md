@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 3lv3pfty6zv6x9pgahwtvx9
 title: IMPUESTOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE IMPUESTOS (ID TLLAVE NOT NULL,

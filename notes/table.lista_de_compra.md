@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 55xg2f1d4b1c3zdb0mgn775
 title: LISTA_DE_COMPRA
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE LISTA_DE_COMPRA (ID TLLAVE NOT NULL,

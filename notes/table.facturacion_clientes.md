@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: h5ppadk75cfp0u74rbyar7r
 title: FACTURACION_CLIENTES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE FACTURACION_CLIENTES (ID TLLAVE NOT NULL,

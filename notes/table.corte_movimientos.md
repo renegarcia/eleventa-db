@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 6e8keuy5njrmywuzbxoawn2
 title: CORTE_MOVIMIENTOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CORTE_MOVIMIENTOS (ID TLLAVE NOT NULL,

@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 6xdru5jgzzx48gv8y5qe0g8
 title: TURNOS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE TURNOS (ID TLLAVE NOT NULL,

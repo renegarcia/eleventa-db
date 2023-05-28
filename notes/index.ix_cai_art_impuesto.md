@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 575dlx04yp8bk66kffmksj7
 title: IX_CAI_ART_IMPUESTO
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX IX_CAI_ART_IMPUESTO ON CREDITOS_ARTICULOS_IMPUESTOS (ABONO_ID, ARTICULO_ID);

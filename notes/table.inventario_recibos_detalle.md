@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 7z8dqbwtosk5phyjzyrkrgm
 title: INVENTARIO_RECIBOS_DETALLE
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE INVENTARIO_RECIBOS_DETALLE (INVENTARIO_RECIBO_ID TLLAVE NOT NULL,

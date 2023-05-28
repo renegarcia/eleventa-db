@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 2em5i44h6lqjb07n1sd9dn8
 title: CORTE_OPERACIONES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CORTE_OPERACIONES (ID TLLAVE NOT NULL,

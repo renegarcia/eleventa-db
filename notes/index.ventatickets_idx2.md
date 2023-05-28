@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: rkdilavjhnouvq15dyzaz5y
 title: VENTATICKETS_IDX2
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX VENTATICKETS_IDX2 ON VENTATICKETS (ESTA_ABIERTO, ID);

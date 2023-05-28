@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 53h7mpxn113lqjmqy2c14t9
 title: MOVIMIENTOS_IDX1
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX MOVIMIENTOS_IDX1 ON MOVIMIENTOS (OPERACION_ID);

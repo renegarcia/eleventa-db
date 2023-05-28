@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 1m2l3znkcpa722cnd26568o
 title: IX_CT_CLIENTE
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX IX_CT_CLIENTE ON CREDITOS_TRANSACCIONES (CLIENTE_ID);

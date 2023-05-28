@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 5ueddcsklwvwm1zzqz1q6b8
 title: CLIENTESV2_FACTURACION
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE CLIENTESV2_FACTURACION (CLIENTESV2_ID TLLAVE NOT NULL,

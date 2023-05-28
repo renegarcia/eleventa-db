@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 66oo13k3760966obqcuyc71
 title: USUARIOS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE USUARIOS (ID TLLAVE NOT NULL,

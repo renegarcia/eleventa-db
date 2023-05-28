@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 14eg1opiym7nkzssy5vlsqc
 title: TTIPOFACTURA
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE DOMAIN TTIPOFACTURA AS CHAR(1)

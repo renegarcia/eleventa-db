@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 7ding6igyrd0xbfuzu1ubai
 title: CREDITOS_ABONOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CREDITOS_ABONOS (ID TLLAVE NOT NULL,

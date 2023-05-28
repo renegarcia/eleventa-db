@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 712jly23978bvsr2myhrnht
 title: ARTICULOS_DE_OC
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE ARTICULOS_DE_OC (ID TLLAVE NOT NULL,

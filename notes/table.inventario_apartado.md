@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 5yy2hnv2bqzbc76ejiaczn6
 title: INVENTARIO_APARTADO
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE INVENTARIO_APARTADO (PRODUCTO_ID TLLAVE NOT NULL,

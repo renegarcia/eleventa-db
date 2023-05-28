@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 2m49hocha1pfinbkwwg2edx
 title: PRODUCTO_COMPONENTES
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PRODUCTO_COMPONENTES (PRODUCTO_PADRE_ID TLLAVE NOT NULL,

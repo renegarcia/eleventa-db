@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 1zauwh9uytfwtynz9jaju2e
 title: CREDITOS_ARTICULOS_IMPUESTOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CREDITOS_ARTICULOS_IMPUESTOS (ID TLLAVE NOT NULL,

@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 848xocw2rp84j3hcchc5eoh
 title: IMPUESTOS_REGLAS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE IMPUESTOS_REGLAS (ID TLLAVE NOT NULL,

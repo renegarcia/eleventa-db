@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 6wglllh20s1wlb9ncitrs29
 title: MOVIMIENTOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE MOVIMIENTOS (ID TLLAVE NOT NULL,

@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 6a3z3opjfhhtfvmj82l1u6n
 title: COMISIONES_TARJETA
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE COMISIONES_TARJETA (ID TLLAVE NOT NULL,

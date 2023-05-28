@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 3ev3fm2s9379v2dlcmk8vad
 title: PRODUCTOS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PRODUCTOS (ID TLLAVE NOT NULL,

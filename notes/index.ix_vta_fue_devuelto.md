@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 5153hhd87qpsfrr19abel5l
 title: IX_VTA_FUE_DEVUELTO
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX IX_VTA_FUE_DEVUELTO ON VENTATICKETS_ARTICULOS (FUE_DEVUELTO);

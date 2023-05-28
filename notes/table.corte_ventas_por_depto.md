@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 4p2i18v2wsfwc19awpvz3dp
 title: CORTE_VENTAS_POR_DEPTO
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CORTE_VENTAS_POR_DEPTO (ID TLLAVE NOT NULL,

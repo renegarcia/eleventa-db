@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 71bki9lf972sfut7bo2ee40
 title: CORTE_IMP_COBRADOS_OPERACION
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CORTE_IMP_COBRADOS_OPERACION (ID TLLAVE NOT NULL,

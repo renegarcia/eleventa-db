@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 24mdpmbzpd277tvnunq7q49
 title: TMONEDA
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE DOMAIN TMONEDA AS NUMERIC(18, 4);

@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 1eu1dps8qry1zwahex80zmy
 title: VENTA_SERVICIO
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE VENTA_SERVICIO (ID TLLAVE NOT NULL,

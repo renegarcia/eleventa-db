@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 6ochrof1ew6uwkbrqo9kkan
 title: FACTURACION_FOLIOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE FACTURACION_FOLIOS (ID TLLAVE NOT NULL,

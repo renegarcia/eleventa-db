@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: pe9rethbbqp3b0opbaxszl1
 title: BOOLEAN
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE DOMAIN "BOOLEAN" AS SMALLINT;

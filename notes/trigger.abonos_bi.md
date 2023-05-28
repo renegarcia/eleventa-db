@@ -1,11 +1,10 @@
 ---
+created: 1684912755000
+desc: null
 id: 2h35qykrsekrn9lumb7bhpk
 title: ABONOS_BI
-desc: null
-updated: 1684912755
-created: 1684912755
+updated: 1684912755000
 ---
-
 
 ```sql
 CREATE TRIGGER ABONOS_BI FOR ABONOS

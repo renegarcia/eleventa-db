@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 475oc6ignn65c8v6eaxc6bn
 title: FACTURACION_EMISORES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE FACTURACION_EMISORES (ID TLLAVE NOT NULL,

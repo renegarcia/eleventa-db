@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: y47k617law2wd2dmpjgwjvv
 title: INVENTARIO_BALANCES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE INVENTARIO_BALANCES (PRODUCTO_ID TLLAVE NOT NULL,

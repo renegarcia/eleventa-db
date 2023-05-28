@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 3vn3c6gwll434qnlwbu2krb
 title: PRODUCTOS_UDF_RECARGAS
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PRODUCTOS_UDF_RECARGAS (PRODUCTO_CODIGO TCODIGOPRODUCTO NOT NULL,

@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 5uq63gu5377cee49562w9xt
 title: FACTURAS_ABONOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE FACTURAS_ABONOS (FACTURA_ID TLLAVE NOT NULL,

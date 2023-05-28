@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 5x1bfp3w75tn58y67bbd2m6
 title: CORTE_IMPUESTOS_COBRADOS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CORTE_IMPUESTOS_COBRADOS (ID TLLAVE NOT NULL,

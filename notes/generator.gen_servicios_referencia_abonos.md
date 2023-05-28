@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 3hxfxwav2kfy0ybzxat7zh2
 title: GEN_SERVICIOS_REFERENCIA_ABONOS
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE GENERATOR GEN_SERVICIOS_REFERENCIA_ABONOS;

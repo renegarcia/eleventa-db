@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 2fs24a1d37hjqif686o6lld
 title: GEN_VENTATICKETS_ARTICULOS_ID
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE GENERATOR GEN_VENTATICKETS_ARTICULOS_ID;

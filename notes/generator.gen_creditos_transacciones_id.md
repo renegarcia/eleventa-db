@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 5x2qumgphzihtgtph6as1w6
 title: GEN_CREDITOS_TRANSACCIONES_ID
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE GENERATOR GEN_CREDITOS_TRANSACCIONES_ID;

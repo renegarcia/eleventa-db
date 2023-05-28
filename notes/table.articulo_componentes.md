@@ -1,11 +1,10 @@
 ---
+created: 1684912751000
+desc: null
 id: 46kj6z1ztcabzevwzvyc2fp
 title: ARTICULO_COMPONENTES
-desc: null
-updated: 1684912751
-created: 1684912751
+updated: 1684912751000
 ---
-
 
 ```sql
 CREATE TABLE ARTICULO_COMPONENTES (ARTICULO_ID TLLAVE NOT NULL,

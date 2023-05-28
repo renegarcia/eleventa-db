@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 3r107io9kjg126hee8ijj4l
 title: DEPS_UPPER_NOM_IDX
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX DEPS_UPPER_NOM_IDX ON DEPARTAMENTOS COMPUTED BY (UPPER(NOMBRE));

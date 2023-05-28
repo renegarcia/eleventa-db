@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 2ngi61xzg0su093llz1iggd
 title: CREDITOS_TRANSACCIONES
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE CREDITOS_TRANSACCIONES (ID TLLAVE NOT NULL,

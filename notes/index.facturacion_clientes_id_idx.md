@@ -1,11 +1,10 @@
 ---
+created: 1684912754000
+desc: null
 id: 2w1hhbp1mfhavfhdhhnyrzq
 title: FACTURACION_CLIENTES_ID_IDX
-desc: null
-updated: 1684912754
-created: 1684912754
+updated: 1684912754000
 ---
-
 
 ```sql
 CREATE INDEX FACTURACION_CLIENTES_ID_IDX ON FACTURAS (ID, FACTURACION_CLIENTE_ID);

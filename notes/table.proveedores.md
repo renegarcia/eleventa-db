@@ -1,11 +1,10 @@
 ---
+created: 1684912753000
+desc: null
 id: 5dh6mf3x9g7a5w2qi7p6vcx
 title: PROVEEDORES
-desc: null
-updated: 1684912753
-created: 1684912753
+updated: 1684912753000
 ---
-
 
 ```sql
 CREATE TABLE PROVEEDORES (ID TLLAVE NOT NULL,

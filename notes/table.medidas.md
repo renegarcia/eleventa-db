@@ -1,11 +1,10 @@
 ---
+created: 1684912752000
+desc: null
 id: 85x7k2mwuz0k60co1zw5pgn
 title: MEDIDAS
-desc: null
-updated: 1684912752
-created: 1684912752
+updated: 1684912752000
 ---
-
 
 ```sql
 CREATE TABLE MEDIDAS (ID TLLAVE NOT NULL,
