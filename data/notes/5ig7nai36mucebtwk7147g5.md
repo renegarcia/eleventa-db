@@ -1,0 +1,4 @@
+
+```sql
+CREATE GENERATOR GEN_CRED_ARTS_IMPS_ID;
+```

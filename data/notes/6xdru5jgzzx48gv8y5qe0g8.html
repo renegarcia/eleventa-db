@@ -1,0 +1,33 @@
+<h1 id="turnos">TURNOS<a aria-hidden="true" class="anchor-heading icon-link" href="#turnos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> TURNOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ID_CAJA TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ID_OPERACION_INICIO TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ID_OPERACION_FIN TLLAVE<span class="token punctuation">,</span>
+        ID_CAJERO TLLAVE<span class="token punctuation">,</span>
+        INICIO_EN TFECHAHORA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TERMINO_EN TFECHAHORA<span class="token punctuation">,</span>
+        DINERO_INICIAL TCURRENCY <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        SOSPECHOSO <span class="token keyword">CHAR</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ACUMULADO_VENTAS TCURRENCY <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ACUMULADO_ENTRADAS TCURRENCY<span class="token punctuation">,</span>
+        ACUMULADO_SALIDAS TCURRENCY <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        ACUMULADO_GANANCIA TCURRENCY<span class="token punctuation">,</span>
+        VENTAS_EFECTIVO TCURRENCY<span class="token punctuation">,</span>
+        VENTAS_TARJETA TCURRENCY<span class="token punctuation">,</span>
+        VENTAS_VALES TCURRENCY<span class="token punctuation">,</span>
+        VENTAS_CREDITO TCURRENCY<span class="token punctuation">,</span>
+        EFECTIVO_AL_CIERRE TCURRENCY<span class="token punctuation">,</span>
+        ABONOS_EFECTIVO TCURRENCY<span class="token punctuation">,</span>
+        DEVOLUCIONES_VENTAS_EFECTIVO TCURRENCY<span class="token punctuation">,</span>
+        DEVOLUCIONES_VENTAS_CREDITO TCURRENCY<span class="token punctuation">,</span>
+        DEVOLUCIONES_ABONOS_EFECTIVO TCURRENCY<span class="token punctuation">,</span>
+        NUMERO_VENTAS TINTEGER<span class="token punctuation">,</span>
+        DEVOLUCIONES_VENTAS_VALES TCURRENCY<span class="token punctuation">,</span>
+        ABONOS_TARJETA TCURRENCY <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        ABONOS_VALES TCURRENCY <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        COMISIONES_TARJETA TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        SINCRONIZADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        DEVOLUCIONES_VENTAS_TARJETA <span class="token keyword">NUMERIC</span><span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span> <span class="token keyword">DEFAULT</span> <span class="token number">0.0000</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_TURNOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> UNQ_TURNO_ABIERTO_CAJA <span class="token keyword">UNIQUE</span> <span class="token punctuation">(</span>ID_CAJA<span class="token punctuation">,</span> TERMINO_EN<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

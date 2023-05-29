@@ -1,0 +1,13 @@
+<h1 id="corte_movimientos">CORTE_MOVIMIENTOS<a aria-hidden="true" class="anchor-heading icon-link" href="#corte_movimientos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> CORTE_MOVIMIENTOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        BORRADO_EL TFECHAHORA<span class="token punctuation">,</span>
+        CUANDO_FUE TFECHAHORA<span class="token punctuation">,</span>
+        MONTO TCURRENCY <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        DESCRIPCION TCADENALARGA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TIPO TCADENAMEDIANA<span class="token punctuation">,</span>
+        ID_TURNO TLLAVE<span class="token punctuation">,</span>
+        FORMA_PAGO TENUMERADO<span class="token punctuation">,</span>
+        RAZON_DEVOLUCION TENUMERADO<span class="token punctuation">,</span>
+        ID_CAJA TLLAVE<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_CORTE_MOVIMIENTOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

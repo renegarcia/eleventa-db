@@ -1,0 +1,22 @@
+<h1 id="ventatickets_articulos">VENTATICKETS_ARTICULOS<a aria-hidden="true" class="anchor-heading icon-link" href="#ventatickets_articulos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> VENTATICKETS_ARTICULOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TICKET_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PRODUCTO_CODIGO TCODIGOPRODUCTO <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PRODUCTO_NOMBRE TCADENALARGA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CANTIDAD TCANTIDAD <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        GANANCIA TMONEDA<span class="token punctuation">,</span>
+        DEPARTAMENTO_ID TLLAVE<span class="token punctuation">,</span>
+        PAGADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        USA_MAYOREO TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'f'</span><span class="token punctuation">,</span>
+        PORCENTAJE_DESCUENTO TCANTIDAD<span class="token punctuation">,</span>
+        IMPUESTOS_USADOS TCADENALARGA<span class="token punctuation">,</span>
+        IMPUESTO_UNITARIO TMONEDA<span class="token punctuation">,</span>
+        PRECIO_USADO TMONEDA<span class="token punctuation">,</span>
+        CANTIDAD_DEVUELTA TCANTIDAD <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        FUE_DEVUELTO TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'f'</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PORCENTAJE_PAGADO TMONEDA_4_DECIMALES <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        PRECIO_FINAL TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        AGREGADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        TOTAL_ARTICULO TMONEDA <span class="token keyword">DEFAULT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_VENTATICKETS_ARTICULOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

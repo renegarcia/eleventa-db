@@ -1,0 +1,6 @@
+<h1 id="sincronizacion_ventas">SINCRONIZACION_VENTAS<a aria-hidden="true" class="anchor-heading icon-link" href="#sincronizacion_ventas"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> SINCRONIZACION_VENTAS <span class="token punctuation">(</span>VENTA_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        SINCRONIZADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        MENSAJE_ERROR TCADENAMEDIANA<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_NUBE_DELTA <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>VENTA_ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

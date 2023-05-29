@@ -1,0 +1,10 @@
+<h1 id="promociones_por_cantidad">PROMOCIONES_POR_CANTIDAD<a aria-hidden="true" class="anchor-heading icon-link" href="#promociones_por_cantidad"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> PROMOCIONES_POR_CANTIDAD <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        NOMBRE TCADENAMEDIANA<span class="token punctuation">,</span>
+        PRODUCTO_CODIGO TCODIGOPRODUCTO<span class="token punctuation">,</span>
+        DESDE TCANTIDAD<span class="token punctuation">,</span>
+        HASTA TCANTIDAD<span class="token punctuation">,</span>
+        PRECIO_PROMOCION TMONEDA<span class="token punctuation">,</span>
+        PRECIO_PROMOCION_CON_IMPUESTOS TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_PROMOCIONES_POR_CANTIDAD <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

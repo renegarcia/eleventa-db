@@ -1,0 +1,19 @@
+<h1 id="inventario_historial">INVENTARIO_HISTORIAL<a aria-hidden="true" class="anchor-heading icon-link" href="#inventario_historial"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> INVENTARIO_HISTORIAL <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PRODUCTO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CUANDO_FUE TFECHAHORA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CANTIDAD_ANTERIOR TCANTIDAD <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CANTIDAD TCANTIDAD <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        DESCRIPCION TCADENALARGA<span class="token punctuation">,</span>
+        COSTO_UNITARIO TMONEDA<span class="token punctuation">,</span>
+        COSTO_DESPUES TMONEDA<span class="token punctuation">,</span>
+        AJUSTE_ID TLLAVE<span class="token punctuation">,</span>
+        RECIBO_INVENTARIO_ID TLLAVE<span class="token punctuation">,</span>
+        VENTA_ID TLLAVE<span class="token punctuation">,</span>
+        TRANSFERENCIA_ID TLLAVE<span class="token punctuation">,</span>
+        CAJA_ID TLLAVE<span class="token punctuation">,</span>
+        USUARIO_ID TLLAVE<span class="token punctuation">,</span>
+        ALMACEN_ID TLLAVE<span class="token punctuation">,</span>
+        VENTA_POR_KIT TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'f'</span><span class="token punctuation">,</span>
+<span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

@@ -1,0 +1,23 @@
+<h1 id="transacciones_prosepago">TRANSACCIONES_PROSEPAGO<a aria-hidden="true" class="anchor-heading icon-link" href="#transacciones_prosepago"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> TRANSACCIONES_PROSEPAGO <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        VENTA_ID TLLAVE<span class="token punctuation">,</span>
+        SOLICITUD_ID TCADENAMEDIANA<span class="token punctuation">,</span>
+        CADENA TCADENALARGA<span class="token punctuation">,</span>
+        FOLIO TCADENAMEDIANA<span class="token punctuation">,</span>
+        <span class="token keyword">STATUS</span> TCADENAMEDIANA<span class="token punctuation">,</span>
+        DESCRIPCION TCADENAMEDIANA<span class="token punctuation">,</span>
+        CORTE TCADENAMEDIANA<span class="token punctuation">,</span>
+        TARJETA TCADENAMEDIANA<span class="token punctuation">,</span>
+        NOMBRE TCADENALARGA<span class="token punctuation">,</span>
+        CORREO TCADENALARGA<span class="token punctuation">,</span>
+        CONCEPTO TCADENALARGA<span class="token punctuation">,</span>
+        REFERENCIA TCADENALARGA<span class="token punctuation">,</span>
+        APROBACION TCADENAMEDIANA<span class="token punctuation">,</span>
+        CAUSADENEGADA TCADENALARGA<span class="token punctuation">,</span>
+        PARCIALIZACION TCADENAMEDIANA<span class="token punctuation">,</span>
+        TIPOPLAN TCADENAMEDIANA<span class="token punctuation">,</span>
+        DIFERIMIENTO TCADENALARGA<span class="token punctuation">,</span>
+        IMPORTE TCADENAMEDIANA<span class="token punctuation">,</span>
+        FECHA TFECHAHORA<span class="token punctuation">,</span>
+        ABONO_ID TINTEGER <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

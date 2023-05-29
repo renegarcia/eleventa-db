@@ -1,0 +1,5 @@
+
+```sql
+CREATE DOMAIN TPORCENTAJE AS SMALLINT
+         DEFAULT 0;
+```

@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN TLLAVE AS INTEGER;
+```

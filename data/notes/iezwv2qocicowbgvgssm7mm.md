@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN TENUMERADO AS CHAR(1);
+```

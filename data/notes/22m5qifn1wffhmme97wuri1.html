@@ -1,0 +1,12 @@
+<h1 id="historial_inventario">HISTORIAL_INVENTARIO<a aria-hidden="true" class="anchor-heading icon-link" href="#historial_inventario"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> HISTORIAL_INVENTARIO <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        USUARIO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CUANDO_FUE TFECHAHORA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TIPO TTIPOMOVIMIENTO <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        HABIA TCANTIDAD<span class="token punctuation">,</span>
+        CANTIDAD TCANTIDAD <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CODIGO_PRODUCTO TCODIGOPRODUCTO <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CAJA_ID TLLAVE<span class="token punctuation">,</span>
+        TURNO_ID TLLAVE<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_HISTORIAL_INVENTARIO <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

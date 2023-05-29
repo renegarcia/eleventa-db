@@ -1,0 +1,7 @@
+<h1 id="productos_udf_servicios">PRODUCTOS_UDF_SERVICIOS<a aria-hidden="true" class="anchor-heading icon-link" href="#productos_udf_servicios"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> PRODUCTOS_UDF_SERVICIOS <span class="token punctuation">(</span>PRODUCTO_CODIGO TCODIGOPRODUCTO <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PROVEEDOR TCADENAMEDIANA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CODIGO_INTERNO_PROVEEDOR TCODIGOPRODUCTO <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        SOPORTA_CONSULTA <span class="token keyword">CHAR</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span> <span class="token keyword">default</span> <span class="token string">'f'</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_PRODUCTOS_UDF_SERVICIOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>PRODUCTO_CODIGO<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

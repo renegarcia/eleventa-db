@@ -1,0 +1,5 @@
+
+```sql
+CREATE DOMAIN TTIPOFACTURA AS CHAR(1)
+         DEFAULT 'n' NOT NULL;
+```

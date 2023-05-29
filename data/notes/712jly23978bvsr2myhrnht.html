@@ -1,0 +1,25 @@
+<h1 id="articulos_de_oc">ARTICULOS_DE_OC<a aria-hidden="true" class="anchor-heading icon-link" href="#articulos_de_oc"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> ARTICULOS_DE_OC <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ID_ORDEN_DE_COMPRA TLLAVE<span class="token punctuation">,</span>
+        ID_PRODUCTO TLLAVE<span class="token punctuation">,</span>
+        CODIGO_PRODUCTO TCODIGOPRODUCTO<span class="token punctuation">,</span>
+        DESCRIPCION_PRODUCTO TPRODUCTODESCRIPCION<span class="token punctuation">,</span>
+        DEPARTAMENTO_PRODUCTO TCADENAMEDIANA<span class="token punctuation">,</span>
+        CANTIDAD_ORDENADA TCANTIDADINV<span class="token punctuation">,</span>
+        CANTIDAD_RECIBIDA TCANTIDADINV<span class="token punctuation">,</span>
+        ID_AGRUPACION TFECHAHORA<span class="token punctuation">,</span>
+        COSTO_AL_ORDENAR TMONEDA<span class="token punctuation">,</span>
+        COSTO_AL_RECIBIR TMONEDA<span class="token punctuation">,</span>
+        DIAS_EN_SURTIR TCANTIDAD<span class="token punctuation">,</span>
+        LISTA_IMPUESTOS TCADENALARGA<span class="token punctuation">,</span>
+        UTILIDAD_ESTIMADA_AL_ORDENAR TMONEDA<span class="token punctuation">,</span>
+        UTILIDAD_ESTIMADA_AL_RECIBIR TMONEDA<span class="token punctuation">,</span>
+        IMPUESTOS_AL_RECIBIR TMONEDA<span class="token punctuation">,</span>
+        SUBTOTAL_AL_RECIBIR TMONEDA<span class="token punctuation">,</span>
+        TOTAL_AL_ORDENAR TMONEDA<span class="token punctuation">,</span>
+        TOTAL_AL_RECIBIR TMONEDA<span class="token punctuation">,</span>
+        PRECIO_SIN_IMPUESTOS TMONEDA<span class="token punctuation">,</span>
+        PRECIO_CON_IMPUESTOS TMONEDA<span class="token punctuation">,</span>
+        PRECIO_MAYOREO_CON_IMPUESTOS TMONEDA<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_ARTICULOS_DE_OC <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

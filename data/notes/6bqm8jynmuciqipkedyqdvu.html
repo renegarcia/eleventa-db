@@ -1,0 +1,8 @@
+<h1 id="corte_ventas_depto_operaciones">CORTE_VENTAS_DEPTO_OPERACIONES<a aria-hidden="true" class="anchor-heading icon-link" href="#corte_ventas_depto_operaciones"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> CORTE_VENTAS_DEPTO_OPERACIONES <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ID_DEPARTAMENTO TLLAVE<span class="token punctuation">,</span>
+        ACUMULADO_VENTAS TMONEDA<span class="token punctuation">,</span>
+        ID_OPERACION TLLAVE<span class="token punctuation">,</span>
+        ACUMULADO_GANANCIAS TCURRENCY <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_CORTE_VENTAS_DEPTO_OPERACION <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

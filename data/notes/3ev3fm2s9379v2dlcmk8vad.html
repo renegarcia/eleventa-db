@@ -1,0 +1,30 @@
+<h1 id="productos">PRODUCTOS<a aria-hidden="true" class="anchor-heading icon-link" href="#productos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> PRODUCTOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CODIGO TCADENAMEDIANA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        DESCRIPCION TPRODUCTODESCRIPCION<span class="token punctuation">,</span>
+        TVENTA TTIPOVENTA<span class="token punctuation">,</span>
+        PCOSTO TMONEDA<span class="token punctuation">,</span>
+        PVENTA TMONEDA<span class="token punctuation">,</span>
+        DEPT TLLAVE<span class="token punctuation">,</span>
+        PROVID TLLAVE<span class="token punctuation">,</span>
+        UMEDIDA TLLAVE<span class="token punctuation">,</span>
+        MAYOREO TMONEDA<span class="token punctuation">,</span>
+        IPRIORIDAD TSMALLINT<span class="token punctuation">,</span>
+        DINVENTARIO TCANTIDADINV<span class="token punctuation">,</span>
+        DINVMINIMO TCANTIDADINV<span class="token punctuation">,</span>
+        DINVMAXIMO TCANTIDADINV<span class="token punctuation">,</span>
+        CHECADO_EN TFECHA<span class="token punctuation">,</span>
+        PORCENTAJE_GANANCIA TPORCENTAJEGANANCIA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        IMPUESTOS TCADENALARGA<span class="token punctuation">,</span>
+        PVENTA_ANTERIOR TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        PCOSTO_ANTERIOR TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        PMAYOREO_ANTERIOR TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        MEDIDA_ID TLLAVE<span class="token punctuation">,</span>
+        PFINAL TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        PMAYOREOFINAL TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        ES_KIT TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'f'</span><span class="token punctuation">,</span>
+        USA_INVENTARIO TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'f'</span><span class="token punctuation">,</span>
+        ELIMINADO_EN TFECHAHORA<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_PRODUCTOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> UNQ1_PRODUCTOS <span class="token keyword">UNIQUE</span> <span class="token punctuation">(</span>CODIGO<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

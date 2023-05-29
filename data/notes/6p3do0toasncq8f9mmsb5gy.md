@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN TRFC AS VARCHAR(13) NOT NULL;
+```

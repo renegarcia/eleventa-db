@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN TGUID AS VARCHAR(38);
+```

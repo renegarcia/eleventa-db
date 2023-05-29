@@ -1,0 +1,8 @@
+<h1 id="inventario_recibos_detalle">INVENTARIO_RECIBOS_DETALLE<a aria-hidden="true" class="anchor-heading icon-link" href="#inventario_recibos_detalle"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> INVENTARIO_RECIBOS_DETALLE <span class="token punctuation">(</span>INVENTARIO_RECIBO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        SECUENCIA TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PRODUCTO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CANTIDAD_RECIBIDA TCANTIDAD <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        COSTO_UNITARIO TMONEDA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> UNQ1_INVENTARIO_RECIBOS_DETALLE <span class="token keyword">UNIQUE</span> <span class="token punctuation">(</span>INVENTARIO_RECIBO_ID<span class="token punctuation">,</span> PRODUCTO_ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

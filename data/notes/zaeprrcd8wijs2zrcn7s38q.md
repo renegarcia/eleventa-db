@@ -1,0 +1,5 @@
+
+```sql
+CREATE DOMAIN TFACTURAVERSION AS VARCHAR(4)
+         DEFAULT '2.2';
+```

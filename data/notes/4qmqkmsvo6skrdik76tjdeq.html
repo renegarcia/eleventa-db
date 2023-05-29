@@ -1,0 +1,24 @@
+<h1 id="clientesv2">CLIENTESV2<a aria-hidden="true" class="anchor-heading icon-link" href="#clientesv2"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> CLIENTESV2 <span class="token punctuation">(</span>ID <span class="token keyword">INTEGER</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        FOLIO <span class="token keyword">INTEGER</span><span class="token punctuation">,</span>
+        NOMBRES TCADENALARGA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        APELLIDOS TCADENALARGA<span class="token punctuation">,</span>
+        EMAIL TCADENALARGA<span class="token punctuation">,</span>
+        TELEFONO <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">50</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+        DOMICILIO1 TCADENALARGA<span class="token punctuation">,</span>
+        DOMICILIO2 TCADENALARGA<span class="token punctuation">,</span>
+        COLONIA TCADENALARGA<span class="token punctuation">,</span>
+        MUNICIPIO TCADENALARGA<span class="token punctuation">,</span>
+        ESTADO TCADENALARGA<span class="token punctuation">,</span>
+        PAIS TCADENALARGA<span class="token punctuation">,</span>
+        CODIGO_POSTAL <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">20</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+        NOTAS <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">1000</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+        TOTAL_VENTAS <span class="token keyword">NUMERIC</span><span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span> <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        TOTAL_GANANCIAS <span class="token keyword">NUMERIC</span><span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span> <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        TOTAL_TICKETS <span class="token keyword">INTEGER</span> <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        ACTIVO <span class="token keyword">SMALLINT</span> <span class="token keyword">DEFAULT</span> <span class="token number">1</span><span class="token punctuation">,</span>
+        DE_SISTEMA <span class="token keyword">SMALLINT</span><span class="token punctuation">,</span>
+        OLD_CLIENTE_ID TLLAVE<span class="token punctuation">,</span>
+        OLD_FACTURACION_CLIENTES_ID TLLAVE<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> CLIENTESV2_PK <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

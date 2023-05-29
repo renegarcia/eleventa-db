@@ -1,0 +1,11 @@
+<h1 id="pagos_mixtos">PAGOS_MIXTOS<a aria-hidden="true" class="anchor-heading icon-link" href="#pagos_mixtos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> PAGOS_MIXTOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TICKET_ID TLLAVE<span class="token punctuation">,</span>
+        ABONO_ID TLLAVE<span class="token punctuation">,</span>
+        FORMA_DE_PAGO TCARACTER <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        MONTO TMONEDA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        REFERENCIA TCADENALARGA<span class="token punctuation">,</span>
+        CLIENTE_ID TLLAVE<span class="token punctuation">,</span>
+        CLIENTESV2_CREDITO_ID <span class="token keyword">INTEGER</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_PAGOS_MIXTOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

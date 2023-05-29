@@ -1,0 +1,10 @@
+<h1 id="creditos_abonos_impuestos">CREDITOS_ABONOS_IMPUESTOS<a aria-hidden="true" class="anchor-heading icon-link" href="#creditos_abonos_impuestos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> CREDITOS_ABONOS_IMPUESTOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ABONO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        VENTA_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        IMPUESTO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        IMPUESTO_PORCENTAJE TMONEDA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        IMPUESTO_BASE TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        IMPUESTO_MONTO TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_CA_IMPUESTOS_ID <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

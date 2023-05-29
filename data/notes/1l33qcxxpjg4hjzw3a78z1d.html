@@ -1,0 +1,8 @@
+<h1 id="conciliacion_pago_servicios">CONCILIACION_PAGO_SERVICIOS<a aria-hidden="true" class="anchor-heading icon-link" href="#conciliacion_pago_servicios"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> CONCILIACION_PAGO_SERVICIOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        NOMBRE_ARCHIVO TCADENAMEDIANA<span class="token punctuation">,</span>
+        SUBIDO_EN TFECHAHORA<span class="token punctuation">,</span>
+        PROCESADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        CONTENIDO TARCHIVO<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_CONCILIACION_PAGO_SERVICIOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

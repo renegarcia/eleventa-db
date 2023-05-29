@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN "BOOLEAN" AS SMALLINT;
+```

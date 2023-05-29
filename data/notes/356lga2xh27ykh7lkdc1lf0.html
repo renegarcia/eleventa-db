@@ -1,0 +1,17 @@
+<h1 id="abonos">ABONOS<a aria-hidden="true" class="anchor-heading icon-link" href="#abonos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> ABONOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CLIENTE_ID TLLAVE<span class="token punctuation">,</span>
+        DTFECHA TFECHAHORA<span class="token punctuation">,</span>
+        DMONTO TMONEDA<span class="token punctuation">,</span>
+        BCONTAR TBOOLEANO<span class="token punctuation">,</span>
+        GANANCIA TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ID_TURNO TLLAVE<span class="token punctuation">,</span>
+        FORMA_DE_PAGO TFORMAPAGO<span class="token punctuation">,</span>
+        DEVUELTO_EN TFECHAHORA<span class="token punctuation">,</span>
+        ID_CAJA TLLAVE<span class="token punctuation">,</span>
+        FACTURA_ID TLLAVE<span class="token punctuation">,</span>
+        IMPUESTOS_COBRADOS TCADENALARGA <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PAGADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        CLIENTESV2_CREDITO_ID <span class="token keyword">INTEGER</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_ABONOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

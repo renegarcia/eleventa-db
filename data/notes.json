@@ -1,0 +1,6275 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1685399418325,
+      "created": 1685399418325,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "9unb3paer9g00dvn86cqozm": {
+      "id": "9unb3paer9g00dvn86cqozm",
+      "title": "Root",
+      "desc": "",
+      "updated": 1685137382357,
+      "created": 1685132817789,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b51f57a2c78b2628408128f29dea7bc5",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "9unb3paer9g00dvn86cqozm",
+            "vaultName": "eleventa"
+          },
+          "value": "eleventa",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 3
+            },
+            "end": {
+              "line": 2,
+              "column": 15,
+              "offset": 15
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "eleventa"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "9unb3paer9g00dvn86cqozm",
+            "vaultName": "eleventa"
+          },
+          "value": "relaciones",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 18
+            },
+            "end": {
+              "line": 3,
+              "column": 17,
+              "offset": 32
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "relaciones"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "m3i0likj6j3m0fxhecq2slb",
+        "72ihqzbm5trjuy6lu13l771",
+        "w0wejd6unt7ustjc2b2tnzq",
+        "ye7rda1fcozo3n8wddalrvg",
+        "vw6cwhxkalnye4ujxthzm8c",
+        "scfbibm6ikvk5ydyk3uc7ap",
+        "v6m7i6nuc0dshp24a1k2qa8",
+        "tpqk96jjk5t88vjzva11jpf"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "tpqk96jjk5t88vjzva11jpf": {
+      "id": "tpqk96jjk5t88vjzva11jpf",
+      "title": "Trigger",
+      "desc": "",
+      "updated": 1685167494058,
+      "created": 1685167494058,
+      "custom": {},
+      "fname": "trigger",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "5b25da294415afe8d1e8a91dc62d8a9c",
+      "links": [
+        {
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 72
+            },
+            "end": {
+              "line": 7,
+              "column": 14,
+              "offset": 83
+            },
+            "indent": []
+          },
+          "value": "trigger"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "2h35qykrsekrn9lumb7bhpk"
+      ],
+      "parent": "9unb3paer9g00dvn86cqozm",
+      "data": {}
+    },
+    "2h35qykrsekrn9lumb7bhpk": {
+      "created": 1684912755000,
+      "desc": null,
+      "id": "2h35qykrsekrn9lumb7bhpk",
+      "title": "ABONOS_BI",
+      "updated": 1684912755000,
+      "custom": {},
+      "fname": "trigger.abonos_bi",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9470a8eb59bb4f217d2ad3361378f8fd",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "tpqk96jjk5t88vjzva11jpf",
+      "data": {}
+    },
+    "v6m7i6nuc0dshp24a1k2qa8": {
+      "id": "v6m7i6nuc0dshp24a1k2qa8",
+      "title": "Table",
+      "desc": "",
+      "updated": 1685167493992,
+      "created": 1685167493992,
+      "custom": {},
+      "fname": "table",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7a7c9c9bc7c59aaba05bc0974aeae6ad",
+      "links": [
+        {
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 60
+            },
+            "end": {
+              "line": 6,
+              "column": 12,
+              "offset": 69
+            },
+            "indent": []
+          },
+          "value": "table"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "2eulvampti9jyjtc7ponrll",
+        "356lga2xh27ykh7lkdc1lf0",
+        "6ixbx4qb1c7yyc6jsmanfmb",
+        "54ejaupnxona23sxf0x1gqj",
+        "4cezz8pd1d7kmk2mmjk8vfp",
+        "46kj6z1ztcabzevwzvyc2fp",
+        "712jly23978bvsr2myhrnht",
+        "68rxjy69u0ihzlbcaaq02su",
+        "2i5kfqs0atm63d011xi70bj",
+        "3kdfysl1al16jclti2qm4el",
+        "4qmqkmsvo6skrdik76tjdeq",
+        "3jfe0cckjlq6z2nmy3rh9go",
+        "5ueddcsklwvwm1zzqz1q6b8",
+        "81y5xf4gwtvlzeu5pia1jiw",
+        "6a3z3opjfhhtfvmj82l1u6n",
+        "1l33qcxxpjg4hjzw3a78z1d",
+        "5w1iby76n8l6w4d570uz2jm",
+        "71bki9lf972sfut7bo2ee40",
+        "5x1bfp3w75tn58y67bbd2m6",
+        "6e8keuy5njrmywuzbxoawn2",
+        "2em5i44h6lqjb07n1sd9dn8",
+        "6bqm8jynmuciqipkedyqdvu",
+        "4p2i18v2wsfwc19awpvz3dp",
+        "7ding6igyrd0xbfuzu1ubai",
+        "1whakdfiomduduxohap9wr8",
+        "3l3wr42q3d35id31htdev7g",
+        "7ut4apf2ru1be8uoovlux49",
+        "5jispjvpdb5vfk7rsmut38y",
+        "1zauwh9uytfwtynz9jaju2e",
+        "2ngi61xzg0su093llz1iggd",
+        "7ru4m432bxztcaqhsve9vgb",
+        "80ntfl8nudsww5g3ji65jcu",
+        "7mob4r3awsmf098ioz4kmpa",
+        "126ij0pf6wxl4cw5xkhnkn2",
+        "h5ppadk75cfp0u74rbyar7r",
+        "475oc6ignn65c8v6eaxc6bn",
+        "6ochrof1ew6uwkbrqo9kkan",
+        "2022cvortmuhbos5uqyjylk",
+        "5uq63gu5377cee49562w9xt",
+        "22m5qifn1wffhmme97wuri1",
+        "3lv3pfty6zv6x9pgahwtvx9",
+        "848xocw2rp84j3hcchc5eoh",
+        "84illq5g8zl7t4xd0ccb8ic",
+        "5yy2hnv2bqzbc76ejiaczn6",
+        "y47k617law2wd2dmpjgwjvv",
+        "66ammrmtr7bdvwf56cg9p3j",
+        "7zme7y6jmk9ejsy4zkkig4n",
+        "7z8dqbwtosk5phyjzyrkrgm",
+        "55xg2f1d4b1c3zdb0mgn775",
+        "85x7k2mwuz0k60co1zw5pgn",
+        "6wglllh20s1wlb9ncitrs29",
+        "36eqenuroktcf2zm83rwzp4",
+        "5gs2vv1al3pl2gge9pae96s",
+        "33vhq1gw6m9pl26rai4ll3u",
+        "2m49hocha1pfinbkwwg2edx",
+        "3ev3fm2s9379v2dlcmk8vad",
+        "1j9y6ae8kb2u8c38rynalfh",
+        "4qvct1jyxxpstunma1l8vho",
+        "3vn3c6gwll434qnlwbu2krb",
+        "98wg36kyn8d71givzu9k6s1",
+        "4ratfrxzijt88lqxr1t8y8m",
+        "5dh6mf3x9g7a5w2qi7p6vcx",
+        "2nteueyfibrpju7dcqod8d5",
+        "10z8q1l5q1n7g7hyhd8s2yw",
+        "8005k2wur3kjw0gh3nkv52z",
+        "3pwkfh0d9ex8wclf9ctavsh",
+        "1ql5lwzubjfatqw1ppvgc82",
+        "4xxcpwvkoh5ybnsb7kp4eqf",
+        "6lpzrtzolrv5ome6rz0b6yb",
+        "6xdru5jgzzx48gv8y5qe0g8",
+        "66oo13k3760966obqcuyc71",
+        "3bx137hmhee8gofsuutroll",
+        "6w4aunuoheysqki1ycww74d",
+        "1eu1dps8qry1zwahex80zmy",
+        "33j1z2cdx4kzx6t4e8bimto",
+        "4jfsp20f7ubx5zsux5kzkka",
+        "1cnkvai65igt6ov0hhi5ldg"
+      ],
+      "parent": "9unb3paer9g00dvn86cqozm",
+      "data": {}
+    },
+    "1cnkvai65igt6ov0hhi5ldg": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "1cnkvai65igt6ov0hhi5ldg",
+      "title": "VENTATICKETS_IMPUESTOS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.ventatickets_impuestos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8e6dad47c316d9143cf357e983435775",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "4jfsp20f7ubx5zsux5kzkka": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "4jfsp20f7ubx5zsux5kzkka",
+      "title": "VENTATICKETS_ARTICULOS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.ventatickets_articulos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "c144ffcf2c68130c76b33d4b48a7ddbf",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "33j1z2cdx4kzx6t4e8bimto": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "33j1z2cdx4kzx6t4e8bimto",
+      "title": "VENTATICKETS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.ventatickets",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "dd866ac5c10575991ac29a1a1ce2edd3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "1eu1dps8qry1zwahex80zmy": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "1eu1dps8qry1zwahex80zmy",
+      "title": "VENTA_SERVICIO",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.venta_servicio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "3d18dca57b433a63d9167648710f1982",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6w4aunuoheysqki1ycww74d": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "6w4aunuoheysqki1ycww74d",
+      "title": "VENTA_RECARGA",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.venta_recarga",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "e23c5b8e2539bcddbf24a366dc600583",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "3bx137hmhee8gofsuutroll": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "3bx137hmhee8gofsuutroll",
+      "title": "VENTA_DE_RECARGAS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.venta_de_recargas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "374a9aa30eef0c55bd1cf95c50effb13",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "66oo13k3760966obqcuyc71": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "66oo13k3760966obqcuyc71",
+      "title": "USUARIOS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.usuarios",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "5bdd2c0a1c1f824f323c371cb13a182f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6xdru5jgzzx48gv8y5qe0g8": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "6xdru5jgzzx48gv8y5qe0g8",
+      "title": "TURNOS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.turnos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "c553be4397f64e43211a41a1b90dafc4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6lpzrtzolrv5ome6rz0b6yb": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "6lpzrtzolrv5ome6rz0b6yb",
+      "title": "TRANSACCIONES_PROSEPAGO",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.transacciones_prosepago",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ea1fd207e65e34450a054e65cfa4830c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "4xxcpwvkoh5ybnsb7kp4eqf": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "4xxcpwvkoh5ybnsb7kp4eqf",
+      "title": "SINCRONIZACION_VENTAS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.sincronizacion_ventas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "a88e41481043951a1bb230a207516af7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "1ql5lwzubjfatqw1ppvgc82": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "1ql5lwzubjfatqw1ppvgc82",
+      "title": "SINCRONIZACION_NUBE",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.sincronizacion_nube",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "bb7add987e5b6a4f38036d2d5a019f77",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "3pwkfh0d9ex8wclf9ctavsh": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "3pwkfh0d9ex8wclf9ctavsh",
+      "title": "SCHEMA_INFO",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.schema_info",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d980fff03a0fb934e176d3f9edfcd954",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "8005k2wur3kjw0gh3nkv52z": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "8005k2wur3kjw0gh3nkv52z",
+      "title": "SCHEMA_DATA_INFO",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.schema_data_info",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "445c5c1182fd2e9c9b041685ec871627",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "10z8q1l5q1n7g7hyhd8s2yw": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "10z8q1l5q1n7g7hyhd8s2yw",
+      "title": "REPORTE_ABONO_SERVICIOS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.reporte_abono_servicios",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "0af71a5e1fb1169369a20c1a84785675",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "2nteueyfibrpju7dcqod8d5": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "2nteueyfibrpju7dcqod8d5",
+      "title": "PROVEEDORES_BASE",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.proveedores_base",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "90b3c98e77e9f888c6b6572574dfcc42",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "5dh6mf3x9g7a5w2qi7p6vcx": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "5dh6mf3x9g7a5w2qi7p6vcx",
+      "title": "PROVEEDORES",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.proveedores",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "654662c4ce6d7a9666c6690c7a4970f0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "4ratfrxzijt88lqxr1t8y8m": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "4ratfrxzijt88lqxr1t8y8m",
+      "title": "PROMOCIONES_POR_CANTIDAD",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.promociones_por_cantidad",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b0930d920c1a9f62bf28825136c10adc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "98wg36kyn8d71givzu9k6s1": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "98wg36kyn8d71givzu9k6s1",
+      "title": "PRODUCTOS_UDF_SERVICIOS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.productos_udf_servicios",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "dfaac62c14919bb0e8656e2e029fe4c6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "3vn3c6gwll434qnlwbu2krb": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "3vn3c6gwll434qnlwbu2krb",
+      "title": "PRODUCTOS_UDF_RECARGAS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.productos_udf_recargas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b7482d494908cde09066842532319ed8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "4qvct1jyxxpstunma1l8vho": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "4qvct1jyxxpstunma1l8vho",
+      "title": "PRODUCTOS_CFDI",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.productos_cfdi",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "01027c16b3dc912799c29629d7f9a021",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "1j9y6ae8kb2u8c38rynalfh": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "1j9y6ae8kb2u8c38rynalfh",
+      "title": "PRODUCTOS_BASE",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.productos_base",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "55dc416d1f3ce2afb0d68721bab8c028",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "3ev3fm2s9379v2dlcmk8vad": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "3ev3fm2s9379v2dlcmk8vad",
+      "title": "PRODUCTOS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.productos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d65e5991953108aa8a67401a016dc78a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "2m49hocha1pfinbkwwg2edx": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "2m49hocha1pfinbkwwg2edx",
+      "title": "PRODUCTO_COMPONENTES",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.producto_componentes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b1241e3b9fc6e47dc0ee70f5e1cde471",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "33vhq1gw6m9pl26rai4ll3u": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "33vhq1gw6m9pl26rai4ll3u",
+      "title": "PAGOS_MIXTOS",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.pagos_mixtos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "efe595dd3b82f7a594d848a5545d4b87",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "5gs2vv1al3pl2gge9pae96s": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "5gs2vv1al3pl2gge9pae96s",
+      "title": "ORDENES_DE_COMPRA",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "table.ordenes_de_compra",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "0b9190be714754414fa786ceb5f990e6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "36eqenuroktcf2zm83rwzp4": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "36eqenuroktcf2zm83rwzp4",
+      "title": "OPERACIONES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.operaciones",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7ba8fa1ffa1e52cb703f2dab75082796",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6wglllh20s1wlb9ncitrs29": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "6wglllh20s1wlb9ncitrs29",
+      "title": "MOVIMIENTOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.movimientos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "05dcdff0bd21599693c429d20abe100d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "85x7k2mwuz0k60co1zw5pgn": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "85x7k2mwuz0k60co1zw5pgn",
+      "title": "MEDIDAS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.medidas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "24831e08af16211344ffb9a142d9dee8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "55xg2f1d4b1c3zdb0mgn775": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "55xg2f1d4b1c3zdb0mgn775",
+      "title": "LISTA_DE_COMPRA",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.lista_de_compra",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1901a16af2a10b28994cd153f722f89f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "7z8dqbwtosk5phyjzyrkrgm": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "7z8dqbwtosk5phyjzyrkrgm",
+      "title": "INVENTARIO_RECIBOS_DETALLE",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.inventario_recibos_detalle",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d91b0b5d5efb8eae1acfc264b25928b0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "7zme7y6jmk9ejsy4zkkig4n": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "7zme7y6jmk9ejsy4zkkig4n",
+      "title": "INVENTARIO_RECIBOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.inventario_recibos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7f5b0aa335247e69902d6e27a0dc7e11",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "66ammrmtr7bdvwf56cg9p3j": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "66ammrmtr7bdvwf56cg9p3j",
+      "title": "INVENTARIO_HISTORIAL",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.inventario_historial",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "5ed89f39d6eb24f038d8762d06beeca8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "y47k617law2wd2dmpjgwjvv": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "y47k617law2wd2dmpjgwjvv",
+      "title": "INVENTARIO_BALANCES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.inventario_balances",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b8f18012bf62618ac62046da954ba7d8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "5yy2hnv2bqzbc76ejiaczn6": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "5yy2hnv2bqzbc76ejiaczn6",
+      "title": "INVENTARIO_APARTADO",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.inventario_apartado",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2e7c4daf615c321c2454f7824a811adc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "84illq5g8zl7t4xd0ccb8ic": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "84illq5g8zl7t4xd0ccb8ic",
+      "title": "INVENTARIO_AJUSTES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.inventario_ajustes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "f2e8b4725b65f97dc71b4cc18739bbe4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "848xocw2rp84j3hcchc5eoh": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "848xocw2rp84j3hcchc5eoh",
+      "title": "IMPUESTOS_REGLAS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.impuestos_reglas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "e7eeae833f5b1c7a05e7e709b01415d5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "3lv3pfty6zv6x9pgahwtvx9": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "3lv3pfty6zv6x9pgahwtvx9",
+      "title": "IMPUESTOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.impuestos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9834b48fc4fcc21257038eaf70a8217a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "22m5qifn1wffhmme97wuri1": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "22m5qifn1wffhmme97wuri1",
+      "title": "HISTORIAL_INVENTARIO",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.historial_inventario",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8443bd427bb51218c09add92d4d70396",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "5uq63gu5377cee49562w9xt": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "5uq63gu5377cee49562w9xt",
+      "title": "FACTURAS_ABONOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.facturas_abonos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "23600741358f1fe4225cd91d9921e876",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "2022cvortmuhbos5uqyjylk": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "2022cvortmuhbos5uqyjylk",
+      "title": "FACTURAS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.facturas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "22731a6bd169dd40674e3edf7a602fa6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6ochrof1ew6uwkbrqo9kkan": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "6ochrof1ew6uwkbrqo9kkan",
+      "title": "FACTURACION_FOLIOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.facturacion_folios",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2a51c9502f8afdf55268426e2f9956fd",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "475oc6ignn65c8v6eaxc6bn": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "475oc6ignn65c8v6eaxc6bn",
+      "title": "FACTURACION_EMISORES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.facturacion_emisores",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "eee1293ac71e9376d33323d17a9fa856",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "h5ppadk75cfp0u74rbyar7r": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "h5ppadk75cfp0u74rbyar7r",
+      "title": "FACTURACION_CLIENTES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.facturacion_clientes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "171b94b1aaf09b9ea86ccd9bd8382d75",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "126ij0pf6wxl4cw5xkhnkn2": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "126ij0pf6wxl4cw5xkhnkn2",
+      "title": "FACTURACION_CERTIFICADOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.facturacion_certificados",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "e937e04b370221e777bd8870a9b1eea7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "7mob4r3awsmf098ioz4kmpa": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "7mob4r3awsmf098ioz4kmpa",
+      "title": "DEVOLUCIONES_ARTICULOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.devoluciones_articulos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "80fc582f9ba76c5441bdb3fee8581482",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "80ntfl8nudsww5g3ji65jcu": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "80ntfl8nudsww5g3ji65jcu",
+      "title": "DEVOLUCIONES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.devoluciones",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d47c1d9a34c715b6ea7872b5de8861d4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "7ru4m432bxztcaqhsve9vgb": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "7ru4m432bxztcaqhsve9vgb",
+      "title": "DEPARTAMENTOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.departamentos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "a88338c30cae16e5fa1ad8d788c7a6f5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "2ngi61xzg0su093llz1iggd": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "2ngi61xzg0su093llz1iggd",
+      "title": "CREDITOS_TRANSACCIONES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.creditos_transacciones",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "81560f2d1071560c9343535e5217e0d1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "1zauwh9uytfwtynz9jaju2e": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "1zauwh9uytfwtynz9jaju2e",
+      "title": "CREDITOS_ARTICULOS_IMPUESTOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.creditos_articulos_impuestos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "3e056b57658f3881f4fafa8b97b05fa3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "5jispjvpdb5vfk7rsmut38y": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "5jispjvpdb5vfk7rsmut38y",
+      "title": "CREDITOS_ABONOS_VENTAS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.creditos_abonos_ventas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7b2ea8fcd3ecd015ec4c6eb0c6f7e51c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "7ut4apf2ru1be8uoovlux49": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "7ut4apf2ru1be8uoovlux49",
+      "title": "CREDITOS_ABONOS_PAGOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.creditos_abonos_pagos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9a9a9306d73a4f48982877198c8379b2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "3l3wr42q3d35id31htdev7g": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "3l3wr42q3d35id31htdev7g",
+      "title": "CREDITOS_ABONOS_IMPUESTOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.creditos_abonos_impuestos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b4802d7b901b95095f9cbdf5aa0c6343",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "1whakdfiomduduxohap9wr8": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "1whakdfiomduduxohap9wr8",
+      "title": "CREDITOS_ABONOS_ARTICULOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.creditos_abonos_articulos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "87630db55b4254d704844b3da1700ac4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "7ding6igyrd0xbfuzu1ubai": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "7ding6igyrd0xbfuzu1ubai",
+      "title": "CREDITOS_ABONOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.creditos_abonos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "f823b0e29cecccf0e6e6295ac2a588bd",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "4p2i18v2wsfwc19awpvz3dp": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "4p2i18v2wsfwc19awpvz3dp",
+      "title": "CORTE_VENTAS_POR_DEPTO",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.corte_ventas_por_depto",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "34239946c78edda0933fea2f179dc924",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6bqm8jynmuciqipkedyqdvu": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "6bqm8jynmuciqipkedyqdvu",
+      "title": "CORTE_VENTAS_DEPTO_OPERACIONES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.corte_ventas_depto_operaciones",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "17ee409ece414cf5e69482e64c56dc70",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "2em5i44h6lqjb07n1sd9dn8": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "2em5i44h6lqjb07n1sd9dn8",
+      "title": "CORTE_OPERACIONES",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.corte_operaciones",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fbeb1dfddb78f2688ff78dc511cd0723",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6e8keuy5njrmywuzbxoawn2": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "6e8keuy5njrmywuzbxoawn2",
+      "title": "CORTE_MOVIMIENTOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.corte_movimientos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ef75c0c77ffb69648741aa509ba6f95b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "5x1bfp3w75tn58y67bbd2m6": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "5x1bfp3w75tn58y67bbd2m6",
+      "title": "CORTE_IMPUESTOS_COBRADOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.corte_impuestos_cobrados",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "06f116d05ce282a50316e6275b23e9b0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "71bki9lf972sfut7bo2ee40": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "71bki9lf972sfut7bo2ee40",
+      "title": "CORTE_IMP_COBRADOS_OPERACION",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.corte_imp_cobrados_operacion",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "819b24e22c8acb994b3a1a519a9aec95",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "5w1iby76n8l6w4d570uz2jm": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "5w1iby76n8l6w4d570uz2jm",
+      "title": "CONFIGURACION",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.configuracion",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "a48de191fe40b92afdd0dd10d9d67aad",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "1l33qcxxpjg4hjzw3a78z1d": {
+      "created": 1684912752000,
+      "desc": null,
+      "id": "1l33qcxxpjg4hjzw3a78z1d",
+      "title": "CONCILIACION_PAGO_SERVICIOS",
+      "updated": 1684912752000,
+      "custom": {},
+      "fname": "table.conciliacion_pago_servicios",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "232857ce1a08fbbd4907583897a2c8da",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6a3z3opjfhhtfvmj82l1u6n": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6a3z3opjfhhtfvmj82l1u6n",
+      "title": "COMISIONES_TARJETA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.comisiones_tarjeta",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "3aaee3b3dd4f667cc575d5168736d4ef",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "81y5xf4gwtvlzeu5pia1jiw": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "81y5xf4gwtvlzeu5pia1jiw",
+      "title": "CLIENTESV2_TAGS",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.clientesv2_tags",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "429254807a803890e56532692eb1a550",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "5ueddcsklwvwm1zzqz1q6b8": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5ueddcsklwvwm1zzqz1q6b8",
+      "title": "CLIENTESV2_FACTURACION",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.clientesv2_facturacion",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9c5f84fd3aea5e6ce2fea83532d3d949",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "3jfe0cckjlq6z2nmy3rh9go": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3jfe0cckjlq6z2nmy3rh9go",
+      "title": "CLIENTESV2_CREDITO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.clientesv2_credito",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9cd55467a2c2dd8925fb914b9a0cb5e8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "4qmqkmsvo6skrdik76tjdeq": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "4qmqkmsvo6skrdik76tjdeq",
+      "title": "CLIENTESV2",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.clientesv2",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ddec67f53315b72efefa160a8bd8428a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "3kdfysl1al16jclti2qm4el": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3kdfysl1al16jclti2qm4el",
+      "title": "CLIENTES",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.clientes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "4ae33c20fc52963a7f5e70893d735210",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "2i5kfqs0atm63d011xi70bj": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2i5kfqs0atm63d011xi70bj",
+      "title": "CAJAS",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.cajas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "96005c8d32d6c605b86031132b786037",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "68rxjy69u0ihzlbcaaq02su": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "68rxjy69u0ihzlbcaaq02su",
+      "title": "CACHE",
+      "updated": 1685133015960000,
+      "custom": {},
+      "fname": "table.cache",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "07645fc6ccfe6228f04e180287081342",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "712jly23978bvsr2myhrnht": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "712jly23978bvsr2myhrnht",
+      "title": "ARTICULOS_DE_OC",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.articulos_de_oc",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fa6d25228991579062355fb270757558",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "46kj6z1ztcabzevwzvyc2fp": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "46kj6z1ztcabzevwzvyc2fp",
+      "title": "ARTICULO_COMPONENTES",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.articulo_componentes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "810a42653551137009c68fff0e93c5c7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "4cezz8pd1d7kmk2mmjk8vfp": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "4cezz8pd1d7kmk2mmjk8vfp",
+      "title": "ALMACENES",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.almacenes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "f435080bb220528da68efa6b2683b60f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "54ejaupnxona23sxf0x1gqj": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "54ejaupnxona23sxf0x1gqj",
+      "title": "ABONOS_VENTAS",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.abonos_ventas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "694c06336858a4303af4e3521253414e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "6ixbx4qb1c7yyc6jsmanfmb": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6ixbx4qb1c7yyc6jsmanfmb",
+      "title": "ABONOS_ARTICULOS",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.abonos_articulos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9a8ea2427fbdf16f7a7d5193e673ee84",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "356lga2xh27ykh7lkdc1lf0": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "356lga2xh27ykh7lkdc1lf0",
+      "title": "ABONOS",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "table.abonos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2e7c9dbb6fb1e352815e1de8f9abd23e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "2eulvampti9jyjtc7ponrll": {
+      "id": "2eulvampti9jyjtc7ponrll",
+      "title": "ABONO_TICKETS",
+      "desc": null,
+      "updated": 1685203298602,
+      "created": 1684912751000,
+      "custom": {},
+      "fname": "table.abono_tickets",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "38414d5e3293b8a06f78f25da542cd52",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "v6m7i6nuc0dshp24a1k2qa8",
+      "data": {}
+    },
+    "scfbibm6ikvk5ydyk3uc7ap": {
+      "id": "scfbibm6ikvk5ydyk3uc7ap",
+      "title": "Relaciones",
+      "desc": "",
+      "updated": 1684307000924,
+      "created": 1684305308903,
+      "custom": {},
+      "fname": "relaciones",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "5f9a75fc5bab7641a7f1a2f81f9783ce",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "id": "9unb3paer9g00dvn86cqozm",
+            "vaultName": "eleventa"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 18
+            },
+            "end": {
+              "line": 3,
+              "column": 17,
+              "offset": 32
+            },
+            "indent": []
+          },
+          "value": "relaciones"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "9unb3paer9g00dvn86cqozm",
+      "data": {}
+    },
+    "vw6cwhxkalnye4ujxthzm8c": {
+      "id": "vw6cwhxkalnye4ujxthzm8c",
+      "title": "Procedure",
+      "desc": "",
+      "updated": 1685167493991,
+      "created": 1685167493992,
+      "custom": {},
+      "fname": "procedure",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "762ddfe1e0499c7477274df513239bac",
+      "links": [
+        {
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 44
+            },
+            "end": {
+              "line": 5,
+              "column": 16,
+              "offset": 57
+            },
+            "indent": []
+          },
+          "value": "procedure"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "3kp7ohra9xepc9a167c8ote"
+      ],
+      "parent": "9unb3paer9g00dvn86cqozm",
+      "data": {}
+    },
+    "3kp7ohra9xepc9a167c8ote": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "3kp7ohra9xepc9a167c8ote",
+      "title": "OBTEDOCUENTA",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "procedure.obtedocuenta",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "5125216e3a4963735355368dead8c0b0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "vw6cwhxkalnye4ujxthzm8c",
+      "data": {}
+    },
+    "ye7rda1fcozo3n8wddalrvg": {
+      "id": "ye7rda1fcozo3n8wddalrvg",
+      "title": "Index",
+      "desc": "",
+      "updated": 1685167493959,
+      "created": 1685167493959,
+      "custom": {},
+      "fname": "index",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "044621d8c5555f0c2a931ffc00329518",
+      "links": [
+        {
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 32
+            },
+            "end": {
+              "line": 4,
+              "column": 12,
+              "offset": 41
+            },
+            "indent": []
+          },
+          "value": "index"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "yle4kahq90tqlee6mzf7two",
+        "4j2wkxwrgs506ihdqn7jw03",
+        "7o0lj3kmw17ibeu4nxyvlsk",
+        "s10k1wmtxolc2hb9dcqfxzd",
+        "4rjxv6o7it60d2mxls160l5",
+        "3r107io9kjg126hee8ijj4l",
+        "2w1hhbp1mfhavfhdhhnyrzq",
+        "2k18e2ff06ufx33k0thqbgf",
+        "vdy62n50hg5l15sxtrqcu3z",
+        "1cpvt7l6zmuetj5yvt3gsgm",
+        "ufckjb8s1jm1800by8wb7mc",
+        "25n8lbv439z47w18840r6or",
+        "73ujesqcst0j6y1z3pzor65",
+        "3enhz67qr1zz6cini8h8p5r",
+        "91csbna2u9lu059oiq241aq",
+        "2sl9njmwx6eix2l9688nyhv",
+        "2k57mhyj0i24z5gy0oh071w",
+        "573c1it924gm6jsbea34mhi",
+        "575dlx04yp8bk66kffmksj7",
+        "86tap4ptgac2ftwhwukodmk",
+        "2cctvcc7rs5siqdovdwkshg",
+        "4owi79oiqex7ziujxrx88qi",
+        "1m2l3znkcpa722cnd26568o",
+        "4iobbviwalr53gbfqvefog1",
+        "6ekkhi26w6um2qmqv3c17aa",
+        "4thyl6x8jyl4l651xeo4y03",
+        "4dzax5sjcmjd09xdqx6x3tm",
+        "mx29ka6gcl37r30bsue6sq9",
+        "6dspyqqaeo964055oq2puh6",
+        "5153hhd87qpsfrr19abel5l",
+        "6t5q4vkf5n90fe81lmoilb5",
+        "53h7mpxn113lqjmqy2c14t9",
+        "2hkwq7rap1z1wej3x3uji4k",
+        "1duef0yur6zyplws9lyzs9y",
+        "kqgvh5hifue9mu7g4s23ra2",
+        "70qsy1tf6yyojv97me0drda",
+        "47hxmw9hzm0v0lb4hreaqdj",
+        "38o8x7dphlsa2f9blzbuxbm",
+        "yepqr5m5v754q5zp01ssqtn",
+        "1ddv0k5awuvylvl6hwwacbk",
+        "1doymhja0aqkc4r5iflkl6u",
+        "2w3tr5aio74f7i33n95xseo",
+        "226tt566vhjte9v5tvw9dmh",
+        "1hfrwg8nkccuww0cap17ivs",
+        "7nqgic6gkn030ziyqusitp1",
+        "1vth83ryf4myfi4aeiaxwo7",
+        "11826a2p4s8om0cy3hlsowl",
+        "rkdilavjhnouvq15dyzaz5y",
+        "6zjzt4zoe5u9baf3o5lone5",
+        "6okmpjl7v3of9psiqqzrlvv",
+        "19zg77xti2ckhzthubuhcb4",
+        "34oio8plitcsowa5xk5dwfr",
+        "4nk6n0iks48e2gg3k400gy2",
+        "48r4aqdinbbjas3iqr56epv"
+      ],
+      "parent": "9unb3paer9g00dvn86cqozm",
+      "data": {}
+    },
+    "48r4aqdinbbjas3iqr56epv": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "48r4aqdinbbjas3iqr56epv",
+      "title": "VENTATICKETS_TURNO_ID_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_turno_id_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fc831306edbb8e94c36597c7ef99f650",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "4nk6n0iks48e2gg3k400gy2": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "4nk6n0iks48e2gg3k400gy2",
+      "title": "VENTATICKETS_PAGADO_EN_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_pagado_en_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "5588b179158f9477266c663c1f220a92",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "34oio8plitcsowa5xk5dwfr": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "34oio8plitcsowa5xk5dwfr",
+      "title": "VENTATICKETS_IDX6",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_idx6",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1d9470fd97043d6376874a60f3654b19",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "19zg77xti2ckhzthubuhcb4": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "19zg77xti2ckhzthubuhcb4",
+      "title": "VENTATICKETS_IDX5",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_idx5",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8f2c55dfecff49d9e6cd35ccf07ec24f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "6okmpjl7v3of9psiqqzrlvv": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "6okmpjl7v3of9psiqqzrlvv",
+      "title": "VENTATICKETS_IDX4",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_idx4",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b0de32975144b479a548f8cd3c211ff9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "6zjzt4zoe5u9baf3o5lone5": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "6zjzt4zoe5u9baf3o5lone5",
+      "title": "VENTATICKETS_IDX3",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_idx3",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "4e2967603d9baf78cb4f48e2ecbae843",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "rkdilavjhnouvq15dyzaz5y": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "rkdilavjhnouvq15dyzaz5y",
+      "title": "VENTATICKETS_IDX2",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_idx2",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "f68a647a90c373e98f66e49d06c5bf7c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "11826a2p4s8om0cy3hlsowl": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "11826a2p4s8om0cy3hlsowl",
+      "title": "VENTATICKETS_IDX1",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ee99c32fe25d0747acd3b46fee3bbbc6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "1vth83ryf4myfi4aeiaxwo7": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "1vth83ryf4myfi4aeiaxwo7",
+      "title": "VENTATICKETS_IDV2_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_idv2_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "68a9ffe4b0efc4aed6c7fd26988df0a7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "7nqgic6gkn030ziyqusitp1": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "7nqgic6gkn030ziyqusitp1",
+      "title": "VENTATICKETS_CLIENTESV2_ID_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_clientesv2_id_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "4f478d825a27a29eed948e433730c57e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "1hfrwg8nkccuww0cap17ivs": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "1hfrwg8nkccuww0cap17ivs",
+      "title": "VENTATICKETS_ARTICULOS_IDX5",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_articulos_idx5",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "aa3ff45f9a884cb6b7b73ba7159c333d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "226tt566vhjte9v5tvw9dmh": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "226tt566vhjte9v5tvw9dmh",
+      "title": "VENTATICKETS_ARTICULOS_IDX3",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_articulos_idx3",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "6d0de76e8d8d7424d502bef5cab8eb18",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "2w3tr5aio74f7i33n95xseo": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "2w3tr5aio74f7i33n95xseo",
+      "title": "VENTATICKETS_ARTICULOS_IDX2",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_articulos_idx2",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "55c22b9815eb1b0d022ae925c136bb2d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "1doymhja0aqkc4r5iflkl6u": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "1doymhja0aqkc4r5iflkl6u",
+      "title": "VENTATICKETS_ARTICULOS_IDX1",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ventatickets_articulos_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1ff472e28f8bb5e61ecc3a396a1e5d1e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "1ddv0k5awuvylvl6hwwacbk": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "1ddv0k5awuvylvl6hwwacbk",
+      "title": "SINCRONIZACION_VENTAS_IDX1",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.sincronizacion_ventas_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "67ff2044edf897b5e543caabc07f783f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "yepqr5m5v754q5zp01ssqtn": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "yepqr5m5v754q5zp01ssqtn",
+      "title": "SINCRONIZACION_NUBE_IDX1",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.sincronizacion_nube_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "a43b6285172d2423b7b4e985fe48f6f6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "38o8x7dphlsa2f9blzbuxbm": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "38o8x7dphlsa2f9blzbuxbm",
+      "title": "PROMOS_IDX1",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.promos_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8c6060897997b8851536e32efb03ab80",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "47hxmw9hzm0v0lb4hreaqdj": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "47hxmw9hzm0v0lb4hreaqdj",
+      "title": "PRODUCTOS_IDX1",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.productos_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "152977a8ef96ec27e8a716b28513c8c8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "70qsy1tf6yyojv97me0drda": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "70qsy1tf6yyojv97me0drda",
+      "title": "PRODUCTOS_CFDI_IDX1",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.productos_cfdi_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "22373e864612273dfde4bacd5fe2d975",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "kqgvh5hifue9mu7g4s23ra2": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "kqgvh5hifue9mu7g4s23ra2",
+      "title": "PRODS_UPPER_COD_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.prods_upper_cod_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1a927b787e9616bcdb9db8be1cbc1a30",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "1duef0yur6zyplws9lyzs9y": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "1duef0yur6zyplws9lyzs9y",
+      "title": "PK_USUARIO_UNICO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.pk_usuario_unico",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "6af44a33f30fa7d4499126299f55975d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "2hkwq7rap1z1wej3x3uji4k": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "2hkwq7rap1z1wej3x3uji4k",
+      "title": "PAGOS_MIXTOS_ID_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.pagos_mixtos_id_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "34f7789997e8c29cf70e2f0ac9255781",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "53h7mpxn113lqjmqy2c14t9": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "53h7mpxn113lqjmqy2c14t9",
+      "title": "MOVIMIENTOS_IDX1",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.movimientos_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d08812e128d41f4049e284eecd9d0d42",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "6t5q4vkf5n90fe81lmoilb5": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "6t5q4vkf5n90fe81lmoilb5",
+      "title": "MOVIMIENTOS_ID_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.movimientos_id_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "e67d6fb22e3482ea94800bd39efd52a7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "5153hhd87qpsfrr19abel5l": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "5153hhd87qpsfrr19abel5l",
+      "title": "IX_VTA_FUE_DEVUELTO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_vta_fue_devuelto",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "e42306d465f68835019715735086b292",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "6dspyqqaeo964055oq2puh6": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "6dspyqqaeo964055oq2puh6",
+      "title": "IX_VT_MIG20",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_vt_mig20",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7502abe99af0781d48de5b523c6fe2d5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "mx29ka6gcl37r30bsue6sq9": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "mx29ka6gcl37r30bsue6sq9",
+      "title": "IX_VT_IMPUESTOS",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_vt_impuestos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "acd772d7b2a2d1e099d47582ede9d1d8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "4dzax5sjcmjd09xdqx6x3tm": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "4dzax5sjcmjd09xdqx6x3tm",
+      "title": "IX_VT_FACTURA_ID",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_vt_factura_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "f09d061c8c3664edfb8cc5346ed2ec64",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "4thyl6x8jyl4l651xeo4y03": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "4thyl6x8jyl4l651xeo4y03",
+      "title": "IX_VT_ACTIVO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_vt_activo",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "4aa0b207d1e62cb1fc306c1a42653adc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "6ekkhi26w6um2qmqv3c17aa": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "6ekkhi26w6um2qmqv3c17aa",
+      "title": "IX_FOLIO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_folio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "e6f606c4d6be57c1fbddc446d690a74b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "4iobbviwalr53gbfqvefog1": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "4iobbviwalr53gbfqvefog1",
+      "title": "IX_CT_REPORTE",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_ct_reporte",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "89b8572ca57ad05d85f1e2fc062dd4ed",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "1m2l3znkcpa722cnd26568o": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "1m2l3znkcpa722cnd26568o",
+      "title": "IX_CT_CLIENTE",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_ct_cliente",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7477a54e942546936ddaaaf1c2d55159",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "4owi79oiqex7ziujxrx88qi": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "4owi79oiqex7ziujxrx88qi",
+      "title": "IX_CT_CAJERO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_ct_cajero",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "91232b9d36c1b871a32beffe37438c22",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "2cctvcc7rs5siqdovdwkshg": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "2cctvcc7rs5siqdovdwkshg",
+      "title": "IX_CAV_VENTA_ABONO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_cav_venta_abono",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fd41ef8d1b45d60a43c673f7a11541bb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "86tap4ptgac2ftwhwukodmk": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "86tap4ptgac2ftwhwukodmk",
+      "title": "IX_CAP_ABONO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_cap_abono",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "957d9efcf8a61fc97bf25a89fbe65927",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "575dlx04yp8bk66kffmksj7": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "575dlx04yp8bk66kffmksj7",
+      "title": "IX_CAI_ART_IMPUESTO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_cai_art_impuesto",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8b0f9781a7cc8f62dfcd8e6acc0b94fa",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "573c1it924gm6jsbea34mhi": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "573c1it924gm6jsbea34mhi",
+      "title": "IX_CAI_ABONO_IMPUESTO",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.ix_cai_abono_impuesto",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9e5cdca251c76e85f55cf636d9550de4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "2k57mhyj0i24z5gy0oh071w": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "2k57mhyj0i24z5gy0oh071w",
+      "title": "IX_CAA_ARTICULO_ABONO",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.ix_caa_articulo_abono",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ca100bec8e93b07b3b2ba892bd4067fd",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "2sl9njmwx6eix2l9688nyhv": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "2sl9njmwx6eix2l9688nyhv",
+      "title": "IX_CA_FECHA",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.ix_ca_fecha",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fe51e563b40a183f385b5b1cdd221cad",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "91csbna2u9lu059oiq241aq": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "91csbna2u9lu059oiq241aq",
+      "title": "IX_BUSQUEDA_DESCRIPCION",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.ix_busqueda_descripcion",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ee7cf9bb843288348dfbed80ce2883e2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "3enhz67qr1zz6cini8h8p5r": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "3enhz67qr1zz6cini8h8p5r",
+      "title": "IX_AV_TICKET_ID",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.ix_av_ticket_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "6b71e5aea573ba40c39c5cfd6c13a218",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "73ujesqcst0j6y1z3pzor65": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "73ujesqcst0j6y1z3pzor65",
+      "title": "IDX_VT_FECHA",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.idx_vt_fecha",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "bcf087446f9214a371553a1ee61dd156",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "25n8lbv439z47w18840r6or": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "25n8lbv439z47w18840r6or",
+      "title": "IDX_VT_CAJERO",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.idx_vt_cajero",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "3d54fea280076909a782d15d0beaeb64",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "ufckjb8s1jm1800by8wb7mc": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "ufckjb8s1jm1800by8wb7mc",
+      "title": "IDX_VT_CAJA",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.idx_vt_caja",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "a8d20db20c78d422a604dc893f018ff1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "1cpvt7l6zmuetj5yvt3gsgm": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "1cpvt7l6zmuetj5yvt3gsgm",
+      "title": "IDX_INV_HIST_PROD",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.idx_inv_hist_prod",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "24729a07d5bf31fe31c94a6ec8665a02",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "vdy62n50hg5l15sxtrqcu3z": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "vdy62n50hg5l15sxtrqcu3z",
+      "title": "IDX_CREDITOS_ABONOS_OLD_ID",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.idx_creditos_abonos_old_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "500d766c9f8f2a1e2ed087f9cea5470f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "2k18e2ff06ufx33k0thqbgf": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "2k18e2ff06ufx33k0thqbgf",
+      "title": "FACTURAS_ID_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.facturas_id_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "aa8901a10cc4bb20ba21a6465fb5fee3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "2w1hhbp1mfhavfhdhhnyrzq": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "2w1hhbp1mfhavfhdhhnyrzq",
+      "title": "FACTURACION_CLIENTES_ID_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.facturacion_clientes_id_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1040edf3a47edcaaeb556d96eb7f391d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "3r107io9kjg126hee8ijj4l": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "3r107io9kjg126hee8ijj4l",
+      "title": "DEPS_UPPER_NOM_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.deps_upper_nom_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "f323f58319d75787f982ef925e14539b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "4rjxv6o7it60d2mxls160l5": {
+      "created": 1684912754000,
+      "desc": null,
+      "id": "4rjxv6o7it60d2mxls160l5",
+      "title": "COMPONENTES_IDX",
+      "updated": 1684912754000,
+      "custom": {},
+      "fname": "index.componentes_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1cb9e4c3d2ce694e774de1d80adf6f5b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "s10k1wmtxolc2hb9dcqfxzd": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "s10k1wmtxolc2hb9dcqfxzd",
+      "title": "CLIENTESV2_FACTURACION_ID_IDX",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.clientesv2_facturacion_id_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "96701ac1f51a2a78311bb9af28ebccd7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "7o0lj3kmw17ibeu4nxyvlsk": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "7o0lj3kmw17ibeu4nxyvlsk",
+      "title": "CLIENTES_IDX_FOLIO",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.clientes_idx_folio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "69c258689596bb60ddbee0d07106f01f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "4j2wkxwrgs506ihdqn7jw03": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "4j2wkxwrgs506ihdqn7jw03",
+      "title": "ARTICULO_COMP_IDX1",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.articulo_comp_idx1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "10524ebb86c066728ec71cf21cf7d290",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "yle4kahq90tqlee6mzf7two": {
+      "created": 1684912753000,
+      "desc": null,
+      "id": "yle4kahq90tqlee6mzf7two",
+      "title": "ABONOS_ID_IDX",
+      "updated": 1684912753000,
+      "custom": {},
+      "fname": "index.abonos_id_idx",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "77bfb26b2b3cf849dae5cfc1cff802a9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ye7rda1fcozo3n8wddalrvg",
+      "data": {}
+    },
+    "w0wejd6unt7ustjc2b2tnzq": {
+      "id": "w0wejd6unt7ustjc2b2tnzq",
+      "title": "Generator",
+      "desc": "",
+      "updated": 1685167493905,
+      "created": 1685167493905,
+      "custom": {},
+      "fname": "generator",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "0cc0f4bb7d3038a4329074e15eafeee3",
+      "links": [
+        {
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 16
+            },
+            "end": {
+              "line": 3,
+              "column": 16,
+              "offset": 29
+            },
+            "indent": []
+          },
+          "value": "generator"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "6uercvutx9q3mamftv4htvw",
+        "2zv6an24kpzq6eiej9frli8",
+        "3uanp5gews3llrohwzwe7ou",
+        "61f9nx5lk1bkvrdaxoym4oe",
+        "5lsx3azy39ba7ztoyf38qkm",
+        "3vpowd72ci45xmixhg7f33c",
+        "3mic9eofq8a6qtutv6mokwf",
+        "783in5jzj6qhhfktxgea20f",
+        "3sortw72ofild0e7bi5d59v",
+        "7o8pgkosotex0ri1pcoh4g4",
+        "7ikb4xtpipax3yynuzdevbx",
+        "3h412qclqcghz05rluukvli",
+        "ff4gy2cbear2mj6gl7k61lv",
+        "73jsvencgfxkartodajznfd",
+        "2rzx0gqd3a7tq5qohhse80d",
+        "4zruft36a83ssnvjw21bkaq",
+        "4shktjfirgwdgzrrbgsds1s",
+        "1noiclj0ft6jh4hoczs25oy",
+        "7n7ao13gicnfyl0gek7vtea",
+        "7iikjmy7a1ns5gf2hbf2ihn",
+        "5ggh8qc17o8menem4r1dqcv",
+        "5ig7nai36mucebtwk7147g5",
+        "201zn78ccrwam16osn52287",
+        "3gwxaadvcnefk834g762bno",
+        "2apsc89ba16vshp6iyrpegi",
+        "5x2qumgphzihtgtph6as1w6",
+        "7h2khnz2rvf7pypp0ajnroa",
+        "3c9qs9u1aeffskc0nlppa3f",
+        "3995pvdjmi9nc87ezt1xs0a",
+        "74vsw6l412tyyl03x07rnbo",
+        "5riakapmhbpu7exzgt5z01r",
+        "6momvi7d6hwm9pdyzi0na1a",
+        "6od78xkj3e518tftpegxl4f",
+        "5l7o87l3u9cvon6g1vj8gxd",
+        "5mj7wox77a0udahcf1bbbqw",
+        "4vnvrd85uzy1khd6f2gmc2r",
+        "2odv5l39zb9m2j1esas7d3l",
+        "3kzvrj73fugdt5cegmigls7",
+        "fdftnfkd5ezo7arcegfiqpc",
+        "namkj8h6i4ok44dqop8mc30",
+        "5i3e8nd4zia1begoi8oteur",
+        "6g61z7c26e3jv3nbsmamlfe",
+        "19xadck7f110chd5i592ax0",
+        "48jve1ksqvn34hjtok1chk3",
+        "1bl4acf4382lnprxp0pvtzs",
+        "3rs7rcjjee6xa8znnkqxmep",
+        "7miytip9zfs8fix008elmv0",
+        "61d8uv857k33e4raigs34n0",
+        "3ky0wpqhr3ihptovfafftis",
+        "38w2ghj1nx4ynqswtc2b3nz",
+        "5sfdrgsdeseh1jxoiadfbu4",
+        "4lycked9qxda96h8aihpitc",
+        "813u0mb7t7m42lwlai0d9dy",
+        "3emtrj745fzekef1iuivrrd",
+        "2j8qhjic5jtwsfg4ds12iw8",
+        "3hxfxwav2kfy0ybzxat7zh2",
+        "64g2ji0g6ql37kvsi0mbzew",
+        "1camjd0pfrgg7ksnccdi56g",
+        "6kjyj1mrzg33ssq844yd2ym",
+        "58jpdobuw78cfyx9tqhei9o",
+        "4l827e3403kp6dxj83s3n4d",
+        "167tph5lx3rv0q0kcsfqixn",
+        "7xmdkmeo95tjq4mj86apedk",
+        "6oas8sbijjmhdk6jaooor4q",
+        "6qy8y07vgxos5ps6fpxzfhj",
+        "2fs24a1d37hjqif686o6lld",
+        "6agcndlx8sk0sb876j6c2mn",
+        "x8a8d6x4tnxqshee00z983l",
+        "55bbxyl7naef25n2h9m8pnm",
+        "3f5aucgvqu3yjkntofqhe69"
+      ],
+      "parent": "9unb3paer9g00dvn86cqozm",
+      "data": {}
+    },
+    "3f5aucgvqu3yjkntofqhe69": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3f5aucgvqu3yjkntofqhe69",
+      "title": "INVENTARIOS_RECEPCION_FOLIO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.inventarios_recepcion_folio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b9068d49adbbe20038ebd333ce1a5308",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "55bbxyl7naef25n2h9m8pnm": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "55bbxyl7naef25n2h9m8pnm",
+      "title": "INVENTARIO_AJUSTE_FOLIO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.inventario_ajuste_folio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7e289093fb271defd92ac989a345334e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "x8a8d6x4tnxqshee00z983l": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "x8a8d6x4tnxqshee00z983l",
+      "title": "GEN_VENTATICKETS_IMPUESTOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_ventatickets_impuestos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9c3e884755c4c005c6b6767da3f5827a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "6agcndlx8sk0sb876j6c2mn": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6agcndlx8sk0sb876j6c2mn",
+      "title": "GEN_VENTATICKETS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_ventatickets_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "81b5d10979baed2f8f12a28d943256f7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "2fs24a1d37hjqif686o6lld": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2fs24a1d37hjqif686o6lld",
+      "title": "GEN_VENTATICKETS_ARTICULOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_ventatickets_articulos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8618a93ef3f39865f2f5d0591e4fc57b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "6qy8y07vgxos5ps6fpxzfhj": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6qy8y07vgxos5ps6fpxzfhj",
+      "title": "GEN_VENTA_SERVICIO_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_venta_servicio_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "501cb2e1316d00cdf05612dd73d5b84d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "6oas8sbijjmhdk6jaooor4q": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6oas8sbijjmhdk6jaooor4q",
+      "title": "GEN_VENTA_RECARGA_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_venta_recarga_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "f6028bfd21ea104d169d6093a0879c86",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "7xmdkmeo95tjq4mj86apedk": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7xmdkmeo95tjq4mj86apedk",
+      "title": "GEN_VENTA_DE_RECARGAS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_venta_de_recargas_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9456c13adb2c5d395ba5ba5a79d76787",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "167tph5lx3rv0q0kcsfqixn": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "167tph5lx3rv0q0kcsfqixn",
+      "title": "GEN_USUARIOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_usuarios_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "3a65e0171a4981184bfb550b2cd1b180",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "4l827e3403kp6dxj83s3n4d": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "4l827e3403kp6dxj83s3n4d",
+      "title": "GEN_TURNOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_turnos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "30f266862c0a62892b1432796bf6971d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "58jpdobuw78cfyx9tqhei9o": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "58jpdobuw78cfyx9tqhei9o",
+      "title": "GEN_TRANSACCIONES_PROSEPAGO_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_transacciones_prosepago_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ac1dfe6f35750a9b694f3567ea0398b8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "6kjyj1mrzg33ssq844yd2ym": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6kjyj1mrzg33ssq844yd2ym",
+      "title": "GEN_TICKETS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_tickets_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d76bca4bab3d86b4e4e8d2d20d7cbc3c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "1camjd0pfrgg7ksnccdi56g": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "1camjd0pfrgg7ksnccdi56g",
+      "title": "GEN_TICKET_ARTICULOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_ticket_articulos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b98d5aa75848c0058835d90a4dc8c259",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "64g2ji0g6ql37kvsi0mbzew": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "64g2ji0g6ql37kvsi0mbzew",
+      "title": "GEN_SINCRONIZACION_NUBE_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_sincronizacion_nube_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "bfddde1fe7bfb5363fbc361c3bfbbf83",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3hxfxwav2kfy0ybzxat7zh2": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3hxfxwav2kfy0ybzxat7zh2",
+      "title": "GEN_SERVICIOS_REFERENCIA_ABONOS",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_servicios_referencia_abonos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "15c8fd0200c98c841ce7508e1f023fb6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "2j8qhjic5jtwsfg4ds12iw8": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2j8qhjic5jtwsfg4ds12iw8",
+      "title": "GEN_SERVICIOS_CONSECUTIVO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_servicios_consecutivo",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d436030a31c23d39de91ba3799d922be",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3emtrj745fzekef1iuivrrd": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3emtrj745fzekef1iuivrrd",
+      "title": "GEN_PROVEEDORES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_proveedores_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "da0f4dab3eb72f738c617cf9bebbbf8f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "813u0mb7t7m42lwlai0d9dy": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "813u0mb7t7m42lwlai0d9dy",
+      "title": "GEN_PROVEEDORES_BASE_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_proveedores_base_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "839bfc34423dc9d91dc41b382feab281",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "4lycked9qxda96h8aihpitc": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "4lycked9qxda96h8aihpitc",
+      "title": "GEN_PROMOCIONES_POR_CANTIDAD_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_promociones_por_cantidad_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "a87e81d7ccb520f25737505c93426157",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5sfdrgsdeseh1jxoiadfbu4": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5sfdrgsdeseh1jxoiadfbu4",
+      "title": "GEN_PRODUCTOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_productos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7b253c1ab61ea7c6353faebdcb77bdad",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "38w2ghj1nx4ynqswtc2b3nz": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "38w2ghj1nx4ynqswtc2b3nz",
+      "title": "GEN_PRODUCTOS_CFDI_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_productos_cfdi_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ffec5ec0d43cd2be5f6ade257fc9f666",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3ky0wpqhr3ihptovfafftis": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3ky0wpqhr3ihptovfafftis",
+      "title": "GEN_PAGOS_MIXTOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_pagos_mixtos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "3551a1d79f9ea63620d1f75b8343fab6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "61d8uv857k33e4raigs34n0": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "61d8uv857k33e4raigs34n0",
+      "title": "GEN_ORDENES_DE_COMPRA_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_ordenes_de_compra_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "65a204324baec86a9b2cd349905392d3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "7miytip9zfs8fix008elmv0": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7miytip9zfs8fix008elmv0",
+      "title": "GEN_OPERACIONES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_operaciones_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9b814031eed2ff82ca28b64b07367b1a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3rs7rcjjee6xa8znnkqxmep": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3rs7rcjjee6xa8znnkqxmep",
+      "title": "GEN_MOVIMIENTOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_movimientos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b4a8a9474db87e0a55d521c648649b78",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "1bl4acf4382lnprxp0pvtzs": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "1bl4acf4382lnprxp0pvtzs",
+      "title": "GEN_MEDIDAS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_medidas_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "f436f831346eda565de2818e340321fe",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "48jve1ksqvn34hjtok1chk3": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "48jve1ksqvn34hjtok1chk3",
+      "title": "GEN_LISTA_DE_COMPRA_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_lista_de_compra_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1e473e5f6e639d849588077c1580c5bf",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "19xadck7f110chd5i592ax0": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "19xadck7f110chd5i592ax0",
+      "title": "GEN_INVENTARIO_RECIBOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_inventario_recibos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "4e30205286e53cabc5b167a6fbc38297",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "6g61z7c26e3jv3nbsmamlfe": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6g61z7c26e3jv3nbsmamlfe",
+      "title": "GEN_INVENTARIO_HISTORIAL_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_inventario_historial_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "c44f97146c7c0b2e29181ea6ee7261cb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5i3e8nd4zia1begoi8oteur": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5i3e8nd4zia1begoi8oteur",
+      "title": "GEN_INVENTARIO_AJUSTES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_inventario_ajustes_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "79d155b6380d970adcd239a04e8e65f3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "namkj8h6i4ok44dqop8mc30": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "namkj8h6i4ok44dqop8mc30",
+      "title": "GEN_IMPUESTOS_REGLAS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_impuestos_reglas_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "a024a20a026f5b16686641a536a13491",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "fdftnfkd5ezo7arcegfiqpc": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "fdftnfkd5ezo7arcegfiqpc",
+      "title": "GEN_IMPUESTOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_impuestos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "6fdb3939398d77343a00be9dda084ea6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3kzvrj73fugdt5cegmigls7": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3kzvrj73fugdt5cegmigls7",
+      "title": "GEN_HISTORIAL_USUARIOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_historial_usuarios_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "cc78c4d79234348befc2a026951b372a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "2odv5l39zb9m2j1esas7d3l": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2odv5l39zb9m2j1esas7d3l",
+      "title": "GEN_HISTORIAL_INVENTARIO_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_historial_inventario_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fd85b31976300d9355c5344ff7419874",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "4vnvrd85uzy1khd6f2gmc2r": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "4vnvrd85uzy1khd6f2gmc2r",
+      "title": "GEN_FACTURAS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_facturas_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "5286b14db96700c4196c8bf124dc2f47",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5mj7wox77a0udahcf1bbbqw": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5mj7wox77a0udahcf1bbbqw",
+      "title": "GEN_FACTURAS_FOLIO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_facturas_folio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "95cfe7b4ebe10b04e9fb3f27a3a068cc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5l7o87l3u9cvon6g1vj8gxd": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5l7o87l3u9cvon6g1vj8gxd",
+      "title": "GEN_FACTURACION_INFORMES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_facturacion_informes_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2c28b22e58001fda0163e836b8190d7e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "6od78xkj3e518tftpegxl4f": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6od78xkj3e518tftpegxl4f",
+      "title": "GEN_FACTURACION_FOLIOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_facturacion_folios_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "0e0abf4b5476a7590ebdda8a1642695f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "6momvi7d6hwm9pdyzi0na1a": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6momvi7d6hwm9pdyzi0na1a",
+      "title": "GEN_FACTURACION_EMISORES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_facturacion_emisores_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ded143787e9f3462235446581158ef93",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5riakapmhbpu7exzgt5z01r": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5riakapmhbpu7exzgt5z01r",
+      "title": "GEN_FACTURACION_CLIENTES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_facturacion_clientes_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "41eede431489089048c0189bbc774206",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "74vsw6l412tyyl03x07rnbo": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "74vsw6l412tyyl03x07rnbo",
+      "title": "GEN_FACTURACION_CERTIFICADOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_facturacion_certificados_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b0317126796aebf188009d4aacd839cc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3995pvdjmi9nc87ezt1xs0a": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3995pvdjmi9nc87ezt1xs0a",
+      "title": "GEN_DEVOLUCIONES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_devoluciones_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "61bc4a1be565828bb67debdeb590e586",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3c9qs9u1aeffskc0nlppa3f": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3c9qs9u1aeffskc0nlppa3f",
+      "title": "GEN_DEVOLUCIONES_ARTICULOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_devoluciones_articulos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "55a93432b52a6cb369f7c74203b31084",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "7h2khnz2rvf7pypp0ajnroa": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7h2khnz2rvf7pypp0ajnroa",
+      "title": "GEN_DEPARTAMENTOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_departamentos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fab014afac43338274ae7d414858e7fc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5x2qumgphzihtgtph6as1w6": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5x2qumgphzihtgtph6as1w6",
+      "title": "GEN_CREDITOS_TRANSACCIONES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_creditos_transacciones_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "46c53f98fb74bc03ff0f3368066760e7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "2apsc89ba16vshp6iyrpegi": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2apsc89ba16vshp6iyrpegi",
+      "title": "GEN_CREDITOS_ABONOS_VENTAS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_creditos_abonos_ventas_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8c762ad91ae9ff7660baac8002c19b3d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3gwxaadvcnefk834g762bno": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3gwxaadvcnefk834g762bno",
+      "title": "GEN_CREDITOS_ABONOS_PAGOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_creditos_abonos_pagos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2d3d2d2afaa5f041c5301a85b5d7396b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "201zn78ccrwam16osn52287": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "201zn78ccrwam16osn52287",
+      "title": "GEN_CREDITOS_ABONOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_creditos_abonos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d112a45375b9f8e7a1dfbb0c2dfd4a7f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5ig7nai36mucebtwk7147g5": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5ig7nai36mucebtwk7147g5",
+      "title": "GEN_CRED_ARTS_IMPS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_cred_arts_imps_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8895788e8f8a20112f33fd73397014f9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5ggh8qc17o8menem4r1dqcv": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5ggh8qc17o8menem4r1dqcv",
+      "title": "GEN_CRED_ABONOS_IMPS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_cred_abonos_imps_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "168137791748501b9d9a6339aaae4c14",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "7iikjmy7a1ns5gf2hbf2ihn": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7iikjmy7a1ns5gf2hbf2ihn",
+      "title": "GEN_CRED_ABONOS_ARTS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_cred_abonos_arts_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "3e862a4d04c25300714ada4d7c480fa1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "7n7ao13gicnfyl0gek7vtea": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7n7ao13gicnfyl0gek7vtea",
+      "title": "GEN_CORTE_VENTAS_POR_DEPTO_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_corte_ventas_por_depto_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1027d7896407fba3c13e67614ac18112",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "1noiclj0ft6jh4hoczs25oy": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "1noiclj0ft6jh4hoczs25oy",
+      "title": "GEN_CORTE_VENTAS_DE_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_corte_ventas_de_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "625bce06e7b3cbc64d976d4da5d61fdb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "4shktjfirgwdgzrrbgsds1s": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "4shktjfirgwdgzrrbgsds1s",
+      "title": "GEN_CORTE_OPERACIONES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_corte_operaciones_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2f4cd0d66d5a35a675587ea27af044e0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "4zruft36a83ssnvjw21bkaq": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "4zruft36a83ssnvjw21bkaq",
+      "title": "GEN_CORTE_MOVIMIENTOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_corte_movimientos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ad8ee89d2243feaaae19af2b0031a183",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "2rzx0gqd3a7tq5qohhse80d": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2rzx0gqd3a7tq5qohhse80d",
+      "title": "GEN_CORTE_IMPUESTOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_corte_impuestos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fe839c44afa2dda5e0f6d52f3b682db5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "73jsvencgfxkartodajznfd": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "73jsvencgfxkartodajznfd",
+      "title": "GEN_CORTE_IMP_COBRA_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_corte_imp_cobra_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1d02856599ff9712f087a85f32e0a02c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "ff4gy2cbear2mj6gl7k61lv": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "ff4gy2cbear2mj6gl7k61lv",
+      "title": "GEN_CONFIGURACION_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_configuracion_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "278bcd2566821a252b883c9ad0faf0cf",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3h412qclqcghz05rluukvli": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3h412qclqcghz05rluukvli",
+      "title": "GEN_CONCILIACION_PA_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_conciliacion_pa_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "301b054dcff62f0144bed211790797ef",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "7ikb4xtpipax3yynuzdevbx": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7ikb4xtpipax3yynuzdevbx",
+      "title": "GEN_COMISIONES_TARJETA_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_comisiones_tarjeta_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "0e5998a4da8bd0091b03fc4f3d328321",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "7o8pgkosotex0ri1pcoh4g4": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7o8pgkosotex0ri1pcoh4g4",
+      "title": "GEN_CLIENTESV2_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_clientesv2_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d1d5ed8490cc9f338936f52b61406d5e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3sortw72ofild0e7bi5d59v": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3sortw72ofild0e7bi5d59v",
+      "title": "GEN_CLIENTES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_clientes_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "0cd87b6b697d6e1deaf32d604c4c2010",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "783in5jzj6qhhfktxgea20f": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "783in5jzj6qhhfktxgea20f",
+      "title": "GEN_CAJAS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_cajas_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "e19e015666b9f2cef173c4c5753386ea",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3mic9eofq8a6qtutv6mokwf": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3mic9eofq8a6qtutv6mokwf",
+      "title": "GEN_CACHE_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_cache_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "844543c31aad90a8d6106254f8e5e0a8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3vpowd72ci45xmixhg7f33c": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3vpowd72ci45xmixhg7f33c",
+      "title": "GEN_ARTICULOS_DE_OC_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_articulos_de_oc_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "866bd9bbc11c756809d965b0c0a766c9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "5lsx3azy39ba7ztoyf38qkm": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5lsx3azy39ba7ztoyf38qkm",
+      "title": "GEN_ALMACENES_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_almacenes_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "1a9a894b8f46d571db97b60b40372017",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "61f9nx5lk1bkvrdaxoym4oe": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "61f9nx5lk1bkvrdaxoym4oe",
+      "title": "GEN_ABONOS_VENTAS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_abonos_ventas_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "dcfe5ce7f346b4a31063b156481289d2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "3uanp5gews3llrohwzwe7ou": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3uanp5gews3llrohwzwe7ou",
+      "title": "GEN_ABONOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_abonos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "04e6f9bffc5f9b5c79d5404d70917337",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "2zv6an24kpzq6eiej9frli8": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2zv6an24kpzq6eiej9frli8",
+      "title": "GEN_ABONOS_ARTICULOS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_abonos_articulos_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "0ab9393c660d682c4ca9683c09e3f1c9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "6uercvutx9q3mamftv4htvw": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6uercvutx9q3mamftv4htvw",
+      "title": "GEN_ABONO_TICKETS_ID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "generator.gen_abono_tickets_id",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9f8d92274ffce1c3121c8f99120b5958",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "w0wejd6unt7ustjc2b2tnzq",
+      "data": {}
+    },
+    "72ihqzbm5trjuy6lu13l771": {
+      "id": "72ihqzbm5trjuy6lu13l771",
+      "title": "Eleventa",
+      "desc": "",
+      "updated": 1685171160911,
+      "created": 1684524851627,
+      "custom": {},
+      "fname": "eleventa",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "30bc0e1b75a6b185374d4f89fd136a4a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "value": "domain",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 3
+            },
+            "end": {
+              "line": 2,
+              "column": 13,
+              "offset": 13
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "domain"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "value": "generator",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 16
+            },
+            "end": {
+              "line": 3,
+              "column": 16,
+              "offset": 29
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "generator"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "value": "index",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 32
+            },
+            "end": {
+              "line": 4,
+              "column": 12,
+              "offset": 41
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "index"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "value": "procedure",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 44
+            },
+            "end": {
+              "line": 5,
+              "column": 16,
+              "offset": 57
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "procedure"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "value": "table",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 60
+            },
+            "end": {
+              "line": 6,
+              "column": 12,
+              "offset": 69
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "table"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "value": "trigger",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 72
+            },
+            "end": {
+              "line": 7,
+              "column": 14,
+              "offset": 83
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "trigger"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "9unb3paer9g00dvn86cqozm",
+            "vaultName": "eleventa"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 3
+            },
+            "end": {
+              "line": 2,
+              "column": 15,
+              "offset": 15
+            },
+            "indent": []
+          },
+          "value": "eleventa"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "9unb3paer9g00dvn86cqozm",
+      "data": {}
+    },
+    "m3i0likj6j3m0fxhecq2slb": {
+      "id": "m3i0likj6j3m0fxhecq2slb",
+      "title": "Domain",
+      "desc": "",
+      "updated": 1685171065915,
+      "created": 1685167493861,
+      "custom": {},
+      "fname": "domain",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "dfbbc69766265d3d6661bf3b93fe4e84",
+      "links": [
+        {
+          "from": {
+            "fname": "eleventa",
+            "id": "72ihqzbm5trjuy6lu13l771",
+            "vaultName": "eleventa"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 3
+            },
+            "end": {
+              "line": 2,
+              "column": 13,
+              "offset": 13
+            },
+            "indent": []
+          },
+          "value": "domain"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "pe9rethbbqp3b0opbaxszl1",
+        "1lxvi3j75ramxecmuvy05wv",
+        "2nacgyiv91ysvmijvm03wz2",
+        "3es95pj59kaar762fpajh45",
+        "aop8p5bhg125xxya6x8a7uz",
+        "88ul5l5yl5e9df980xzu1qz",
+        "7if6usmelukr6g79tl6p066",
+        "49zlotrdrv4bzai23dey2me",
+        "456bzft8x2tnrge8n3r5wfm",
+        "65sq48gzh49elk0b330nb07",
+        "54b56bb2qwnvw7luq0qpgcj",
+        "3d3jb1shazr84577s33ln6a",
+        "3aihj0jad3e6h4owv3bk1eb",
+        "80zq0st6ewivl51rz1x0f8v",
+        "hty9dnptg9s1gq3uq7pp6qj",
+        "iezwv2qocicowbgvgssm7mm",
+        "17h03tc5wncdrcm2jruirsv",
+        "3sjqszulee8gnvkbqkmobqr",
+        "l0j264wb58jaid0yt3izc90",
+        "6zvkqzg7oknsi6ihhhgnmn3",
+        "zaeprrcd8wijs2zrcn7s38q",
+        "22za7sasjj4c2tn893tbnh6",
+        "1frbcjh084f7oe6jvsw69nm",
+        "81qw3t5g5amu2mplahyj16x",
+        "610sy6mxugf19dy22f19u9r",
+        "1wmwv6ydq783069yr0jhfc3",
+        "2pwm2whcvgsnb30gv25ngca",
+        "3873pufvtt7tzlhwkctlkev",
+        "7kgkx2agyrqpxbyqj1ug0z9",
+        "5lou899mlwqsh3itnxlaw0p",
+        "24mdpmbzpd277tvnunq7q49",
+        "5jbdobs7bh1dswg422flj4t",
+        "7enj8b7rums22r4lmog6z7m",
+        "53smt8e8f69sw737e2mw4i0",
+        "3t31qqcgk40l7j0ufu0jiz5",
+        "kucghqomrx1jibk16mqbq72",
+        "7d4jq3ruq13g6uy8o48zwhe",
+        "6lxvqychejwgs901k44pjg6",
+        "2du312iiiey07p5ha1j11ef",
+        "3vphdyjlt5t0cn23qxklq6l",
+        "6p3do0toasncq8f9mmsb5gy",
+        "y057sqpf8s9zpfsp8yxex1y",
+        "14eg1opiym7nkzssy5vlsqc",
+        "66xl4rdh9qntk27sbwmvp7i",
+        "7907pvzbjg2242zi51fjbdh"
+      ],
+      "parent": "9unb3paer9g00dvn86cqozm",
+      "data": {}
+    },
+    "7907pvzbjg2242zi51fjbdh": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7907pvzbjg2242zi51fjbdh",
+      "title": "TTIPOVENTA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.ttipoventa",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2b80d185f2dc544f6c3cddd28564dbd0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "66xl4rdh9qntk27sbwmvp7i": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "66xl4rdh9qntk27sbwmvp7i",
+      "title": "TTIPOMOVIMIENTO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.ttipomovimiento",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "221544b44a529df93551821500c76e42",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "14eg1opiym7nkzssy5vlsqc": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "14eg1opiym7nkzssy5vlsqc",
+      "title": "TTIPOFACTURA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.ttipofactura",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "c449cefeeb190ef7b20dc6b2ae5e706e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "y057sqpf8s9zpfsp8yxex1y": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "y057sqpf8s9zpfsp8yxex1y",
+      "title": "TSMALLINT",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tsmallint",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "310f274e6e0f5116514a6ae8a55d9abf",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "6p3do0toasncq8f9mmsb5gy": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6p3do0toasncq8f9mmsb5gy",
+      "title": "TRFC",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.trfc",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7ae01077d6331dc3ece5c351e212dd8c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "3vphdyjlt5t0cn23qxklq6l": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3vphdyjlt5t0cn23qxklq6l",
+      "title": "TPRODUCTODESCRIPCION",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tproductodescripcion",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "711a3f52bb5b916ddaf44edc0be3998a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "2du312iiiey07p5ha1j11ef": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2du312iiiey07p5ha1j11ef",
+      "title": "TPORCENTAJEGANANCIA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tporcentajeganancia",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "ce3f94c28024481001aef0cdabbf319b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "6lxvqychejwgs901k44pjg6": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6lxvqychejwgs901k44pjg6",
+      "title": "TPORCENTAJE",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tporcentaje",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "edbed6a6032c5dee1d10c947c06d05a0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "7d4jq3ruq13g6uy8o48zwhe": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7d4jq3ruq13g6uy8o48zwhe",
+      "title": "TPERMISOS",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tpermisos",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "40cc13b9eec82f1a9c2759059ce738b6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "kucghqomrx1jibk16mqbq72": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "kucghqomrx1jibk16mqbq72",
+      "title": "TNUMEROTRANSACCION",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tnumerotransaccion",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "67da1e732fd13a3d335b810e1c32421f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "3t31qqcgk40l7j0ufu0jiz5": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3t31qqcgk40l7j0ufu0jiz5",
+      "title": "TNUMERODETELEFONO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tnumerodetelefono",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "43e274364947e5a62217adcd5a8c8d82",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "53smt8e8f69sw737e2mw4i0": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "53smt8e8f69sw737e2mw4i0",
+      "title": "TNOTA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tnota",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "85ac72ba922372013c135961997ccf62",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "7enj8b7rums22r4lmog6z7m": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7enj8b7rums22r4lmog6z7m",
+      "title": "TNOMBREPC",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tnombrepc",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8ce0662c3e7e69f0ae95f77cd4775993",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "5jbdobs7bh1dswg422flj4t": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5jbdobs7bh1dswg422flj4t",
+      "title": "TMONEDA_4_DECIMALES",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tmoneda_4_decimales",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "434e529afd514e5f10210f363e07303a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "24mdpmbzpd277tvnunq7q49": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "24mdpmbzpd277tvnunq7q49",
+      "title": "TMONEDA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tmoneda",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d36318be54f4baa1d03d348a07243f4c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "5lou899mlwqsh3itnxlaw0p": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "5lou899mlwqsh3itnxlaw0p",
+      "title": "TMEDIDA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tmedida",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fd47c2ad313ab928a2d142a61bee96d5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "7kgkx2agyrqpxbyqj1ug0z9": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7kgkx2agyrqpxbyqj1ug0z9",
+      "title": "TLLAVE",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tllave",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fcdd4feee11ebe21f5000da53ed34d14",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "3873pufvtt7tzlhwkctlkev": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3873pufvtt7tzlhwkctlkev",
+      "title": "TINTEGER",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tinteger",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "20e8692f5fbd3a05cf2b874fa1cdd337",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "2pwm2whcvgsnb30gv25ngca": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2pwm2whcvgsnb30gv25ngca",
+      "title": "TGUID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tguid",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8c5cc4ae037eee342d12ea48b0a49b70",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "1wmwv6ydq783069yr0jhfc3": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "1wmwv6ydq783069yr0jhfc3",
+      "title": "TFORMAPAGO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tformapago",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9f3826110eefd5ed0febb072c0118b68",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "610sy6mxugf19dy22f19u9r": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "610sy6mxugf19dy22f19u9r",
+      "title": "TFOLIO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfolio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2d7a97fbe1841ed506ba7a51e547e354",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "81qw3t5g5amu2mplahyj16x": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "81qw3t5g5amu2mplahyj16x",
+      "title": "TFECHAHORA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfechahora",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "faa2a020008e0f890982b6c50d0694b2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "1frbcjh084f7oe6jvsw69nm": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "1frbcjh084f7oe6jvsw69nm",
+      "title": "TFECHA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfecha",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "4aadf80e6715a0ecf90827c0fbd489c4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "22za7sasjj4c2tn893tbnh6": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "22za7sasjj4c2tn893tbnh6",
+      "title": "TFACTURAXML",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfacturaxml",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fb53a5b65a665417fda0113549192282",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "zaeprrcd8wijs2zrcn7s38q": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "zaeprrcd8wijs2zrcn7s38q",
+      "title": "TFACTURAVERSION",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfacturaversion",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b2552fed6e1aeb6ee082353e1d477e24",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "6zvkqzg7oknsi6ihhhgnmn3": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "6zvkqzg7oknsi6ihhhgnmn3",
+      "title": "TFACTURAUUID",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfacturauuid",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "bea9c8ade220e894af6a1a91c86430f6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "l0j264wb58jaid0yt3izc90": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "l0j264wb58jaid0yt3izc90",
+      "title": "TFACTURAPAC",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfacturapac",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "9fc05969261dc62f5c3e514998262b3a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "3sjqszulee8gnvkbqkmobqr": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3sjqszulee8gnvkbqkmobqr",
+      "title": "TFACTURAFOLIOOPCIONAL",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfacturafolioopcional",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2c2ce7f52e989e2b289e6c663d81ef2f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "17h03tc5wncdrcm2jruirsv": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "17h03tc5wncdrcm2jruirsv",
+      "title": "TFACTURAFOLIO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tfacturafolio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "0e29f64972df1df0cb4356c48aa8540b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "iezwv2qocicowbgvgssm7mm": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "iezwv2qocicowbgvgssm7mm",
+      "title": "TENUMERADO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tenumerado",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "7a1f83ca9f701c00a9fd4a25dd9f08a1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "hty9dnptg9s1gq3uq7pp6qj": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "hty9dnptg9s1gq3uq7pp6qj",
+      "title": "TDATOSCONCILIACION",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tdatosconciliacion",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "fd1d018d0d41d3a591ba33431d84bed4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "80zq0st6ewivl51rz1x0f8v": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "80zq0st6ewivl51rz1x0f8v",
+      "title": "TCURRENCY",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcurrency",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "edd3af1a834c53995e4a2de504b07228",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "3aihj0jad3e6h4owv3bk1eb": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3aihj0jad3e6h4owv3bk1eb",
+      "title": "TCODIGOPRODUCTO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcodigoproducto",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "bb270d1abbeaafe393b4fd25b486b58e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "3d3jb1shazr84577s33ln6a": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3d3jb1shazr84577s33ln6a",
+      "title": "TCODIGOPOSTAL",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcodigopostal",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "266e491b2f55e00b232a1f4727efc2ea",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "54b56bb2qwnvw7luq0qpgcj": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "54b56bb2qwnvw7luq0qpgcj",
+      "title": "TCODIGOMONEDA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcodigomoneda",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "2df933837c8c29472137076fcebe89e1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "65sq48gzh49elk0b330nb07": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "65sq48gzh49elk0b330nb07",
+      "title": "TCARACTER",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcaracter",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "508d8770124c52ee8807d33b3d4ce7bb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "456bzft8x2tnrge8n3r5wfm": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "456bzft8x2tnrge8n3r5wfm",
+      "title": "TCANTIDADINV",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcantidadinv",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "5372ca8cb3ae243a40a263fe93d323e5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "49zlotrdrv4bzai23dey2me": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "49zlotrdrv4bzai23dey2me",
+      "title": "TCANTIDAD",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcantidad",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "c1e16f2518ff9571a38952dc4b8cd34e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "7if6usmelukr6g79tl6p066": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "7if6usmelukr6g79tl6p066",
+      "title": "TCADENAMEDIANA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcadenamediana",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "8ba1be9986f66f84dbbe57a0495518e1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "88ul5l5yl5e9df980xzu1qz": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "88ul5l5yl5e9df980xzu1qz",
+      "title": "TCADENALARGA",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcadenalarga",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "538a195f9514cb28f446ede28b04c717",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "aop8p5bhg125xxya6x8a7uz": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "aop8p5bhg125xxya6x8a7uz",
+      "title": "TCADENAGIGANTE",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcadenagigante",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "165e6ce77fcc484c38d702812144b7b8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "3es95pj59kaar762fpajh45": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "3es95pj59kaar762fpajh45",
+      "title": "TCADENAACUSE",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tcadenaacuse",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "a436669fcdcae2125dc2263aec5be2c5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "2nacgyiv91ysvmijvm03wz2": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "2nacgyiv91ysvmijvm03wz2",
+      "title": "TBOOLEANO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tbooleano",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "d13697aeb6cc3c1c15839147067f2da0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "1lxvi3j75ramxecmuvy05wv": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "1lxvi3j75ramxecmuvy05wv",
+      "title": "TARCHIVO",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.tarchivo",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "99b1a564d62d76ff25bf6dea56e26e52",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    },
+    "pe9rethbbqp3b0opbaxszl1": {
+      "created": 1684912751000,
+      "desc": null,
+      "id": "pe9rethbbqp3b0opbaxszl1",
+      "title": "BOOLEAN",
+      "updated": 1684912751000,
+      "custom": {},
+      "fname": "domain.boolean",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "df336f7c071a142c34b78fb5f23c260b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "m3i0likj6j3m0fxhecq2slb",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "9unb3paer9g00dvn86cqozm",
+      "title": "Root",
+      "desc": "",
+      "updated": 1685137382357,
+      "created": 1685132817789,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "eleventa"
+      },
+      "contentHash": "b51f57a2c78b2628408128f29dea7bc5",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "9unb3paer9g00dvn86cqozm",
+            "vaultName": "eleventa"
+          },
+          "value": "eleventa",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 3
+            },
+            "end": {
+              "line": 2,
+              "column": 15,
+              "offset": 15
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "eleventa"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "9unb3paer9g00dvn86cqozm",
+            "vaultName": "eleventa"
+          },
+          "value": "relaciones",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 18
+            },
+            "end": {
+              "line": 3,
+              "column": 17,
+              "offset": 32
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "relaciones"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "m3i0likj6j3m0fxhecq2slb",
+        "72ihqzbm5trjuy6lu13l771",
+        "w0wejd6unt7ustjc2b2tnzq",
+        "ye7rda1fcozo3n8wddalrvg",
+        "vw6cwhxkalnye4ujxthzm8c",
+        "scfbibm6ikvk5ydyk3uc7ap",
+        "v6m7i6nuc0dshp24a1k2qa8",
+        "tpqk96jjk5t88vjzva11jpf"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n* [[eleventa]]\n* [[relaciones]]\n\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "9unb3paer9g00dvn86cqozm",
+    "title": "Root",
+    "desc": "",
+    "updated": 1685137382357,
+    "created": 1685132817789,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "eleventa"
+    },
+    "contentHash": "b51f57a2c78b2628408128f29dea7bc5",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "9unb3paer9g00dvn86cqozm",
+          "vaultName": "eleventa"
+        },
+        "value": "eleventa",
+        "position": {
+          "start": {
+            "line": 2,
+            "column": 3,
+            "offset": 3
+          },
+          "end": {
+            "line": 2,
+            "column": 15,
+            "offset": 15
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "eleventa"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "9unb3paer9g00dvn86cqozm",
+          "vaultName": "eleventa"
+        },
+        "value": "relaciones",
+        "position": {
+          "start": {
+            "line": 3,
+            "column": 3,
+            "offset": 18
+          },
+          "end": {
+            "line": 3,
+            "column": 17,
+            "offset": 32
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "relaciones"
+        }
+      }
+    ],
+    "anchors": {},
+    "children": [
+      "m3i0likj6j3m0fxhecq2slb",
+      "72ihqzbm5trjuy6lu13l771",
+      "w0wejd6unt7ustjc2b2tnzq",
+      "ye7rda1fcozo3n8wddalrvg",
+      "vw6cwhxkalnye4ujxthzm8c",
+      "scfbibm6ikvk5ydyk3uc7ap",
+      "v6m7i6nuc0dshp24a1k2qa8",
+      "tpqk96jjk5t88vjzva11jpf"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n* [[eleventa]]\n* [[relaciones]]\n\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "eleventa"
+    }
+  ]
+}

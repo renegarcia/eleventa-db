@@ -1,0 +1,12 @@
+<h1 id="clientes">CLIENTES<a aria-hidden="true" class="anchor-heading icon-link" href="#clientes"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> CLIENTES <span class="token punctuation">(</span>NUMERO TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        DIRECCION TCADENALARGA<span class="token punctuation">,</span>
+        TELEFONO TCADENAMEDIANA<span class="token punctuation">,</span>
+        DSALDOACTUAL TMONEDA<span class="token punctuation">,</span>
+        DTACTUALIZASALDO TFECHA<span class="token punctuation">,</span>
+        LIMITE_CREDITO TMONEDA<span class="token punctuation">,</span>
+        ULTIMO_PAGO_EN TFECHAHORA<span class="token punctuation">,</span>
+        FOLIO TFOLIO <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        NOMBRE TCADENALARGA <span class="token keyword">DEFAULT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_CLIENTES <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>NUMERO<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

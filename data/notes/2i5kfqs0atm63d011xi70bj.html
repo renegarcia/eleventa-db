@@ -1,0 +1,13 @@
+<h1 id="cajas">CAJAS<a aria-hidden="true" class="anchor-heading icon-link" href="#cajas"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> CAJAS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        NOMBRE TCADENAMEDIANA<span class="token punctuation">,</span>
+        ULTIMA_IP TCADENAMEDIANA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ULTIMO_INGRESO TFECHAHORA<span class="token punctuation">,</span>
+        NOMBRE_PC TNOMBREPC<span class="token punctuation">,</span>
+        ELIMINADA_EN TFECHAHORA<span class="token punctuation">,</span>
+        ES_PRINCIPAL TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'F'</span><span class="token punctuation">,</span>
+        TERMINAL_ID <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">40</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_CAJAS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> UNQ1_CAJAS <span class="token keyword">UNIQUE</span> <span class="token punctuation">(</span>NOMBRE<span class="token punctuation">,</span> ELIMINADA_EN<span class="token punctuation">)</span> <span class="token keyword">USING</span> <span class="token keyword">INDEX</span> IX_CAJA_NOMBRE_UNICO_ACTIVO<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> UNQ1_CAJA_SID <span class="token keyword">UNIQUE</span> <span class="token punctuation">(</span>NOMBRE_PC<span class="token punctuation">,</span> ELIMINADA_EN<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

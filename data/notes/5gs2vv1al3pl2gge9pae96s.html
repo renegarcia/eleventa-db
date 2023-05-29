@@ -1,0 +1,21 @@
+<h1 id="ordenes_de_compra">ORDENES_DE_COMPRA<a aria-hidden="true" class="anchor-heading icon-link" href="#ordenes_de_compra"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> ORDENES_DE_COMPRA <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ID_PROVEEDOR TLLAVE<span class="token punctuation">,</span>
+        FOLIO_ORDEN_PROVEEDOR TCADENAMEDIANA<span class="token punctuation">,</span>
+        CREADA_EN TFECHAHORA<span class="token punctuation">,</span>
+        CANCELADA_EN TFECHAHORA<span class="token punctuation">,</span>
+        ENVIADA_EN TFECHAHORA<span class="token punctuation">,</span>
+        RECIBIDA_EN TFECHAHORA<span class="token punctuation">,</span>
+        ESTADO TCARACTER<span class="token punctuation">,</span>
+        UTILIDAD_ENVIADO TMONEDA<span class="token punctuation">,</span>
+        IMPUESTOS_ENVIADO TMONEDA<span class="token punctuation">,</span>
+        SUBTOTAL_ENVIADO TMONEDA<span class="token punctuation">,</span>
+        TOTAL_ENVIADO TMONEDA<span class="token punctuation">,</span>
+        UTILIDAD_RECIBIDO TMONEDA<span class="token punctuation">,</span>
+        IMPUESTOS_RECIBIDO TMONEDA<span class="token punctuation">,</span>
+        SUBTOTAL_RECIBIDO TMONEDA<span class="token punctuation">,</span>
+        TOTAL_RECIBIDO TMONEDA<span class="token punctuation">,</span>
+        NOTAS TCADENAGIGANTE<span class="token punctuation">,</span>
+        TOTAL_ARTICULOS TINTEGER <span class="token keyword">default</span> <span class="token number">0</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_ORDENES_DE_COMPRA <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

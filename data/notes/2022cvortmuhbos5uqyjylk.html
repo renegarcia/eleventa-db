@@ -1,0 +1,35 @@
+<h1 id="facturas">FACTURAS<a aria-hidden="true" class="anchor-heading icon-link" href="#facturas"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> FACTURAS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        SERIE TCADENAMEDIANA<span class="token punctuation">,</span>
+        FOLIO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        GENERADA_EN TFECHAHORA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TRANSACCION_DE TFECHAHORA<span class="token punctuation">,</span>
+        FACTURACION_CLIENTE_ID TLLAVE <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        FACTURACION_EMISOR_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        VENTATICKET_ID TLLAVE<span class="token punctuation">,</span>
+        VENTATICKET_FOLIO TFOLIO<span class="token punctuation">,</span>
+        SUBTOTAL TMONEDA<span class="token punctuation">,</span>
+        IMPUESTOS TMONEDA<span class="token punctuation">,</span>
+        TOTAL TMONEDA<span class="token punctuation">,</span>
+        XML TFACTURAXML <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CANCELADA_EN TFECHAHORA<span class="token punctuation">,</span>
+        TIPO TTIPOFACTURA <span class="token keyword">DEFAULT</span> <span class="token string">'n'</span><span class="token punctuation">,</span>
+        CERTIFICADO_ID TLLAVE<span class="token punctuation">,</span>
+        TURNO_ID TLLAVE<span class="token punctuation">,</span>
+        VERSION_CFD TFACTURAVERSION <span class="token keyword">DEFAULT</span> <span class="token string">'2.2'</span><span class="token punctuation">,</span>
+        UUID TFACTURAUUID<span class="token punctuation">,</span>
+        TIMBRADA_EN TFECHAHORA<span class="token punctuation">,</span>
+        PAC TFACTURAPAC<span class="token punctuation">,</span>
+        SE_MANDO_TIMBRAR_EN TFECHAHORA<span class="token punctuation">,</span>
+        SE_MANDO_CANCELAR_EN TFECHAHORA<span class="token punctuation">,</span>
+        EXTRAS_POR_ARTICULO TNOTA<span class="token punctuation">,</span>
+        ACUSE_CANCELACION TCADENAACUSE<span class="token punctuation">,</span>
+        FOLIO TINTEGER<span class="token punctuation">,</span>
+        ABONO_ID TLLAVE<span class="token punctuation">,</span>
+        FACTURA_RELACIONADA_ID TLLAVE<span class="token punctuation">,</span>
+        IMPUESTOS_LOCALES TCURRENCY <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        ESTADO <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">DEFAULT</span> <span class="token string">'b'</span><span class="token punctuation">,</span>
+        CLIENTESV2_FACTURACION_ID <span class="token keyword">INTEGER</span><span class="token punctuation">,</span>
+        IMPUESTOS_RETENIDOS TCURRENCY <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_FACTURAS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

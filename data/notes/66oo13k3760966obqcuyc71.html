@@ -1,0 +1,14 @@
+<h1 id="usuarios">USUARIOS<a aria-hidden="true" class="anchor-heading icon-link" href="#usuarios"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> USUARIOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        NOMBRE_COMPLETO TCADENALARGA<span class="token punctuation">,</span>
+        DIRECCION TCADENALARGA<span class="token punctuation">,</span>
+        TELEFONO TCADENAMEDIANA<span class="token punctuation">,</span>
+        USUARIO TCADENAMEDIANA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CLAVE TCADENAMEDIANA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PERMISOS TPERMISOS<span class="token punctuation">,</span>
+        CREATED_ON TFECHAHORA<span class="token punctuation">,</span>
+        CORREO TCADENALARGA<span class="token punctuation">,</span>
+        ESTA_EN_CAJA_ID TLLAVE<span class="token punctuation">,</span>
+        ELIMINADO_EN TFECHAHORA<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_USUARIOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

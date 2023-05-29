@@ -1,0 +1,4 @@
+
+```sql
+CREATE GENERATOR GEN_PAGOS_MIXTOS_ID;
+```

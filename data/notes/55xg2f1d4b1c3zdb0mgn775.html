@@ -1,0 +1,12 @@
+<h1 id="lista_de_compra">LISTA_DE_COMPRA<a aria-hidden="true" class="anchor-heading icon-link" href="#lista_de_compra"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> LISTA_DE_COMPRA <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ID_PRODUCTO TLLAVE<span class="token punctuation">,</span>
+        CODIGO_PRODUCTO TCODIGOPRODUCTO<span class="token punctuation">,</span>
+        DESCRIPCION_PRODUCTO TPRODUCTODESCRIPCION<span class="token punctuation">,</span>
+        DEPARTAMENTO_PRODUCTO TCADENAMEDIANA<span class="token punctuation">,</span>
+        ID_PROVEEDOR_ACTUAL TLLAVE<span class="token punctuation">,</span>
+        ULTIMO_COSTO TMONEDA<span class="token punctuation">,</span>
+        CANTIDAD_A_ORDENAR TCANTIDADINV<span class="token punctuation">,</span>
+        AGREGADO_EN TFECHAHORA<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_LISTA_DE_COMPRA <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

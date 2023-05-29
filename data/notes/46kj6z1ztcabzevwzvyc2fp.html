@@ -1,0 +1,7 @@
+<h1 id="articulo_componentes">ARTICULO_COMPONENTES<a aria-hidden="true" class="anchor-heading icon-link" href="#articulo_componentes"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> ARTICULO_COMPONENTES <span class="token punctuation">(</span>ARTICULO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PRODUCTO_PADRE_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        PRODUCTO_HIJO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CANTIDAD TCANTIDAD <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> UNQ_ART_COMP_PADRE_HIJO <span class="token keyword">UNIQUE</span> <span class="token punctuation">(</span>ARTICULO_ID<span class="token punctuation">,</span> PRODUCTO_PADRE_ID<span class="token punctuation">,</span> PRODUCTO_HIJO_ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

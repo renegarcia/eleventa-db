@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN TBOOLEANO AS CHAR(1);
+```

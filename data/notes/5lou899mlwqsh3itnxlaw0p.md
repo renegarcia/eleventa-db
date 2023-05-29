@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN TMEDIDA AS VARCHAR(3);
+```

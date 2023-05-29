@@ -1,0 +1,11 @@
+<h1 id="facturacion_folios">FACTURACION_FOLIOS<a aria-hidden="true" class="anchor-heading icon-link" href="#facturacion_folios"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> FACTURACION_FOLIOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        EMISOR_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        SERIE TCADENAMEDIANA<span class="token punctuation">,</span>
+        FOLIO_INICIAL TFACTURAFOLIOOPCIONAL<span class="token punctuation">,</span>
+        FOLIO_FINAL TFACTURAFOLIOOPCIONAL<span class="token punctuation">,</span>
+        SIGUIENTE_FOLIO TFACTURAFOLIOOPCIONAL<span class="token punctuation">,</span>
+        NUMERO_APROBACION TCADENAMEDIANA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ANO_APROBACION TSMALLINT <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_FACTURACION_FOLIOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

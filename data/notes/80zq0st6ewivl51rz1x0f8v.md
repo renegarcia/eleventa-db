@@ -1,0 +1,5 @@
+
+```sql
+CREATE DOMAIN TCURRENCY AS NUMERIC(18, 4)
+         DEFAULT 0;
+```

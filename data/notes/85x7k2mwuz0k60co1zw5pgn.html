@@ -1,0 +1,9 @@
+<h1 id="medidas">MEDIDAS<a aria-hidden="true" class="anchor-heading icon-link" href="#medidas"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> MEDIDAS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        UNIDAD_ENTEROS TCADENAMEDIANA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        UNIDAD_FRACCIONES TCADENAMEDIANA <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        FACTOR TINTEGER <span class="token keyword">DEFAULT</span> <span class="token number">1</span><span class="token punctuation">,</span>
+        ACTIVO TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token number">1</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_MEDIDAS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> UNQ1_MEDIDAS <span class="token keyword">UNIQUE</span> <span class="token punctuation">(</span>UNIDAD_ENTEROS<span class="token punctuation">,</span> ACTIVO<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

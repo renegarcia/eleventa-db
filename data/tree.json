@@ -1,0 +1,2574 @@
+{
+  "roots": [
+    {
+      "key": "m3i0likj6j3m0fxhecq2slb",
+      "title": "Domain",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "eleventa",
+      "children": [
+        {
+          "key": "pe9rethbbqp3b0opbaxszl1",
+          "title": "BOOLEAN",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1lxvi3j75ramxecmuvy05wv",
+          "title": "TARCHIVO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2nacgyiv91ysvmijvm03wz2",
+          "title": "TBOOLEANO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3es95pj59kaar762fpajh45",
+          "title": "TCADENAACUSE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "aop8p5bhg125xxya6x8a7uz",
+          "title": "TCADENAGIGANTE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "88ul5l5yl5e9df980xzu1qz",
+          "title": "TCADENALARGA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7if6usmelukr6g79tl6p066",
+          "title": "TCADENAMEDIANA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "49zlotrdrv4bzai23dey2me",
+          "title": "TCANTIDAD",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "456bzft8x2tnrge8n3r5wfm",
+          "title": "TCANTIDADINV",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "65sq48gzh49elk0b330nb07",
+          "title": "TCARACTER",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "54b56bb2qwnvw7luq0qpgcj",
+          "title": "TCODIGOMONEDA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3d3jb1shazr84577s33ln6a",
+          "title": "TCODIGOPOSTAL",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3aihj0jad3e6h4owv3bk1eb",
+          "title": "TCODIGOPRODUCTO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "80zq0st6ewivl51rz1x0f8v",
+          "title": "TCURRENCY",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "hty9dnptg9s1gq3uq7pp6qj",
+          "title": "TDATOSCONCILIACION",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "iezwv2qocicowbgvgssm7mm",
+          "title": "TENUMERADO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "17h03tc5wncdrcm2jruirsv",
+          "title": "TFACTURAFOLIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3sjqszulee8gnvkbqkmobqr",
+          "title": "TFACTURAFOLIOOPCIONAL",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "l0j264wb58jaid0yt3izc90",
+          "title": "TFACTURAPAC",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6zvkqzg7oknsi6ihhhgnmn3",
+          "title": "TFACTURAUUID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "zaeprrcd8wijs2zrcn7s38q",
+          "title": "TFACTURAVERSION",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "22za7sasjj4c2tn893tbnh6",
+          "title": "TFACTURAXML",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1frbcjh084f7oe6jvsw69nm",
+          "title": "TFECHA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "81qw3t5g5amu2mplahyj16x",
+          "title": "TFECHAHORA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "610sy6mxugf19dy22f19u9r",
+          "title": "TFOLIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1wmwv6ydq783069yr0jhfc3",
+          "title": "TFORMAPAGO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2pwm2whcvgsnb30gv25ngca",
+          "title": "TGUID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3873pufvtt7tzlhwkctlkev",
+          "title": "TINTEGER",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7kgkx2agyrqpxbyqj1ug0z9",
+          "title": "TLLAVE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5lou899mlwqsh3itnxlaw0p",
+          "title": "TMEDIDA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "24mdpmbzpd277tvnunq7q49",
+          "title": "TMONEDA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5jbdobs7bh1dswg422flj4t",
+          "title": "TMONEDA_4_DECIMALES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7enj8b7rums22r4lmog6z7m",
+          "title": "TNOMBREPC",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "53smt8e8f69sw737e2mw4i0",
+          "title": "TNOTA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3t31qqcgk40l7j0ufu0jiz5",
+          "title": "TNUMERODETELEFONO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "kucghqomrx1jibk16mqbq72",
+          "title": "TNUMEROTRANSACCION",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7d4jq3ruq13g6uy8o48zwhe",
+          "title": "TPERMISOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6lxvqychejwgs901k44pjg6",
+          "title": "TPORCENTAJE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2du312iiiey07p5ha1j11ef",
+          "title": "TPORCENTAJEGANANCIA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3vphdyjlt5t0cn23qxklq6l",
+          "title": "TPRODUCTODESCRIPCION",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6p3do0toasncq8f9mmsb5gy",
+          "title": "TRFC",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "y057sqpf8s9zpfsp8yxex1y",
+          "title": "TSMALLINT",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "14eg1opiym7nkzssy5vlsqc",
+          "title": "TTIPOFACTURA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "66xl4rdh9qntk27sbwmvp7i",
+          "title": "TTIPOMOVIMIENTO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7907pvzbjg2242zi51fjbdh",
+          "title": "TTIPOVENTA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "72ihqzbm5trjuy6lu13l771",
+      "title": "Eleventa",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "eleventa",
+      "children": []
+    },
+    {
+      "key": "w0wejd6unt7ustjc2b2tnzq",
+      "title": "Generator",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "eleventa",
+      "children": [
+        {
+          "key": "6uercvutx9q3mamftv4htvw",
+          "title": "GEN_ABONO_TICKETS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2zv6an24kpzq6eiej9frli8",
+          "title": "GEN_ABONOS_ARTICULOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3uanp5gews3llrohwzwe7ou",
+          "title": "GEN_ABONOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "61f9nx5lk1bkvrdaxoym4oe",
+          "title": "GEN_ABONOS_VENTAS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5lsx3azy39ba7ztoyf38qkm",
+          "title": "GEN_ALMACENES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3vpowd72ci45xmixhg7f33c",
+          "title": "GEN_ARTICULOS_DE_OC_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3mic9eofq8a6qtutv6mokwf",
+          "title": "GEN_CACHE_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "783in5jzj6qhhfktxgea20f",
+          "title": "GEN_CAJAS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3sortw72ofild0e7bi5d59v",
+          "title": "GEN_CLIENTES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7o8pgkosotex0ri1pcoh4g4",
+          "title": "GEN_CLIENTESV2_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7ikb4xtpipax3yynuzdevbx",
+          "title": "GEN_COMISIONES_TARJETA_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3h412qclqcghz05rluukvli",
+          "title": "GEN_CONCILIACION_PA_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "ff4gy2cbear2mj6gl7k61lv",
+          "title": "GEN_CONFIGURACION_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "73jsvencgfxkartodajznfd",
+          "title": "GEN_CORTE_IMP_COBRA_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2rzx0gqd3a7tq5qohhse80d",
+          "title": "GEN_CORTE_IMPUESTOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4zruft36a83ssnvjw21bkaq",
+          "title": "GEN_CORTE_MOVIMIENTOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4shktjfirgwdgzrrbgsds1s",
+          "title": "GEN_CORTE_OPERACIONES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1noiclj0ft6jh4hoczs25oy",
+          "title": "GEN_CORTE_VENTAS_DE_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7n7ao13gicnfyl0gek7vtea",
+          "title": "GEN_CORTE_VENTAS_POR_DEPTO_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7iikjmy7a1ns5gf2hbf2ihn",
+          "title": "GEN_CRED_ABONOS_ARTS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5ggh8qc17o8menem4r1dqcv",
+          "title": "GEN_CRED_ABONOS_IMPS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5ig7nai36mucebtwk7147g5",
+          "title": "GEN_CRED_ARTS_IMPS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "201zn78ccrwam16osn52287",
+          "title": "GEN_CREDITOS_ABONOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3gwxaadvcnefk834g762bno",
+          "title": "GEN_CREDITOS_ABONOS_PAGOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2apsc89ba16vshp6iyrpegi",
+          "title": "GEN_CREDITOS_ABONOS_VENTAS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5x2qumgphzihtgtph6as1w6",
+          "title": "GEN_CREDITOS_TRANSACCIONES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7h2khnz2rvf7pypp0ajnroa",
+          "title": "GEN_DEPARTAMENTOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3c9qs9u1aeffskc0nlppa3f",
+          "title": "GEN_DEVOLUCIONES_ARTICULOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3995pvdjmi9nc87ezt1xs0a",
+          "title": "GEN_DEVOLUCIONES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "74vsw6l412tyyl03x07rnbo",
+          "title": "GEN_FACTURACION_CERTIFICADOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5riakapmhbpu7exzgt5z01r",
+          "title": "GEN_FACTURACION_CLIENTES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6momvi7d6hwm9pdyzi0na1a",
+          "title": "GEN_FACTURACION_EMISORES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6od78xkj3e518tftpegxl4f",
+          "title": "GEN_FACTURACION_FOLIOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5l7o87l3u9cvon6g1vj8gxd",
+          "title": "GEN_FACTURACION_INFORMES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5mj7wox77a0udahcf1bbbqw",
+          "title": "GEN_FACTURAS_FOLIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4vnvrd85uzy1khd6f2gmc2r",
+          "title": "GEN_FACTURAS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2odv5l39zb9m2j1esas7d3l",
+          "title": "GEN_HISTORIAL_INVENTARIO_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3kzvrj73fugdt5cegmigls7",
+          "title": "GEN_HISTORIAL_USUARIOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "fdftnfkd5ezo7arcegfiqpc",
+          "title": "GEN_IMPUESTOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "namkj8h6i4ok44dqop8mc30",
+          "title": "GEN_IMPUESTOS_REGLAS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5i3e8nd4zia1begoi8oteur",
+          "title": "GEN_INVENTARIO_AJUSTES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6g61z7c26e3jv3nbsmamlfe",
+          "title": "GEN_INVENTARIO_HISTORIAL_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "19xadck7f110chd5i592ax0",
+          "title": "GEN_INVENTARIO_RECIBOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "48jve1ksqvn34hjtok1chk3",
+          "title": "GEN_LISTA_DE_COMPRA_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1bl4acf4382lnprxp0pvtzs",
+          "title": "GEN_MEDIDAS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3rs7rcjjee6xa8znnkqxmep",
+          "title": "GEN_MOVIMIENTOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7miytip9zfs8fix008elmv0",
+          "title": "GEN_OPERACIONES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "61d8uv857k33e4raigs34n0",
+          "title": "GEN_ORDENES_DE_COMPRA_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3ky0wpqhr3ihptovfafftis",
+          "title": "GEN_PAGOS_MIXTOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "38w2ghj1nx4ynqswtc2b3nz",
+          "title": "GEN_PRODUCTOS_CFDI_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5sfdrgsdeseh1jxoiadfbu4",
+          "title": "GEN_PRODUCTOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4lycked9qxda96h8aihpitc",
+          "title": "GEN_PROMOCIONES_POR_CANTIDAD_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "813u0mb7t7m42lwlai0d9dy",
+          "title": "GEN_PROVEEDORES_BASE_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3emtrj745fzekef1iuivrrd",
+          "title": "GEN_PROVEEDORES_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2j8qhjic5jtwsfg4ds12iw8",
+          "title": "GEN_SERVICIOS_CONSECUTIVO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3hxfxwav2kfy0ybzxat7zh2",
+          "title": "GEN_SERVICIOS_REFERENCIA_ABONOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "64g2ji0g6ql37kvsi0mbzew",
+          "title": "GEN_SINCRONIZACION_NUBE_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1camjd0pfrgg7ksnccdi56g",
+          "title": "GEN_TICKET_ARTICULOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6kjyj1mrzg33ssq844yd2ym",
+          "title": "GEN_TICKETS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "58jpdobuw78cfyx9tqhei9o",
+          "title": "GEN_TRANSACCIONES_PROSEPAGO_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4l827e3403kp6dxj83s3n4d",
+          "title": "GEN_TURNOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "167tph5lx3rv0q0kcsfqixn",
+          "title": "GEN_USUARIOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7xmdkmeo95tjq4mj86apedk",
+          "title": "GEN_VENTA_DE_RECARGAS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6oas8sbijjmhdk6jaooor4q",
+          "title": "GEN_VENTA_RECARGA_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6qy8y07vgxos5ps6fpxzfhj",
+          "title": "GEN_VENTA_SERVICIO_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2fs24a1d37hjqif686o6lld",
+          "title": "GEN_VENTATICKETS_ARTICULOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6agcndlx8sk0sb876j6c2mn",
+          "title": "GEN_VENTATICKETS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "x8a8d6x4tnxqshee00z983l",
+          "title": "GEN_VENTATICKETS_IMPUESTOS_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "55bbxyl7naef25n2h9m8pnm",
+          "title": "INVENTARIO_AJUSTE_FOLIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3f5aucgvqu3yjkntofqhe69",
+          "title": "INVENTARIOS_RECEPCION_FOLIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ye7rda1fcozo3n8wddalrvg",
+      "title": "Index",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "eleventa",
+      "children": [
+        {
+          "key": "yle4kahq90tqlee6mzf7two",
+          "title": "ABONOS_ID_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4j2wkxwrgs506ihdqn7jw03",
+          "title": "ARTICULO_COMP_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7o0lj3kmw17ibeu4nxyvlsk",
+          "title": "CLIENTES_IDX_FOLIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "s10k1wmtxolc2hb9dcqfxzd",
+          "title": "CLIENTESV2_FACTURACION_ID_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4rjxv6o7it60d2mxls160l5",
+          "title": "COMPONENTES_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3r107io9kjg126hee8ijj4l",
+          "title": "DEPS_UPPER_NOM_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2w1hhbp1mfhavfhdhhnyrzq",
+          "title": "FACTURACION_CLIENTES_ID_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2k18e2ff06ufx33k0thqbgf",
+          "title": "FACTURAS_ID_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "vdy62n50hg5l15sxtrqcu3z",
+          "title": "IDX_CREDITOS_ABONOS_OLD_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1cpvt7l6zmuetj5yvt3gsgm",
+          "title": "IDX_INV_HIST_PROD",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "ufckjb8s1jm1800by8wb7mc",
+          "title": "IDX_VT_CAJA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "25n8lbv439z47w18840r6or",
+          "title": "IDX_VT_CAJERO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "73ujesqcst0j6y1z3pzor65",
+          "title": "IDX_VT_FECHA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3enhz67qr1zz6cini8h8p5r",
+          "title": "IX_AV_TICKET_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "91csbna2u9lu059oiq241aq",
+          "title": "IX_BUSQUEDA_DESCRIPCION",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2sl9njmwx6eix2l9688nyhv",
+          "title": "IX_CA_FECHA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2k57mhyj0i24z5gy0oh071w",
+          "title": "IX_CAA_ARTICULO_ABONO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "573c1it924gm6jsbea34mhi",
+          "title": "IX_CAI_ABONO_IMPUESTO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "575dlx04yp8bk66kffmksj7",
+          "title": "IX_CAI_ART_IMPUESTO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "86tap4ptgac2ftwhwukodmk",
+          "title": "IX_CAP_ABONO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2cctvcc7rs5siqdovdwkshg",
+          "title": "IX_CAV_VENTA_ABONO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4owi79oiqex7ziujxrx88qi",
+          "title": "IX_CT_CAJERO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1m2l3znkcpa722cnd26568o",
+          "title": "IX_CT_CLIENTE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4iobbviwalr53gbfqvefog1",
+          "title": "IX_CT_REPORTE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6ekkhi26w6um2qmqv3c17aa",
+          "title": "IX_FOLIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4thyl6x8jyl4l651xeo4y03",
+          "title": "IX_VT_ACTIVO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4dzax5sjcmjd09xdqx6x3tm",
+          "title": "IX_VT_FACTURA_ID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "mx29ka6gcl37r30bsue6sq9",
+          "title": "IX_VT_IMPUESTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6dspyqqaeo964055oq2puh6",
+          "title": "IX_VT_MIG20",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5153hhd87qpsfrr19abel5l",
+          "title": "IX_VTA_FUE_DEVUELTO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6t5q4vkf5n90fe81lmoilb5",
+          "title": "MOVIMIENTOS_ID_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "53h7mpxn113lqjmqy2c14t9",
+          "title": "MOVIMIENTOS_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2hkwq7rap1z1wej3x3uji4k",
+          "title": "PAGOS_MIXTOS_ID_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1duef0yur6zyplws9lyzs9y",
+          "title": "PK_USUARIO_UNICO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "kqgvh5hifue9mu7g4s23ra2",
+          "title": "PRODS_UPPER_COD_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "70qsy1tf6yyojv97me0drda",
+          "title": "PRODUCTOS_CFDI_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "47hxmw9hzm0v0lb4hreaqdj",
+          "title": "PRODUCTOS_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "38o8x7dphlsa2f9blzbuxbm",
+          "title": "PROMOS_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "yepqr5m5v754q5zp01ssqtn",
+          "title": "SINCRONIZACION_NUBE_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1ddv0k5awuvylvl6hwwacbk",
+          "title": "SINCRONIZACION_VENTAS_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1doymhja0aqkc4r5iflkl6u",
+          "title": "VENTATICKETS_ARTICULOS_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2w3tr5aio74f7i33n95xseo",
+          "title": "VENTATICKETS_ARTICULOS_IDX2",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "226tt566vhjte9v5tvw9dmh",
+          "title": "VENTATICKETS_ARTICULOS_IDX3",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1hfrwg8nkccuww0cap17ivs",
+          "title": "VENTATICKETS_ARTICULOS_IDX5",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7nqgic6gkn030ziyqusitp1",
+          "title": "VENTATICKETS_CLIENTESV2_ID_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1vth83ryf4myfi4aeiaxwo7",
+          "title": "VENTATICKETS_IDV2_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "11826a2p4s8om0cy3hlsowl",
+          "title": "VENTATICKETS_IDX1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "rkdilavjhnouvq15dyzaz5y",
+          "title": "VENTATICKETS_IDX2",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6zjzt4zoe5u9baf3o5lone5",
+          "title": "VENTATICKETS_IDX3",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6okmpjl7v3of9psiqqzrlvv",
+          "title": "VENTATICKETS_IDX4",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "19zg77xti2ckhzthubuhcb4",
+          "title": "VENTATICKETS_IDX5",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "34oio8plitcsowa5xk5dwfr",
+          "title": "VENTATICKETS_IDX6",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4nk6n0iks48e2gg3k400gy2",
+          "title": "VENTATICKETS_PAGADO_EN_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "48r4aqdinbbjas3iqr56epv",
+          "title": "VENTATICKETS_TURNO_ID_IDX",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "vw6cwhxkalnye4ujxthzm8c",
+      "title": "Procedure",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "eleventa",
+      "children": [
+        {
+          "key": "3kp7ohra9xepc9a167c8ote",
+          "title": "OBTEDOCUENTA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "scfbibm6ikvk5ydyk3uc7ap",
+      "title": "Relaciones",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "eleventa",
+      "children": []
+    },
+    {
+      "key": "v6m7i6nuc0dshp24a1k2qa8",
+      "title": "Table",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "eleventa",
+      "children": [
+        {
+          "key": "2eulvampti9jyjtc7ponrll",
+          "title": "ABONO_TICKETS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "356lga2xh27ykh7lkdc1lf0",
+          "title": "ABONOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6ixbx4qb1c7yyc6jsmanfmb",
+          "title": "ABONOS_ARTICULOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "54ejaupnxona23sxf0x1gqj",
+          "title": "ABONOS_VENTAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4cezz8pd1d7kmk2mmjk8vfp",
+          "title": "ALMACENES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "46kj6z1ztcabzevwzvyc2fp",
+          "title": "ARTICULO_COMPONENTES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "712jly23978bvsr2myhrnht",
+          "title": "ARTICULOS_DE_OC",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "68rxjy69u0ihzlbcaaq02su",
+          "title": "CACHE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2i5kfqs0atm63d011xi70bj",
+          "title": "CAJAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3kdfysl1al16jclti2qm4el",
+          "title": "CLIENTES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4qmqkmsvo6skrdik76tjdeq",
+          "title": "CLIENTESV2",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3jfe0cckjlq6z2nmy3rh9go",
+          "title": "CLIENTESV2_CREDITO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5ueddcsklwvwm1zzqz1q6b8",
+          "title": "CLIENTESV2_FACTURACION",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "81y5xf4gwtvlzeu5pia1jiw",
+          "title": "CLIENTESV2_TAGS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6a3z3opjfhhtfvmj82l1u6n",
+          "title": "COMISIONES_TARJETA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1l33qcxxpjg4hjzw3a78z1d",
+          "title": "CONCILIACION_PAGO_SERVICIOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5w1iby76n8l6w4d570uz2jm",
+          "title": "CONFIGURACION",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "71bki9lf972sfut7bo2ee40",
+          "title": "CORTE_IMP_COBRADOS_OPERACION",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5x1bfp3w75tn58y67bbd2m6",
+          "title": "CORTE_IMPUESTOS_COBRADOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6e8keuy5njrmywuzbxoawn2",
+          "title": "CORTE_MOVIMIENTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2em5i44h6lqjb07n1sd9dn8",
+          "title": "CORTE_OPERACIONES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6bqm8jynmuciqipkedyqdvu",
+          "title": "CORTE_VENTAS_DEPTO_OPERACIONES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4p2i18v2wsfwc19awpvz3dp",
+          "title": "CORTE_VENTAS_POR_DEPTO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7ding6igyrd0xbfuzu1ubai",
+          "title": "CREDITOS_ABONOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1whakdfiomduduxohap9wr8",
+          "title": "CREDITOS_ABONOS_ARTICULOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3l3wr42q3d35id31htdev7g",
+          "title": "CREDITOS_ABONOS_IMPUESTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7ut4apf2ru1be8uoovlux49",
+          "title": "CREDITOS_ABONOS_PAGOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5jispjvpdb5vfk7rsmut38y",
+          "title": "CREDITOS_ABONOS_VENTAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1zauwh9uytfwtynz9jaju2e",
+          "title": "CREDITOS_ARTICULOS_IMPUESTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2ngi61xzg0su093llz1iggd",
+          "title": "CREDITOS_TRANSACCIONES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7ru4m432bxztcaqhsve9vgb",
+          "title": "DEPARTAMENTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "80ntfl8nudsww5g3ji65jcu",
+          "title": "DEVOLUCIONES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7mob4r3awsmf098ioz4kmpa",
+          "title": "DEVOLUCIONES_ARTICULOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "126ij0pf6wxl4cw5xkhnkn2",
+          "title": "FACTURACION_CERTIFICADOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "h5ppadk75cfp0u74rbyar7r",
+          "title": "FACTURACION_CLIENTES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "475oc6ignn65c8v6eaxc6bn",
+          "title": "FACTURACION_EMISORES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6ochrof1ew6uwkbrqo9kkan",
+          "title": "FACTURACION_FOLIOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2022cvortmuhbos5uqyjylk",
+          "title": "FACTURAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5uq63gu5377cee49562w9xt",
+          "title": "FACTURAS_ABONOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "22m5qifn1wffhmme97wuri1",
+          "title": "HISTORIAL_INVENTARIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3lv3pfty6zv6x9pgahwtvx9",
+          "title": "IMPUESTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "848xocw2rp84j3hcchc5eoh",
+          "title": "IMPUESTOS_REGLAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "84illq5g8zl7t4xd0ccb8ic",
+          "title": "INVENTARIO_AJUSTES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5yy2hnv2bqzbc76ejiaczn6",
+          "title": "INVENTARIO_APARTADO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "y47k617law2wd2dmpjgwjvv",
+          "title": "INVENTARIO_BALANCES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "66ammrmtr7bdvwf56cg9p3j",
+          "title": "INVENTARIO_HISTORIAL",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7zme7y6jmk9ejsy4zkkig4n",
+          "title": "INVENTARIO_RECIBOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "7z8dqbwtosk5phyjzyrkrgm",
+          "title": "INVENTARIO_RECIBOS_DETALLE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "55xg2f1d4b1c3zdb0mgn775",
+          "title": "LISTA_DE_COMPRA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "85x7k2mwuz0k60co1zw5pgn",
+          "title": "MEDIDAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6wglllh20s1wlb9ncitrs29",
+          "title": "MOVIMIENTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "36eqenuroktcf2zm83rwzp4",
+          "title": "OPERACIONES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5gs2vv1al3pl2gge9pae96s",
+          "title": "ORDENES_DE_COMPRA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "33vhq1gw6m9pl26rai4ll3u",
+          "title": "PAGOS_MIXTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2m49hocha1pfinbkwwg2edx",
+          "title": "PRODUCTO_COMPONENTES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3ev3fm2s9379v2dlcmk8vad",
+          "title": "PRODUCTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1j9y6ae8kb2u8c38rynalfh",
+          "title": "PRODUCTOS_BASE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4qvct1jyxxpstunma1l8vho",
+          "title": "PRODUCTOS_CFDI",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3vn3c6gwll434qnlwbu2krb",
+          "title": "PRODUCTOS_UDF_RECARGAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "98wg36kyn8d71givzu9k6s1",
+          "title": "PRODUCTOS_UDF_SERVICIOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4ratfrxzijt88lqxr1t8y8m",
+          "title": "PROMOCIONES_POR_CANTIDAD",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "5dh6mf3x9g7a5w2qi7p6vcx",
+          "title": "PROVEEDORES",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "2nteueyfibrpju7dcqod8d5",
+          "title": "PROVEEDORES_BASE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "10z8q1l5q1n7g7hyhd8s2yw",
+          "title": "REPORTE_ABONO_SERVICIOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "8005k2wur3kjw0gh3nkv52z",
+          "title": "SCHEMA_DATA_INFO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3pwkfh0d9ex8wclf9ctavsh",
+          "title": "SCHEMA_INFO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1ql5lwzubjfatqw1ppvgc82",
+          "title": "SINCRONIZACION_NUBE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4xxcpwvkoh5ybnsb7kp4eqf",
+          "title": "SINCRONIZACION_VENTAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6lpzrtzolrv5ome6rz0b6yb",
+          "title": "TRANSACCIONES_PROSEPAGO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6xdru5jgzzx48gv8y5qe0g8",
+          "title": "TURNOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "66oo13k3760966obqcuyc71",
+          "title": "USUARIOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "3bx137hmhee8gofsuutroll",
+          "title": "VENTA_DE_RECARGAS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "6w4aunuoheysqki1ycww74d",
+          "title": "VENTA_RECARGA",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1eu1dps8qry1zwahex80zmy",
+          "title": "VENTA_SERVICIO",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "33j1z2cdx4kzx6t4e8bimto",
+          "title": "VENTATICKETS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "4jfsp20f7ubx5zsux5kzkka",
+          "title": "VENTATICKETS_ARTICULOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        },
+        {
+          "key": "1cnkvai65igt6ov0hhi5ldg",
+          "title": "VENTATICKETS_IMPUESTOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "tpqk96jjk5t88vjzva11jpf",
+      "title": "Trigger",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "eleventa",
+      "children": [
+        {
+          "key": "2h35qykrsekrn9lumb7bhpk",
+          "title": "ABONOS_BI",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "eleventa",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "m3i0likj6j3m0fxhecq2slb": null,
+    "pe9rethbbqp3b0opbaxszl1": "m3i0likj6j3m0fxhecq2slb",
+    "1lxvi3j75ramxecmuvy05wv": "m3i0likj6j3m0fxhecq2slb",
+    "2nacgyiv91ysvmijvm03wz2": "m3i0likj6j3m0fxhecq2slb",
+    "3es95pj59kaar762fpajh45": "m3i0likj6j3m0fxhecq2slb",
+    "aop8p5bhg125xxya6x8a7uz": "m3i0likj6j3m0fxhecq2slb",
+    "88ul5l5yl5e9df980xzu1qz": "m3i0likj6j3m0fxhecq2slb",
+    "7if6usmelukr6g79tl6p066": "m3i0likj6j3m0fxhecq2slb",
+    "49zlotrdrv4bzai23dey2me": "m3i0likj6j3m0fxhecq2slb",
+    "456bzft8x2tnrge8n3r5wfm": "m3i0likj6j3m0fxhecq2slb",
+    "65sq48gzh49elk0b330nb07": "m3i0likj6j3m0fxhecq2slb",
+    "54b56bb2qwnvw7luq0qpgcj": "m3i0likj6j3m0fxhecq2slb",
+    "3d3jb1shazr84577s33ln6a": "m3i0likj6j3m0fxhecq2slb",
+    "3aihj0jad3e6h4owv3bk1eb": "m3i0likj6j3m0fxhecq2slb",
+    "80zq0st6ewivl51rz1x0f8v": "m3i0likj6j3m0fxhecq2slb",
+    "hty9dnptg9s1gq3uq7pp6qj": "m3i0likj6j3m0fxhecq2slb",
+    "iezwv2qocicowbgvgssm7mm": "m3i0likj6j3m0fxhecq2slb",
+    "17h03tc5wncdrcm2jruirsv": "m3i0likj6j3m0fxhecq2slb",
+    "3sjqszulee8gnvkbqkmobqr": "m3i0likj6j3m0fxhecq2slb",
+    "l0j264wb58jaid0yt3izc90": "m3i0likj6j3m0fxhecq2slb",
+    "6zvkqzg7oknsi6ihhhgnmn3": "m3i0likj6j3m0fxhecq2slb",
+    "zaeprrcd8wijs2zrcn7s38q": "m3i0likj6j3m0fxhecq2slb",
+    "22za7sasjj4c2tn893tbnh6": "m3i0likj6j3m0fxhecq2slb",
+    "1frbcjh084f7oe6jvsw69nm": "m3i0likj6j3m0fxhecq2slb",
+    "81qw3t5g5amu2mplahyj16x": "m3i0likj6j3m0fxhecq2slb",
+    "610sy6mxugf19dy22f19u9r": "m3i0likj6j3m0fxhecq2slb",
+    "1wmwv6ydq783069yr0jhfc3": "m3i0likj6j3m0fxhecq2slb",
+    "2pwm2whcvgsnb30gv25ngca": "m3i0likj6j3m0fxhecq2slb",
+    "3873pufvtt7tzlhwkctlkev": "m3i0likj6j3m0fxhecq2slb",
+    "7kgkx2agyrqpxbyqj1ug0z9": "m3i0likj6j3m0fxhecq2slb",
+    "5lou899mlwqsh3itnxlaw0p": "m3i0likj6j3m0fxhecq2slb",
+    "24mdpmbzpd277tvnunq7q49": "m3i0likj6j3m0fxhecq2slb",
+    "5jbdobs7bh1dswg422flj4t": "m3i0likj6j3m0fxhecq2slb",
+    "7enj8b7rums22r4lmog6z7m": "m3i0likj6j3m0fxhecq2slb",
+    "53smt8e8f69sw737e2mw4i0": "m3i0likj6j3m0fxhecq2slb",
+    "3t31qqcgk40l7j0ufu0jiz5": "m3i0likj6j3m0fxhecq2slb",
+    "kucghqomrx1jibk16mqbq72": "m3i0likj6j3m0fxhecq2slb",
+    "7d4jq3ruq13g6uy8o48zwhe": "m3i0likj6j3m0fxhecq2slb",
+    "6lxvqychejwgs901k44pjg6": "m3i0likj6j3m0fxhecq2slb",
+    "2du312iiiey07p5ha1j11ef": "m3i0likj6j3m0fxhecq2slb",
+    "3vphdyjlt5t0cn23qxklq6l": "m3i0likj6j3m0fxhecq2slb",
+    "6p3do0toasncq8f9mmsb5gy": "m3i0likj6j3m0fxhecq2slb",
+    "y057sqpf8s9zpfsp8yxex1y": "m3i0likj6j3m0fxhecq2slb",
+    "14eg1opiym7nkzssy5vlsqc": "m3i0likj6j3m0fxhecq2slb",
+    "66xl4rdh9qntk27sbwmvp7i": "m3i0likj6j3m0fxhecq2slb",
+    "7907pvzbjg2242zi51fjbdh": "m3i0likj6j3m0fxhecq2slb",
+    "72ihqzbm5trjuy6lu13l771": null,
+    "w0wejd6unt7ustjc2b2tnzq": null,
+    "6uercvutx9q3mamftv4htvw": "w0wejd6unt7ustjc2b2tnzq",
+    "2zv6an24kpzq6eiej9frli8": "w0wejd6unt7ustjc2b2tnzq",
+    "3uanp5gews3llrohwzwe7ou": "w0wejd6unt7ustjc2b2tnzq",
+    "61f9nx5lk1bkvrdaxoym4oe": "w0wejd6unt7ustjc2b2tnzq",
+    "5lsx3azy39ba7ztoyf38qkm": "w0wejd6unt7ustjc2b2tnzq",
+    "3vpowd72ci45xmixhg7f33c": "w0wejd6unt7ustjc2b2tnzq",
+    "3mic9eofq8a6qtutv6mokwf": "w0wejd6unt7ustjc2b2tnzq",
+    "783in5jzj6qhhfktxgea20f": "w0wejd6unt7ustjc2b2tnzq",
+    "3sortw72ofild0e7bi5d59v": "w0wejd6unt7ustjc2b2tnzq",
+    "7o8pgkosotex0ri1pcoh4g4": "w0wejd6unt7ustjc2b2tnzq",
+    "7ikb4xtpipax3yynuzdevbx": "w0wejd6unt7ustjc2b2tnzq",
+    "3h412qclqcghz05rluukvli": "w0wejd6unt7ustjc2b2tnzq",
+    "ff4gy2cbear2mj6gl7k61lv": "w0wejd6unt7ustjc2b2tnzq",
+    "73jsvencgfxkartodajznfd": "w0wejd6unt7ustjc2b2tnzq",
+    "2rzx0gqd3a7tq5qohhse80d": "w0wejd6unt7ustjc2b2tnzq",
+    "4zruft36a83ssnvjw21bkaq": "w0wejd6unt7ustjc2b2tnzq",
+    "4shktjfirgwdgzrrbgsds1s": "w0wejd6unt7ustjc2b2tnzq",
+    "1noiclj0ft6jh4hoczs25oy": "w0wejd6unt7ustjc2b2tnzq",
+    "7n7ao13gicnfyl0gek7vtea": "w0wejd6unt7ustjc2b2tnzq",
+    "7iikjmy7a1ns5gf2hbf2ihn": "w0wejd6unt7ustjc2b2tnzq",
+    "5ggh8qc17o8menem4r1dqcv": "w0wejd6unt7ustjc2b2tnzq",
+    "5ig7nai36mucebtwk7147g5": "w0wejd6unt7ustjc2b2tnzq",
+    "201zn78ccrwam16osn52287": "w0wejd6unt7ustjc2b2tnzq",
+    "3gwxaadvcnefk834g762bno": "w0wejd6unt7ustjc2b2tnzq",
+    "2apsc89ba16vshp6iyrpegi": "w0wejd6unt7ustjc2b2tnzq",
+    "5x2qumgphzihtgtph6as1w6": "w0wejd6unt7ustjc2b2tnzq",
+    "7h2khnz2rvf7pypp0ajnroa": "w0wejd6unt7ustjc2b2tnzq",
+    "3c9qs9u1aeffskc0nlppa3f": "w0wejd6unt7ustjc2b2tnzq",
+    "3995pvdjmi9nc87ezt1xs0a": "w0wejd6unt7ustjc2b2tnzq",
+    "74vsw6l412tyyl03x07rnbo": "w0wejd6unt7ustjc2b2tnzq",
+    "5riakapmhbpu7exzgt5z01r": "w0wejd6unt7ustjc2b2tnzq",
+    "6momvi7d6hwm9pdyzi0na1a": "w0wejd6unt7ustjc2b2tnzq",
+    "6od78xkj3e518tftpegxl4f": "w0wejd6unt7ustjc2b2tnzq",
+    "5l7o87l3u9cvon6g1vj8gxd": "w0wejd6unt7ustjc2b2tnzq",
+    "5mj7wox77a0udahcf1bbbqw": "w0wejd6unt7ustjc2b2tnzq",
+    "4vnvrd85uzy1khd6f2gmc2r": "w0wejd6unt7ustjc2b2tnzq",
+    "2odv5l39zb9m2j1esas7d3l": "w0wejd6unt7ustjc2b2tnzq",
+    "3kzvrj73fugdt5cegmigls7": "w0wejd6unt7ustjc2b2tnzq",
+    "fdftnfkd5ezo7arcegfiqpc": "w0wejd6unt7ustjc2b2tnzq",
+    "namkj8h6i4ok44dqop8mc30": "w0wejd6unt7ustjc2b2tnzq",
+    "5i3e8nd4zia1begoi8oteur": "w0wejd6unt7ustjc2b2tnzq",
+    "6g61z7c26e3jv3nbsmamlfe": "w0wejd6unt7ustjc2b2tnzq",
+    "19xadck7f110chd5i592ax0": "w0wejd6unt7ustjc2b2tnzq",
+    "48jve1ksqvn34hjtok1chk3": "w0wejd6unt7ustjc2b2tnzq",
+    "1bl4acf4382lnprxp0pvtzs": "w0wejd6unt7ustjc2b2tnzq",
+    "3rs7rcjjee6xa8znnkqxmep": "w0wejd6unt7ustjc2b2tnzq",
+    "7miytip9zfs8fix008elmv0": "w0wejd6unt7ustjc2b2tnzq",
+    "61d8uv857k33e4raigs34n0": "w0wejd6unt7ustjc2b2tnzq",
+    "3ky0wpqhr3ihptovfafftis": "w0wejd6unt7ustjc2b2tnzq",
+    "38w2ghj1nx4ynqswtc2b3nz": "w0wejd6unt7ustjc2b2tnzq",
+    "5sfdrgsdeseh1jxoiadfbu4": "w0wejd6unt7ustjc2b2tnzq",
+    "4lycked9qxda96h8aihpitc": "w0wejd6unt7ustjc2b2tnzq",
+    "813u0mb7t7m42lwlai0d9dy": "w0wejd6unt7ustjc2b2tnzq",
+    "3emtrj745fzekef1iuivrrd": "w0wejd6unt7ustjc2b2tnzq",
+    "2j8qhjic5jtwsfg4ds12iw8": "w0wejd6unt7ustjc2b2tnzq",
+    "3hxfxwav2kfy0ybzxat7zh2": "w0wejd6unt7ustjc2b2tnzq",
+    "64g2ji0g6ql37kvsi0mbzew": "w0wejd6unt7ustjc2b2tnzq",
+    "1camjd0pfrgg7ksnccdi56g": "w0wejd6unt7ustjc2b2tnzq",
+    "6kjyj1mrzg33ssq844yd2ym": "w0wejd6unt7ustjc2b2tnzq",
+    "58jpdobuw78cfyx9tqhei9o": "w0wejd6unt7ustjc2b2tnzq",
+    "4l827e3403kp6dxj83s3n4d": "w0wejd6unt7ustjc2b2tnzq",
+    "167tph5lx3rv0q0kcsfqixn": "w0wejd6unt7ustjc2b2tnzq",
+    "7xmdkmeo95tjq4mj86apedk": "w0wejd6unt7ustjc2b2tnzq",
+    "6oas8sbijjmhdk6jaooor4q": "w0wejd6unt7ustjc2b2tnzq",
+    "6qy8y07vgxos5ps6fpxzfhj": "w0wejd6unt7ustjc2b2tnzq",
+    "2fs24a1d37hjqif686o6lld": "w0wejd6unt7ustjc2b2tnzq",
+    "6agcndlx8sk0sb876j6c2mn": "w0wejd6unt7ustjc2b2tnzq",
+    "x8a8d6x4tnxqshee00z983l": "w0wejd6unt7ustjc2b2tnzq",
+    "55bbxyl7naef25n2h9m8pnm": "w0wejd6unt7ustjc2b2tnzq",
+    "3f5aucgvqu3yjkntofqhe69": "w0wejd6unt7ustjc2b2tnzq",
+    "ye7rda1fcozo3n8wddalrvg": null,
+    "yle4kahq90tqlee6mzf7two": "ye7rda1fcozo3n8wddalrvg",
+    "4j2wkxwrgs506ihdqn7jw03": "ye7rda1fcozo3n8wddalrvg",
+    "7o0lj3kmw17ibeu4nxyvlsk": "ye7rda1fcozo3n8wddalrvg",
+    "s10k1wmtxolc2hb9dcqfxzd": "ye7rda1fcozo3n8wddalrvg",
+    "4rjxv6o7it60d2mxls160l5": "ye7rda1fcozo3n8wddalrvg",
+    "3r107io9kjg126hee8ijj4l": "ye7rda1fcozo3n8wddalrvg",
+    "2w1hhbp1mfhavfhdhhnyrzq": "ye7rda1fcozo3n8wddalrvg",
+    "2k18e2ff06ufx33k0thqbgf": "ye7rda1fcozo3n8wddalrvg",
+    "vdy62n50hg5l15sxtrqcu3z": "ye7rda1fcozo3n8wddalrvg",
+    "1cpvt7l6zmuetj5yvt3gsgm": "ye7rda1fcozo3n8wddalrvg",
+    "ufckjb8s1jm1800by8wb7mc": "ye7rda1fcozo3n8wddalrvg",
+    "25n8lbv439z47w18840r6or": "ye7rda1fcozo3n8wddalrvg",
+    "73ujesqcst0j6y1z3pzor65": "ye7rda1fcozo3n8wddalrvg",
+    "3enhz67qr1zz6cini8h8p5r": "ye7rda1fcozo3n8wddalrvg",
+    "91csbna2u9lu059oiq241aq": "ye7rda1fcozo3n8wddalrvg",
+    "2sl9njmwx6eix2l9688nyhv": "ye7rda1fcozo3n8wddalrvg",
+    "2k57mhyj0i24z5gy0oh071w": "ye7rda1fcozo3n8wddalrvg",
+    "573c1it924gm6jsbea34mhi": "ye7rda1fcozo3n8wddalrvg",
+    "575dlx04yp8bk66kffmksj7": "ye7rda1fcozo3n8wddalrvg",
+    "86tap4ptgac2ftwhwukodmk": "ye7rda1fcozo3n8wddalrvg",
+    "2cctvcc7rs5siqdovdwkshg": "ye7rda1fcozo3n8wddalrvg",
+    "4owi79oiqex7ziujxrx88qi": "ye7rda1fcozo3n8wddalrvg",
+    "1m2l3znkcpa722cnd26568o": "ye7rda1fcozo3n8wddalrvg",
+    "4iobbviwalr53gbfqvefog1": "ye7rda1fcozo3n8wddalrvg",
+    "6ekkhi26w6um2qmqv3c17aa": "ye7rda1fcozo3n8wddalrvg",
+    "4thyl6x8jyl4l651xeo4y03": "ye7rda1fcozo3n8wddalrvg",
+    "4dzax5sjcmjd09xdqx6x3tm": "ye7rda1fcozo3n8wddalrvg",
+    "mx29ka6gcl37r30bsue6sq9": "ye7rda1fcozo3n8wddalrvg",
+    "6dspyqqaeo964055oq2puh6": "ye7rda1fcozo3n8wddalrvg",
+    "5153hhd87qpsfrr19abel5l": "ye7rda1fcozo3n8wddalrvg",
+    "6t5q4vkf5n90fe81lmoilb5": "ye7rda1fcozo3n8wddalrvg",
+    "53h7mpxn113lqjmqy2c14t9": "ye7rda1fcozo3n8wddalrvg",
+    "2hkwq7rap1z1wej3x3uji4k": "ye7rda1fcozo3n8wddalrvg",
+    "1duef0yur6zyplws9lyzs9y": "ye7rda1fcozo3n8wddalrvg",
+    "kqgvh5hifue9mu7g4s23ra2": "ye7rda1fcozo3n8wddalrvg",
+    "70qsy1tf6yyojv97me0drda": "ye7rda1fcozo3n8wddalrvg",
+    "47hxmw9hzm0v0lb4hreaqdj": "ye7rda1fcozo3n8wddalrvg",
+    "38o8x7dphlsa2f9blzbuxbm": "ye7rda1fcozo3n8wddalrvg",
+    "yepqr5m5v754q5zp01ssqtn": "ye7rda1fcozo3n8wddalrvg",
+    "1ddv0k5awuvylvl6hwwacbk": "ye7rda1fcozo3n8wddalrvg",
+    "1doymhja0aqkc4r5iflkl6u": "ye7rda1fcozo3n8wddalrvg",
+    "2w3tr5aio74f7i33n95xseo": "ye7rda1fcozo3n8wddalrvg",
+    "226tt566vhjte9v5tvw9dmh": "ye7rda1fcozo3n8wddalrvg",
+    "1hfrwg8nkccuww0cap17ivs": "ye7rda1fcozo3n8wddalrvg",
+    "7nqgic6gkn030ziyqusitp1": "ye7rda1fcozo3n8wddalrvg",
+    "1vth83ryf4myfi4aeiaxwo7": "ye7rda1fcozo3n8wddalrvg",
+    "11826a2p4s8om0cy3hlsowl": "ye7rda1fcozo3n8wddalrvg",
+    "rkdilavjhnouvq15dyzaz5y": "ye7rda1fcozo3n8wddalrvg",
+    "6zjzt4zoe5u9baf3o5lone5": "ye7rda1fcozo3n8wddalrvg",
+    "6okmpjl7v3of9psiqqzrlvv": "ye7rda1fcozo3n8wddalrvg",
+    "19zg77xti2ckhzthubuhcb4": "ye7rda1fcozo3n8wddalrvg",
+    "34oio8plitcsowa5xk5dwfr": "ye7rda1fcozo3n8wddalrvg",
+    "4nk6n0iks48e2gg3k400gy2": "ye7rda1fcozo3n8wddalrvg",
+    "48r4aqdinbbjas3iqr56epv": "ye7rda1fcozo3n8wddalrvg",
+    "vw6cwhxkalnye4ujxthzm8c": null,
+    "3kp7ohra9xepc9a167c8ote": "vw6cwhxkalnye4ujxthzm8c",
+    "scfbibm6ikvk5ydyk3uc7ap": null,
+    "v6m7i6nuc0dshp24a1k2qa8": null,
+    "2eulvampti9jyjtc7ponrll": "v6m7i6nuc0dshp24a1k2qa8",
+    "356lga2xh27ykh7lkdc1lf0": "v6m7i6nuc0dshp24a1k2qa8",
+    "6ixbx4qb1c7yyc6jsmanfmb": "v6m7i6nuc0dshp24a1k2qa8",
+    "54ejaupnxona23sxf0x1gqj": "v6m7i6nuc0dshp24a1k2qa8",
+    "4cezz8pd1d7kmk2mmjk8vfp": "v6m7i6nuc0dshp24a1k2qa8",
+    "46kj6z1ztcabzevwzvyc2fp": "v6m7i6nuc0dshp24a1k2qa8",
+    "712jly23978bvsr2myhrnht": "v6m7i6nuc0dshp24a1k2qa8",
+    "68rxjy69u0ihzlbcaaq02su": "v6m7i6nuc0dshp24a1k2qa8",
+    "2i5kfqs0atm63d011xi70bj": "v6m7i6nuc0dshp24a1k2qa8",
+    "3kdfysl1al16jclti2qm4el": "v6m7i6nuc0dshp24a1k2qa8",
+    "4qmqkmsvo6skrdik76tjdeq": "v6m7i6nuc0dshp24a1k2qa8",
+    "3jfe0cckjlq6z2nmy3rh9go": "v6m7i6nuc0dshp24a1k2qa8",
+    "5ueddcsklwvwm1zzqz1q6b8": "v6m7i6nuc0dshp24a1k2qa8",
+    "81y5xf4gwtvlzeu5pia1jiw": "v6m7i6nuc0dshp24a1k2qa8",
+    "6a3z3opjfhhtfvmj82l1u6n": "v6m7i6nuc0dshp24a1k2qa8",
+    "1l33qcxxpjg4hjzw3a78z1d": "v6m7i6nuc0dshp24a1k2qa8",
+    "5w1iby76n8l6w4d570uz2jm": "v6m7i6nuc0dshp24a1k2qa8",
+    "71bki9lf972sfut7bo2ee40": "v6m7i6nuc0dshp24a1k2qa8",
+    "5x1bfp3w75tn58y67bbd2m6": "v6m7i6nuc0dshp24a1k2qa8",
+    "6e8keuy5njrmywuzbxoawn2": "v6m7i6nuc0dshp24a1k2qa8",
+    "2em5i44h6lqjb07n1sd9dn8": "v6m7i6nuc0dshp24a1k2qa8",
+    "6bqm8jynmuciqipkedyqdvu": "v6m7i6nuc0dshp24a1k2qa8",
+    "4p2i18v2wsfwc19awpvz3dp": "v6m7i6nuc0dshp24a1k2qa8",
+    "7ding6igyrd0xbfuzu1ubai": "v6m7i6nuc0dshp24a1k2qa8",
+    "1whakdfiomduduxohap9wr8": "v6m7i6nuc0dshp24a1k2qa8",
+    "3l3wr42q3d35id31htdev7g": "v6m7i6nuc0dshp24a1k2qa8",
+    "7ut4apf2ru1be8uoovlux49": "v6m7i6nuc0dshp24a1k2qa8",
+    "5jispjvpdb5vfk7rsmut38y": "v6m7i6nuc0dshp24a1k2qa8",
+    "1zauwh9uytfwtynz9jaju2e": "v6m7i6nuc0dshp24a1k2qa8",
+    "2ngi61xzg0su093llz1iggd": "v6m7i6nuc0dshp24a1k2qa8",
+    "7ru4m432bxztcaqhsve9vgb": "v6m7i6nuc0dshp24a1k2qa8",
+    "80ntfl8nudsww5g3ji65jcu": "v6m7i6nuc0dshp24a1k2qa8",
+    "7mob4r3awsmf098ioz4kmpa": "v6m7i6nuc0dshp24a1k2qa8",
+    "126ij0pf6wxl4cw5xkhnkn2": "v6m7i6nuc0dshp24a1k2qa8",
+    "h5ppadk75cfp0u74rbyar7r": "v6m7i6nuc0dshp24a1k2qa8",
+    "475oc6ignn65c8v6eaxc6bn": "v6m7i6nuc0dshp24a1k2qa8",
+    "6ochrof1ew6uwkbrqo9kkan": "v6m7i6nuc0dshp24a1k2qa8",
+    "2022cvortmuhbos5uqyjylk": "v6m7i6nuc0dshp24a1k2qa8",
+    "5uq63gu5377cee49562w9xt": "v6m7i6nuc0dshp24a1k2qa8",
+    "22m5qifn1wffhmme97wuri1": "v6m7i6nuc0dshp24a1k2qa8",
+    "3lv3pfty6zv6x9pgahwtvx9": "v6m7i6nuc0dshp24a1k2qa8",
+    "848xocw2rp84j3hcchc5eoh": "v6m7i6nuc0dshp24a1k2qa8",
+    "84illq5g8zl7t4xd0ccb8ic": "v6m7i6nuc0dshp24a1k2qa8",
+    "5yy2hnv2bqzbc76ejiaczn6": "v6m7i6nuc0dshp24a1k2qa8",
+    "y47k617law2wd2dmpjgwjvv": "v6m7i6nuc0dshp24a1k2qa8",
+    "66ammrmtr7bdvwf56cg9p3j": "v6m7i6nuc0dshp24a1k2qa8",
+    "7zme7y6jmk9ejsy4zkkig4n": "v6m7i6nuc0dshp24a1k2qa8",
+    "7z8dqbwtosk5phyjzyrkrgm": "v6m7i6nuc0dshp24a1k2qa8",
+    "55xg2f1d4b1c3zdb0mgn775": "v6m7i6nuc0dshp24a1k2qa8",
+    "85x7k2mwuz0k60co1zw5pgn": "v6m7i6nuc0dshp24a1k2qa8",
+    "6wglllh20s1wlb9ncitrs29": "v6m7i6nuc0dshp24a1k2qa8",
+    "36eqenuroktcf2zm83rwzp4": "v6m7i6nuc0dshp24a1k2qa8",
+    "5gs2vv1al3pl2gge9pae96s": "v6m7i6nuc0dshp24a1k2qa8",
+    "33vhq1gw6m9pl26rai4ll3u": "v6m7i6nuc0dshp24a1k2qa8",
+    "2m49hocha1pfinbkwwg2edx": "v6m7i6nuc0dshp24a1k2qa8",
+    "3ev3fm2s9379v2dlcmk8vad": "v6m7i6nuc0dshp24a1k2qa8",
+    "1j9y6ae8kb2u8c38rynalfh": "v6m7i6nuc0dshp24a1k2qa8",
+    "4qvct1jyxxpstunma1l8vho": "v6m7i6nuc0dshp24a1k2qa8",
+    "3vn3c6gwll434qnlwbu2krb": "v6m7i6nuc0dshp24a1k2qa8",
+    "98wg36kyn8d71givzu9k6s1": "v6m7i6nuc0dshp24a1k2qa8",
+    "4ratfrxzijt88lqxr1t8y8m": "v6m7i6nuc0dshp24a1k2qa8",
+    "5dh6mf3x9g7a5w2qi7p6vcx": "v6m7i6nuc0dshp24a1k2qa8",
+    "2nteueyfibrpju7dcqod8d5": "v6m7i6nuc0dshp24a1k2qa8",
+    "10z8q1l5q1n7g7hyhd8s2yw": "v6m7i6nuc0dshp24a1k2qa8",
+    "8005k2wur3kjw0gh3nkv52z": "v6m7i6nuc0dshp24a1k2qa8",
+    "3pwkfh0d9ex8wclf9ctavsh": "v6m7i6nuc0dshp24a1k2qa8",
+    "1ql5lwzubjfatqw1ppvgc82": "v6m7i6nuc0dshp24a1k2qa8",
+    "4xxcpwvkoh5ybnsb7kp4eqf": "v6m7i6nuc0dshp24a1k2qa8",
+    "6lpzrtzolrv5ome6rz0b6yb": "v6m7i6nuc0dshp24a1k2qa8",
+    "6xdru5jgzzx48gv8y5qe0g8": "v6m7i6nuc0dshp24a1k2qa8",
+    "66oo13k3760966obqcuyc71": "v6m7i6nuc0dshp24a1k2qa8",
+    "3bx137hmhee8gofsuutroll": "v6m7i6nuc0dshp24a1k2qa8",
+    "6w4aunuoheysqki1ycww74d": "v6m7i6nuc0dshp24a1k2qa8",
+    "1eu1dps8qry1zwahex80zmy": "v6m7i6nuc0dshp24a1k2qa8",
+    "33j1z2cdx4kzx6t4e8bimto": "v6m7i6nuc0dshp24a1k2qa8",
+    "4jfsp20f7ubx5zsux5kzkka": "v6m7i6nuc0dshp24a1k2qa8",
+    "1cnkvai65igt6ov0hhi5ldg": "v6m7i6nuc0dshp24a1k2qa8",
+    "tpqk96jjk5t88vjzva11jpf": null,
+    "2h35qykrsekrn9lumb7bhpk": "tpqk96jjk5t88vjzva11jpf"
+  },
+  "notesLabelById": {
+    "m3i0likj6j3m0fxhecq2slb": "Domain",
+    "pe9rethbbqp3b0opbaxszl1": "BOOLEAN",
+    "1lxvi3j75ramxecmuvy05wv": "TARCHIVO",
+    "2nacgyiv91ysvmijvm03wz2": "TBOOLEANO",
+    "3es95pj59kaar762fpajh45": "TCADENAACUSE",
+    "aop8p5bhg125xxya6x8a7uz": "TCADENAGIGANTE",
+    "88ul5l5yl5e9df980xzu1qz": "TCADENALARGA",
+    "7if6usmelukr6g79tl6p066": "TCADENAMEDIANA",
+    "49zlotrdrv4bzai23dey2me": "TCANTIDAD",
+    "456bzft8x2tnrge8n3r5wfm": "TCANTIDADINV",
+    "65sq48gzh49elk0b330nb07": "TCARACTER",
+    "54b56bb2qwnvw7luq0qpgcj": "TCODIGOMONEDA",
+    "3d3jb1shazr84577s33ln6a": "TCODIGOPOSTAL",
+    "3aihj0jad3e6h4owv3bk1eb": "TCODIGOPRODUCTO",
+    "80zq0st6ewivl51rz1x0f8v": "TCURRENCY",
+    "hty9dnptg9s1gq3uq7pp6qj": "TDATOSCONCILIACION",
+    "iezwv2qocicowbgvgssm7mm": "TENUMERADO",
+    "17h03tc5wncdrcm2jruirsv": "TFACTURAFOLIO",
+    "3sjqszulee8gnvkbqkmobqr": "TFACTURAFOLIOOPCIONAL",
+    "l0j264wb58jaid0yt3izc90": "TFACTURAPAC",
+    "6zvkqzg7oknsi6ihhhgnmn3": "TFACTURAUUID",
+    "zaeprrcd8wijs2zrcn7s38q": "TFACTURAVERSION",
+    "22za7sasjj4c2tn893tbnh6": "TFACTURAXML",
+    "1frbcjh084f7oe6jvsw69nm": "TFECHA",
+    "81qw3t5g5amu2mplahyj16x": "TFECHAHORA",
+    "610sy6mxugf19dy22f19u9r": "TFOLIO",
+    "1wmwv6ydq783069yr0jhfc3": "TFORMAPAGO",
+    "2pwm2whcvgsnb30gv25ngca": "TGUID",
+    "3873pufvtt7tzlhwkctlkev": "TINTEGER",
+    "7kgkx2agyrqpxbyqj1ug0z9": "TLLAVE",
+    "5lou899mlwqsh3itnxlaw0p": "TMEDIDA",
+    "24mdpmbzpd277tvnunq7q49": "TMONEDA",
+    "5jbdobs7bh1dswg422flj4t": "TMONEDA_4_DECIMALES",
+    "7enj8b7rums22r4lmog6z7m": "TNOMBREPC",
+    "53smt8e8f69sw737e2mw4i0": "TNOTA",
+    "3t31qqcgk40l7j0ufu0jiz5": "TNUMERODETELEFONO",
+    "kucghqomrx1jibk16mqbq72": "TNUMEROTRANSACCION",
+    "7d4jq3ruq13g6uy8o48zwhe": "TPERMISOS",
+    "6lxvqychejwgs901k44pjg6": "TPORCENTAJE",
+    "2du312iiiey07p5ha1j11ef": "TPORCENTAJEGANANCIA",
+    "3vphdyjlt5t0cn23qxklq6l": "TPRODUCTODESCRIPCION",
+    "6p3do0toasncq8f9mmsb5gy": "TRFC",
+    "y057sqpf8s9zpfsp8yxex1y": "TSMALLINT",
+    "14eg1opiym7nkzssy5vlsqc": "TTIPOFACTURA",
+    "66xl4rdh9qntk27sbwmvp7i": "TTIPOMOVIMIENTO",
+    "7907pvzbjg2242zi51fjbdh": "TTIPOVENTA",
+    "72ihqzbm5trjuy6lu13l771": "Eleventa",
+    "w0wejd6unt7ustjc2b2tnzq": "Generator",
+    "6uercvutx9q3mamftv4htvw": "GEN_ABONO_TICKETS_ID",
+    "2zv6an24kpzq6eiej9frli8": "GEN_ABONOS_ARTICULOS_ID",
+    "3uanp5gews3llrohwzwe7ou": "GEN_ABONOS_ID",
+    "61f9nx5lk1bkvrdaxoym4oe": "GEN_ABONOS_VENTAS_ID",
+    "5lsx3azy39ba7ztoyf38qkm": "GEN_ALMACENES_ID",
+    "3vpowd72ci45xmixhg7f33c": "GEN_ARTICULOS_DE_OC_ID",
+    "3mic9eofq8a6qtutv6mokwf": "GEN_CACHE_ID",
+    "783in5jzj6qhhfktxgea20f": "GEN_CAJAS_ID",
+    "3sortw72ofild0e7bi5d59v": "GEN_CLIENTES_ID",
+    "7o8pgkosotex0ri1pcoh4g4": "GEN_CLIENTESV2_ID",
+    "7ikb4xtpipax3yynuzdevbx": "GEN_COMISIONES_TARJETA_ID",
+    "3h412qclqcghz05rluukvli": "GEN_CONCILIACION_PA_ID",
+    "ff4gy2cbear2mj6gl7k61lv": "GEN_CONFIGURACION_ID",
+    "73jsvencgfxkartodajznfd": "GEN_CORTE_IMP_COBRA_ID",
+    "2rzx0gqd3a7tq5qohhse80d": "GEN_CORTE_IMPUESTOS_ID",
+    "4zruft36a83ssnvjw21bkaq": "GEN_CORTE_MOVIMIENTOS_ID",
+    "4shktjfirgwdgzrrbgsds1s": "GEN_CORTE_OPERACIONES_ID",
+    "1noiclj0ft6jh4hoczs25oy": "GEN_CORTE_VENTAS_DE_ID",
+    "7n7ao13gicnfyl0gek7vtea": "GEN_CORTE_VENTAS_POR_DEPTO_ID",
+    "7iikjmy7a1ns5gf2hbf2ihn": "GEN_CRED_ABONOS_ARTS_ID",
+    "5ggh8qc17o8menem4r1dqcv": "GEN_CRED_ABONOS_IMPS_ID",
+    "5ig7nai36mucebtwk7147g5": "GEN_CRED_ARTS_IMPS_ID",
+    "201zn78ccrwam16osn52287": "GEN_CREDITOS_ABONOS_ID",
+    "3gwxaadvcnefk834g762bno": "GEN_CREDITOS_ABONOS_PAGOS_ID",
+    "2apsc89ba16vshp6iyrpegi": "GEN_CREDITOS_ABONOS_VENTAS_ID",
+    "5x2qumgphzihtgtph6as1w6": "GEN_CREDITOS_TRANSACCIONES_ID",
+    "7h2khnz2rvf7pypp0ajnroa": "GEN_DEPARTAMENTOS_ID",
+    "3c9qs9u1aeffskc0nlppa3f": "GEN_DEVOLUCIONES_ARTICULOS_ID",
+    "3995pvdjmi9nc87ezt1xs0a": "GEN_DEVOLUCIONES_ID",
+    "74vsw6l412tyyl03x07rnbo": "GEN_FACTURACION_CERTIFICADOS_ID",
+    "5riakapmhbpu7exzgt5z01r": "GEN_FACTURACION_CLIENTES_ID",
+    "6momvi7d6hwm9pdyzi0na1a": "GEN_FACTURACION_EMISORES_ID",
+    "6od78xkj3e518tftpegxl4f": "GEN_FACTURACION_FOLIOS_ID",
+    "5l7o87l3u9cvon6g1vj8gxd": "GEN_FACTURACION_INFORMES_ID",
+    "5mj7wox77a0udahcf1bbbqw": "GEN_FACTURAS_FOLIO",
+    "4vnvrd85uzy1khd6f2gmc2r": "GEN_FACTURAS_ID",
+    "2odv5l39zb9m2j1esas7d3l": "GEN_HISTORIAL_INVENTARIO_ID",
+    "3kzvrj73fugdt5cegmigls7": "GEN_HISTORIAL_USUARIOS_ID",
+    "fdftnfkd5ezo7arcegfiqpc": "GEN_IMPUESTOS_ID",
+    "namkj8h6i4ok44dqop8mc30": "GEN_IMPUESTOS_REGLAS_ID",
+    "5i3e8nd4zia1begoi8oteur": "GEN_INVENTARIO_AJUSTES_ID",
+    "6g61z7c26e3jv3nbsmamlfe": "GEN_INVENTARIO_HISTORIAL_ID",
+    "19xadck7f110chd5i592ax0": "GEN_INVENTARIO_RECIBOS_ID",
+    "48jve1ksqvn34hjtok1chk3": "GEN_LISTA_DE_COMPRA_ID",
+    "1bl4acf4382lnprxp0pvtzs": "GEN_MEDIDAS_ID",
+    "3rs7rcjjee6xa8znnkqxmep": "GEN_MOVIMIENTOS_ID",
+    "7miytip9zfs8fix008elmv0": "GEN_OPERACIONES_ID",
+    "61d8uv857k33e4raigs34n0": "GEN_ORDENES_DE_COMPRA_ID",
+    "3ky0wpqhr3ihptovfafftis": "GEN_PAGOS_MIXTOS_ID",
+    "38w2ghj1nx4ynqswtc2b3nz": "GEN_PRODUCTOS_CFDI_ID",
+    "5sfdrgsdeseh1jxoiadfbu4": "GEN_PRODUCTOS_ID",
+    "4lycked9qxda96h8aihpitc": "GEN_PROMOCIONES_POR_CANTIDAD_ID",
+    "813u0mb7t7m42lwlai0d9dy": "GEN_PROVEEDORES_BASE_ID",
+    "3emtrj745fzekef1iuivrrd": "GEN_PROVEEDORES_ID",
+    "2j8qhjic5jtwsfg4ds12iw8": "GEN_SERVICIOS_CONSECUTIVO",
+    "3hxfxwav2kfy0ybzxat7zh2": "GEN_SERVICIOS_REFERENCIA_ABONOS",
+    "64g2ji0g6ql37kvsi0mbzew": "GEN_SINCRONIZACION_NUBE_ID",
+    "1camjd0pfrgg7ksnccdi56g": "GEN_TICKET_ARTICULOS_ID",
+    "6kjyj1mrzg33ssq844yd2ym": "GEN_TICKETS_ID",
+    "58jpdobuw78cfyx9tqhei9o": "GEN_TRANSACCIONES_PROSEPAGO_ID",
+    "4l827e3403kp6dxj83s3n4d": "GEN_TURNOS_ID",
+    "167tph5lx3rv0q0kcsfqixn": "GEN_USUARIOS_ID",
+    "7xmdkmeo95tjq4mj86apedk": "GEN_VENTA_DE_RECARGAS_ID",
+    "6oas8sbijjmhdk6jaooor4q": "GEN_VENTA_RECARGA_ID",
+    "6qy8y07vgxos5ps6fpxzfhj": "GEN_VENTA_SERVICIO_ID",
+    "2fs24a1d37hjqif686o6lld": "GEN_VENTATICKETS_ARTICULOS_ID",
+    "6agcndlx8sk0sb876j6c2mn": "GEN_VENTATICKETS_ID",
+    "x8a8d6x4tnxqshee00z983l": "GEN_VENTATICKETS_IMPUESTOS_ID",
+    "55bbxyl7naef25n2h9m8pnm": "INVENTARIO_AJUSTE_FOLIO",
+    "3f5aucgvqu3yjkntofqhe69": "INVENTARIOS_RECEPCION_FOLIO",
+    "ye7rda1fcozo3n8wddalrvg": "Index",
+    "yle4kahq90tqlee6mzf7two": "ABONOS_ID_IDX",
+    "4j2wkxwrgs506ihdqn7jw03": "ARTICULO_COMP_IDX1",
+    "7o0lj3kmw17ibeu4nxyvlsk": "CLIENTES_IDX_FOLIO",
+    "s10k1wmtxolc2hb9dcqfxzd": "CLIENTESV2_FACTURACION_ID_IDX",
+    "4rjxv6o7it60d2mxls160l5": "COMPONENTES_IDX",
+    "3r107io9kjg126hee8ijj4l": "DEPS_UPPER_NOM_IDX",
+    "2w1hhbp1mfhavfhdhhnyrzq": "FACTURACION_CLIENTES_ID_IDX",
+    "2k18e2ff06ufx33k0thqbgf": "FACTURAS_ID_IDX",
+    "vdy62n50hg5l15sxtrqcu3z": "IDX_CREDITOS_ABONOS_OLD_ID",
+    "1cpvt7l6zmuetj5yvt3gsgm": "IDX_INV_HIST_PROD",
+    "ufckjb8s1jm1800by8wb7mc": "IDX_VT_CAJA",
+    "25n8lbv439z47w18840r6or": "IDX_VT_CAJERO",
+    "73ujesqcst0j6y1z3pzor65": "IDX_VT_FECHA",
+    "3enhz67qr1zz6cini8h8p5r": "IX_AV_TICKET_ID",
+    "91csbna2u9lu059oiq241aq": "IX_BUSQUEDA_DESCRIPCION",
+    "2sl9njmwx6eix2l9688nyhv": "IX_CA_FECHA",
+    "2k57mhyj0i24z5gy0oh071w": "IX_CAA_ARTICULO_ABONO",
+    "573c1it924gm6jsbea34mhi": "IX_CAI_ABONO_IMPUESTO",
+    "575dlx04yp8bk66kffmksj7": "IX_CAI_ART_IMPUESTO",
+    "86tap4ptgac2ftwhwukodmk": "IX_CAP_ABONO",
+    "2cctvcc7rs5siqdovdwkshg": "IX_CAV_VENTA_ABONO",
+    "4owi79oiqex7ziujxrx88qi": "IX_CT_CAJERO",
+    "1m2l3znkcpa722cnd26568o": "IX_CT_CLIENTE",
+    "4iobbviwalr53gbfqvefog1": "IX_CT_REPORTE",
+    "6ekkhi26w6um2qmqv3c17aa": "IX_FOLIO",
+    "4thyl6x8jyl4l651xeo4y03": "IX_VT_ACTIVO",
+    "4dzax5sjcmjd09xdqx6x3tm": "IX_VT_FACTURA_ID",
+    "mx29ka6gcl37r30bsue6sq9": "IX_VT_IMPUESTOS",
+    "6dspyqqaeo964055oq2puh6": "IX_VT_MIG20",
+    "5153hhd87qpsfrr19abel5l": "IX_VTA_FUE_DEVUELTO",
+    "6t5q4vkf5n90fe81lmoilb5": "MOVIMIENTOS_ID_IDX",
+    "53h7mpxn113lqjmqy2c14t9": "MOVIMIENTOS_IDX1",
+    "2hkwq7rap1z1wej3x3uji4k": "PAGOS_MIXTOS_ID_IDX",
+    "1duef0yur6zyplws9lyzs9y": "PK_USUARIO_UNICO",
+    "kqgvh5hifue9mu7g4s23ra2": "PRODS_UPPER_COD_IDX",
+    "70qsy1tf6yyojv97me0drda": "PRODUCTOS_CFDI_IDX1",
+    "47hxmw9hzm0v0lb4hreaqdj": "PRODUCTOS_IDX1",
+    "38o8x7dphlsa2f9blzbuxbm": "PROMOS_IDX1",
+    "yepqr5m5v754q5zp01ssqtn": "SINCRONIZACION_NUBE_IDX1",
+    "1ddv0k5awuvylvl6hwwacbk": "SINCRONIZACION_VENTAS_IDX1",
+    "1doymhja0aqkc4r5iflkl6u": "VENTATICKETS_ARTICULOS_IDX1",
+    "2w3tr5aio74f7i33n95xseo": "VENTATICKETS_ARTICULOS_IDX2",
+    "226tt566vhjte9v5tvw9dmh": "VENTATICKETS_ARTICULOS_IDX3",
+    "1hfrwg8nkccuww0cap17ivs": "VENTATICKETS_ARTICULOS_IDX5",
+    "7nqgic6gkn030ziyqusitp1": "VENTATICKETS_CLIENTESV2_ID_IDX",
+    "1vth83ryf4myfi4aeiaxwo7": "VENTATICKETS_IDV2_IDX",
+    "11826a2p4s8om0cy3hlsowl": "VENTATICKETS_IDX1",
+    "rkdilavjhnouvq15dyzaz5y": "VENTATICKETS_IDX2",
+    "6zjzt4zoe5u9baf3o5lone5": "VENTATICKETS_IDX3",
+    "6okmpjl7v3of9psiqqzrlvv": "VENTATICKETS_IDX4",
+    "19zg77xti2ckhzthubuhcb4": "VENTATICKETS_IDX5",
+    "34oio8plitcsowa5xk5dwfr": "VENTATICKETS_IDX6",
+    "4nk6n0iks48e2gg3k400gy2": "VENTATICKETS_PAGADO_EN_IDX",
+    "48r4aqdinbbjas3iqr56epv": "VENTATICKETS_TURNO_ID_IDX",
+    "vw6cwhxkalnye4ujxthzm8c": "Procedure",
+    "3kp7ohra9xepc9a167c8ote": "OBTEDOCUENTA",
+    "scfbibm6ikvk5ydyk3uc7ap": "Relaciones",
+    "v6m7i6nuc0dshp24a1k2qa8": "Table",
+    "2eulvampti9jyjtc7ponrll": "ABONO_TICKETS",
+    "356lga2xh27ykh7lkdc1lf0": "ABONOS",
+    "6ixbx4qb1c7yyc6jsmanfmb": "ABONOS_ARTICULOS",
+    "54ejaupnxona23sxf0x1gqj": "ABONOS_VENTAS",
+    "4cezz8pd1d7kmk2mmjk8vfp": "ALMACENES",
+    "46kj6z1ztcabzevwzvyc2fp": "ARTICULO_COMPONENTES",
+    "712jly23978bvsr2myhrnht": "ARTICULOS_DE_OC",
+    "68rxjy69u0ihzlbcaaq02su": "CACHE",
+    "2i5kfqs0atm63d011xi70bj": "CAJAS",
+    "3kdfysl1al16jclti2qm4el": "CLIENTES",
+    "4qmqkmsvo6skrdik76tjdeq": "CLIENTESV2",
+    "3jfe0cckjlq6z2nmy3rh9go": "CLIENTESV2_CREDITO",
+    "5ueddcsklwvwm1zzqz1q6b8": "CLIENTESV2_FACTURACION",
+    "81y5xf4gwtvlzeu5pia1jiw": "CLIENTESV2_TAGS",
+    "6a3z3opjfhhtfvmj82l1u6n": "COMISIONES_TARJETA",
+    "1l33qcxxpjg4hjzw3a78z1d": "CONCILIACION_PAGO_SERVICIOS",
+    "5w1iby76n8l6w4d570uz2jm": "CONFIGURACION",
+    "71bki9lf972sfut7bo2ee40": "CORTE_IMP_COBRADOS_OPERACION",
+    "5x1bfp3w75tn58y67bbd2m6": "CORTE_IMPUESTOS_COBRADOS",
+    "6e8keuy5njrmywuzbxoawn2": "CORTE_MOVIMIENTOS",
+    "2em5i44h6lqjb07n1sd9dn8": "CORTE_OPERACIONES",
+    "6bqm8jynmuciqipkedyqdvu": "CORTE_VENTAS_DEPTO_OPERACIONES",
+    "4p2i18v2wsfwc19awpvz3dp": "CORTE_VENTAS_POR_DEPTO",
+    "7ding6igyrd0xbfuzu1ubai": "CREDITOS_ABONOS",
+    "1whakdfiomduduxohap9wr8": "CREDITOS_ABONOS_ARTICULOS",
+    "3l3wr42q3d35id31htdev7g": "CREDITOS_ABONOS_IMPUESTOS",
+    "7ut4apf2ru1be8uoovlux49": "CREDITOS_ABONOS_PAGOS",
+    "5jispjvpdb5vfk7rsmut38y": "CREDITOS_ABONOS_VENTAS",
+    "1zauwh9uytfwtynz9jaju2e": "CREDITOS_ARTICULOS_IMPUESTOS",
+    "2ngi61xzg0su093llz1iggd": "CREDITOS_TRANSACCIONES",
+    "7ru4m432bxztcaqhsve9vgb": "DEPARTAMENTOS",
+    "80ntfl8nudsww5g3ji65jcu": "DEVOLUCIONES",
+    "7mob4r3awsmf098ioz4kmpa": "DEVOLUCIONES_ARTICULOS",
+    "126ij0pf6wxl4cw5xkhnkn2": "FACTURACION_CERTIFICADOS",
+    "h5ppadk75cfp0u74rbyar7r": "FACTURACION_CLIENTES",
+    "475oc6ignn65c8v6eaxc6bn": "FACTURACION_EMISORES",
+    "6ochrof1ew6uwkbrqo9kkan": "FACTURACION_FOLIOS",
+    "2022cvortmuhbos5uqyjylk": "FACTURAS",
+    "5uq63gu5377cee49562w9xt": "FACTURAS_ABONOS",
+    "22m5qifn1wffhmme97wuri1": "HISTORIAL_INVENTARIO",
+    "3lv3pfty6zv6x9pgahwtvx9": "IMPUESTOS",
+    "848xocw2rp84j3hcchc5eoh": "IMPUESTOS_REGLAS",
+    "84illq5g8zl7t4xd0ccb8ic": "INVENTARIO_AJUSTES",
+    "5yy2hnv2bqzbc76ejiaczn6": "INVENTARIO_APARTADO",
+    "y47k617law2wd2dmpjgwjvv": "INVENTARIO_BALANCES",
+    "66ammrmtr7bdvwf56cg9p3j": "INVENTARIO_HISTORIAL",
+    "7zme7y6jmk9ejsy4zkkig4n": "INVENTARIO_RECIBOS",
+    "7z8dqbwtosk5phyjzyrkrgm": "INVENTARIO_RECIBOS_DETALLE",
+    "55xg2f1d4b1c3zdb0mgn775": "LISTA_DE_COMPRA",
+    "85x7k2mwuz0k60co1zw5pgn": "MEDIDAS",
+    "6wglllh20s1wlb9ncitrs29": "MOVIMIENTOS",
+    "36eqenuroktcf2zm83rwzp4": "OPERACIONES",
+    "5gs2vv1al3pl2gge9pae96s": "ORDENES_DE_COMPRA",
+    "33vhq1gw6m9pl26rai4ll3u": "PAGOS_MIXTOS",
+    "2m49hocha1pfinbkwwg2edx": "PRODUCTO_COMPONENTES",
+    "3ev3fm2s9379v2dlcmk8vad": "PRODUCTOS",
+    "1j9y6ae8kb2u8c38rynalfh": "PRODUCTOS_BASE",
+    "4qvct1jyxxpstunma1l8vho": "PRODUCTOS_CFDI",
+    "3vn3c6gwll434qnlwbu2krb": "PRODUCTOS_UDF_RECARGAS",
+    "98wg36kyn8d71givzu9k6s1": "PRODUCTOS_UDF_SERVICIOS",
+    "4ratfrxzijt88lqxr1t8y8m": "PROMOCIONES_POR_CANTIDAD",
+    "5dh6mf3x9g7a5w2qi7p6vcx": "PROVEEDORES",
+    "2nteueyfibrpju7dcqod8d5": "PROVEEDORES_BASE",
+    "10z8q1l5q1n7g7hyhd8s2yw": "REPORTE_ABONO_SERVICIOS",
+    "8005k2wur3kjw0gh3nkv52z": "SCHEMA_DATA_INFO",
+    "3pwkfh0d9ex8wclf9ctavsh": "SCHEMA_INFO",
+    "1ql5lwzubjfatqw1ppvgc82": "SINCRONIZACION_NUBE",
+    "4xxcpwvkoh5ybnsb7kp4eqf": "SINCRONIZACION_VENTAS",
+    "6lpzrtzolrv5ome6rz0b6yb": "TRANSACCIONES_PROSEPAGO",
+    "6xdru5jgzzx48gv8y5qe0g8": "TURNOS",
+    "66oo13k3760966obqcuyc71": "USUARIOS",
+    "3bx137hmhee8gofsuutroll": "VENTA_DE_RECARGAS",
+    "6w4aunuoheysqki1ycww74d": "VENTA_RECARGA",
+    "1eu1dps8qry1zwahex80zmy": "VENTA_SERVICIO",
+    "33j1z2cdx4kzx6t4e8bimto": "VENTATICKETS",
+    "4jfsp20f7ubx5zsux5kzkka": "VENTATICKETS_ARTICULOS",
+    "1cnkvai65igt6ov0hhi5ldg": "VENTATICKETS_IMPUESTOS",
+    "tpqk96jjk5t88vjzva11jpf": "Trigger",
+    "2h35qykrsekrn9lumb7bhpk": "ABONOS_BI"
+  }
+}

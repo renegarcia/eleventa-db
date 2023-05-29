@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN TMONEDA AS NUMERIC(18, 4);
+```

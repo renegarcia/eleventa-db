@@ -1,0 +1,43 @@
+<h1 id="ventatickets">VENTATICKETS<a aria-hidden="true" class="anchor-heading icon-link" href="#ventatickets"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> VENTATICKETS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        FOLIO TFOLIO<span class="token punctuation">,</span>
+        CAJA_ID TLLAVE<span class="token punctuation">,</span>
+        CAJERO_ID TLLAVE<span class="token punctuation">,</span>
+        NOMBRE TCADENAMEDIANA<span class="token punctuation">,</span>
+        CREADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        SUBTOTAL TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        IMPUESTOS TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        TOTAL TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        GANANCIA TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        ESTA_ABIERTO TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'t'</span><span class="token punctuation">,</span>
+        CLIENTE_ID TLLAVE<span class="token punctuation">,</span>
+        VENDIDO_EN TFECHAHORA<span class="token punctuation">,</span>
+        ES_MODIFICABLE TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'t'</span><span class="token punctuation">,</span>
+        PAGO_CON TMONEDA<span class="token punctuation">,</span>
+        MONEDA TCODIGOMONEDA<span class="token punctuation">,</span>
+        NUMERO_ARTICULOS TINTEGER <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        PAGADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        ESTA_CANCELADO TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'f'</span><span class="token punctuation">,</span>
+        OPERACION_ID TLLAVE<span class="token punctuation">,</span>
+        OLD_TICKET_ID TLLAVE<span class="token punctuation">,</span>
+        NOTAS TNOTA<span class="token punctuation">,</span>
+        IMPRIMIR_NOTA TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'t'</span><span class="token punctuation">,</span>
+        FORMA_PAGO TFORMAPAGO<span class="token punctuation">,</span>
+        REFERENCIA TCADENALARGA<span class="token punctuation">,</span>
+        FACTURA_ID TLLAVE<span class="token punctuation">,</span>
+        TOTAL_DEVUELTO TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TOTAL_AHORRADO TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TURNO_ID TLLAVE<span class="token punctuation">,</span>
+        TIPO_DE_CAMBIO TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">1</span><span class="token punctuation">,</span>
+        TOTAL_CREDITO TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        NOTAS_AL_PIE TNOTA <span class="token keyword">DEFAULT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        REFRESCAR_TICKET TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'F'</span><span class="token punctuation">,</span>
+        TOTAL_FACTURABLE TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CLIENTESV2_ID <span class="token keyword">INTEGER</span> <span class="token keyword">DEFAULT</span> <span class="token number">1</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        CLIENTESV2_CREDITO_ID <span class="token keyword">INTEGER</span><span class="token punctuation">,</span>
+        ACTIVO <span class="token keyword">CHAR</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span> <span class="token keyword">DEFAULT</span> <span class="token string">'t'</span><span class="token punctuation">,</span>
+        IMPRIMIR_DATOS_CLIENTE <span class="token keyword">CHAR</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+        SALDO_CREDITO TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        IMPUESTOS_RETENIDOS TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_VENTATICKETS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

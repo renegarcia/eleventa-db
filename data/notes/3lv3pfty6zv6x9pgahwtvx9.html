@@ -1,0 +1,11 @@
+<h1 id="impuestos">IMPUESTOS<a aria-hidden="true" class="anchor-heading icon-link" href="#impuestos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> IMPUESTOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        NOMBRE TCADENAMEDIANA<span class="token punctuation">,</span>
+        PORCENTAJE TCANTIDAD<span class="token punctuation">,</span>
+        DEFECTO TBOOLEANO<span class="token punctuation">,</span>
+        ACTIVO TBOOLEANO<span class="token punctuation">,</span>
+        ORIGEN TCARACTER <span class="token keyword">DEFAULT</span> <span class="token string">'F'</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        BASE_GRAVABLE TBOOLEANO <span class="token keyword">DEFAULT</span> <span class="token string">'F'</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TIPO <span class="token keyword">CHAR</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span> <span class="token keyword">DEFAULT</span> <span class="token string">'T'</span> <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_IMPUESTOS <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

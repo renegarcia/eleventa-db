@@ -1,0 +1,13 @@
+<h1 id="creditos_abonos_pagos">CREDITOS_ABONOS_PAGOS<a aria-hidden="true" class="anchor-heading icon-link" href="#creditos_abonos_pagos"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> CREDITOS_ABONOS_PAGOS <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        ABONO_ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        FORMA_PAGO TFORMAPAGO<span class="token punctuation">,</span>
+        COMISIONES_ABONO_ID TLLAVE<span class="token punctuation">,</span>
+        REFERENCIA TNOTA<span class="token punctuation">,</span>
+        TIPO_ABONO TLLAVE<span class="token punctuation">,</span>
+        CAMBIO TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        CAMBIO_EN_DOLARES TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        PAGO_CON TMONEDA <span class="token keyword">DEFAULT</span> <span class="token number">0</span><span class="token punctuation">,</span>
+        ID_SOLICITUD_TERMINAL TLLAVE<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_CA_PAGOS_ID <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

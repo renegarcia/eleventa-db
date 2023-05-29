@@ -1,0 +1,37 @@
+<h1 id="obtedocuenta">OBTEDOCUENTA<a aria-hidden="true" class="anchor-heading icon-link" href="#obtedocuenta"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token operator">OR</span> <span class="token keyword">ALTER</span> <span class="token keyword">PROCEDURE</span> OBTEDOCUENTA <span class="token punctuation">(</span>PAR_CLIENTE_ID <span class="token keyword">INTEGER</span><span class="token punctuation">)</span>
+<span class="token keyword">RETURNS</span> <span class="token punctuation">(</span>FECHA <span class="token keyword">DATE</span><span class="token punctuation">,</span>
+MONTO <span class="token keyword">FLOAT</span><span class="token punctuation">,</span>
+TIPO <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">50</span><span class="token punctuation">)</span> <span class="token keyword">CHARACTER</span> <span class="token keyword">SET</span> NONE<span class="token punctuation">)</span>
+<span class="token keyword">AS</span>
+<span class="token keyword">BEGIN</span> SUSPEND<span class="token punctuation">;</span> <span class="token keyword">END</span> <span class="token operator">^</span>
+<span class="token keyword">CREATE</span> <span class="token operator">OR</span> <span class="token keyword">ALTER</span> <span class="token keyword">PROCEDURE</span> OBTEDOCUENTA2 <span class="token punctuation">(</span>PAR_CLIENTE_ID <span class="token keyword">INTEGER</span><span class="token punctuation">)</span>
+<span class="token keyword">RETURNS</span> <span class="token punctuation">(</span>FECHA <span class="token keyword">TIMESTAMP</span><span class="token punctuation">,</span>
+MONTO <span class="token keyword">NUMERIC</span><span class="token punctuation">(</span><span class="token number">15</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+TIPO <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">50</span><span class="token punctuation">)</span> <span class="token keyword">CHARACTER</span> <span class="token keyword">SET</span> NONE<span class="token punctuation">)</span>
+<span class="token keyword">AS</span>
+<span class="token keyword">BEGIN</span> SUSPEND<span class="token punctuation">;</span> <span class="token keyword">END</span> <span class="token operator">^</span>
+<span class="token keyword">CREATE</span> <span class="token operator">OR</span> <span class="token keyword">ALTER</span> <span class="token keyword">PROCEDURE</span> OBTEDOCUENTA3 <span class="token punctuation">(</span>PAR_CLIENTE_ID <span class="token keyword">INTEGER</span><span class="token punctuation">)</span>
+<span class="token keyword">RETURNS</span> <span class="token punctuation">(</span>FECHA <span class="token keyword">TIMESTAMP</span><span class="token punctuation">,</span>
+MONTO <span class="token keyword">NUMERIC</span><span class="token punctuation">(</span><span class="token number">15</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+TIPO <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">50</span><span class="token punctuation">)</span> <span class="token keyword">CHARACTER</span> <span class="token keyword">SET</span> NONE<span class="token punctuation">)</span>
+<span class="token keyword">AS</span>
+<span class="token keyword">BEGIN</span> SUSPEND<span class="token punctuation">;</span> <span class="token keyword">END</span> <span class="token operator">^</span>
+<span class="token keyword">CREATE</span> <span class="token operator">OR</span> <span class="token keyword">ALTER</span> <span class="token keyword">PROCEDURE</span> POS <span class="token punctuation">(</span>SUBSTR <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">255</span><span class="token punctuation">)</span> <span class="token keyword">CHARACTER</span> <span class="token keyword">SET</span> NONE<span class="token punctuation">,</span>
+STR <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">255</span><span class="token punctuation">)</span> <span class="token keyword">CHARACTER</span> <span class="token keyword">SET</span> NONE<span class="token punctuation">)</span>
+<span class="token keyword">RETURNS</span> <span class="token punctuation">(</span>POS <span class="token keyword">INTEGER</span><span class="token punctuation">)</span>
+<span class="token keyword">AS</span>
+<span class="token keyword">BEGIN</span> SUSPEND<span class="token punctuation">;</span> <span class="token keyword">END</span> <span class="token operator">^</span>
+<span class="token keyword">CREATE</span> <span class="token operator">OR</span> <span class="token keyword">ALTER</span> <span class="token keyword">PROCEDURE</span> YEARWEEK <span class="token punctuation">(</span>D <span class="token keyword">DATE</span><span class="token punctuation">)</span>
+<span class="token keyword">RETURNS</span> <span class="token punctuation">(</span>WEEK_NO <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">8</span><span class="token punctuation">)</span> <span class="token keyword">CHARACTER</span> <span class="token keyword">SET</span> NONE<span class="token punctuation">)</span>
+<span class="token keyword">AS</span>
+<span class="token keyword">BEGIN</span> SUSPEND<span class="token punctuation">;</span> <span class="token keyword">END</span> <span class="token operator">^</span>
+<span class="token keyword">CREATE</span> <span class="token operator">OR</span> <span class="token keyword">ALTER</span> <span class="token keyword">PROCEDURE</span> YEAR_WEEK <span class="token punctuation">(</span>IDENTRADA <span class="token keyword">INTEGER</span><span class="token punctuation">,</span>
+D <span class="token keyword">DATE</span><span class="token punctuation">)</span>
+<span class="token keyword">RETURNS</span> <span class="token punctuation">(</span>ID <span class="token keyword">INTEGER</span><span class="token punctuation">,</span>
+WEEK_NO <span class="token keyword">VARCHAR</span><span class="token punctuation">(</span><span class="token number">8</span><span class="token punctuation">)</span> <span class="token keyword">CHARACTER</span> <span class="token keyword">SET</span> NONE<span class="token punctuation">)</span>
+<span class="token keyword">AS</span>
+<span class="token keyword">BEGIN</span> SUSPEND<span class="token punctuation">;</span> <span class="token keyword">END</span> <span class="token operator">^</span>
+
+<span class="token keyword">SET</span> TERM <span class="token punctuation">;</span>
+</code></pre>

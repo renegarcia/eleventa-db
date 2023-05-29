@@ -1,0 +1,4 @@
+
+```sql
+CREATE DOMAIN TFORMAPAGO AS CHAR(10);
+```

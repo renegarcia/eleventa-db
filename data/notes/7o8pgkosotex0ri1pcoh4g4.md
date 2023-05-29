@@ -1,0 +1,4 @@
+
+```sql
+CREATE GENERATOR GEN_CLIENTESV2_ID;
+```

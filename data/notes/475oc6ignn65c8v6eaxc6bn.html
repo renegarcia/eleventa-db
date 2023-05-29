@@ -1,0 +1,19 @@
+<h1 id="facturacion_emisores">FACTURACION_EMISORES<a aria-hidden="true" class="anchor-heading icon-link" href="#facturacion_emisores"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> FACTURACION_EMISORES <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        RFC TRFC<span class="token punctuation">,</span>
+        NOMBRE TCADENALARGA<span class="token punctuation">,</span>
+        CALLE TCADENALARGA<span class="token punctuation">,</span>
+        NOEXTERIOR TCADENAMEDIANA<span class="token punctuation">,</span>
+        NOINTERIOR TCADENAMEDIANA<span class="token punctuation">,</span>
+        COLONIA TCADENALARGA<span class="token punctuation">,</span>
+        LOCALIDAD TCADENALARGA<span class="token punctuation">,</span>
+        MUNICIPIO TCADENALARGA<span class="token punctuation">,</span>
+        ESTADO TCADENAMEDIANA<span class="token punctuation">,</span>
+        PAIS TCADENALARGA<span class="token punctuation">,</span>
+        EMAIL TCADENALARGA<span class="token punctuation">,</span>
+        REFERENCIA TCADENALARGA<span class="token punctuation">,</span>
+        CODIGOPOSTAL TCODIGOPOSTAL<span class="token punctuation">,</span>
+        ACTIVO TBOOLEANO<span class="token punctuation">,</span>
+        REGIMENES TNOTA<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_FACTURACION_EMISORES <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

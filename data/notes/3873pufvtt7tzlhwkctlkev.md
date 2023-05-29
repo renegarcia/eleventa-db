@@ -1,0 +1,5 @@
+
+```sql
+CREATE DOMAIN TINTEGER AS INTEGER
+         DEFAULT 0;
+```

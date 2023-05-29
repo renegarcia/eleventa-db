@@ -1,0 +1,13 @@
+<h1 id="devoluciones">DEVOLUCIONES<a aria-hidden="true" class="anchor-heading icon-link" href="#devoluciones"></a></h1>
+<pre class="language-sql"><code class="language-sql"><span class="token keyword">CREATE</span> <span class="token keyword">TABLE</span> DEVOLUCIONES <span class="token punctuation">(</span>ID TLLAVE <span class="token operator">NOT</span> <span class="token boolean">NULL</span><span class="token punctuation">,</span>
+        TURNO_ID TLLAVE<span class="token punctuation">,</span>
+        TICKET_ID TLLAVE<span class="token punctuation">,</span>
+        TIPO_DEVOLUCION TBOOLEANO<span class="token punctuation">,</span>
+        PAGADO_EN TFECHAHORA<span class="token punctuation">,</span>
+        DEVUELTO_EN TFECHAHORA<span class="token punctuation">,</span>
+        CAJERO TCADENAMEDIANA<span class="token punctuation">,</span>
+        CAJA TCADENAMEDIANA<span class="token punctuation">,</span>
+        TOTAL_DEVUELTO TMONEDA<span class="token punctuation">,</span>
+        SINCRONIZADO_EN TFECHAHORA<span class="token punctuation">,</span>
+<span class="token keyword">CONSTRAINT</span> PK_DEVOLUCIONES <span class="token keyword">PRIMARY</span> <span class="token keyword">KEY</span> <span class="token punctuation">(</span>ID<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>

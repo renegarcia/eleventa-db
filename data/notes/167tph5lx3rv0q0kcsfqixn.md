@@ -1,0 +1,4 @@
+
+```sql
+CREATE GENERATOR GEN_USUARIOS_ID;
+```
